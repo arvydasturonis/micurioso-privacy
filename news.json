@@ -1,0 +1,9 @@
+[
+  {
+    "version": "0.1.5",
+    "date": "2026-07-23",
+    "type": "build",
+    "lt": "Pradinė MiCurioso versija: kolekcijos katalogavimas pagal nuotrauką su AI atpažinimu, brūkšninio kodo / ISBN skenavimas, dublikatų patikra, savos kategorijos, žymos ir pilnos atsarginės kopijos.",
+    "en": "Initial MiCurioso release: photo-based cataloging with AI identification, barcode / ISBN scanning, duplicate detection, custom categories, tags and full backups."
+  }
+]

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="lt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MiCurioso — Naujienos / News</title>
+<style>
+  body { font-family: -apple-system, Segoe UI, Roboto, Arial, sans-serif; max-width: 720px; margin: 2rem auto; padding: 0 1rem; line-height: 1.55; color: #1a1a1a; }
+  h1 { font-size: 1.6rem; margin-bottom: 0.25rem; }
+  .sub { color: #666; font-size: 0.9rem; margin-top: 0; }
+  a { color: #2a5db0; }
+  .toggle { margin: 1.25rem 0 2rem; }
+  .toggle button { font: inherit; font-size: 0.9rem; padding: 0.35rem 0.9rem; border: 1px solid #ccc; background: #f4f4f4; color: #333; cursor: pointer; }
+  .toggle button:first-child { border-radius: 6px 0 0 6px; }
+  .toggle button:last-child { border-radius: 0 6px 6px 0; border-left: none; }
+  .toggle button.active { background: #2a5db0; color: #fff; border-color: #2a5db0; }
+  .entry { padding: 1rem 0; border-top: 1px solid #eee; }
+  .entry:first-of-type { border-top: none; }
+  .meta { display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center; margin-bottom: 0.4rem; }
+  .date { color: #666; font-size: 0.9rem; }
+  .badge { font-size: 0.75rem; padding: 0.1rem 0.5rem; border-radius: 999px; font-weight: 600; }
+  .badge.version { background: #eef2fb; color: #2a5db0; }
+  .badge.ota { background: #eaf6ec; color: #2e7d32; }
+  .badge.build { background: #fdf0e6; color: #b25a00; }
+  .entry p { margin: 0.2rem 0 0; font-size: 0.98rem; }
+  .empty { color: #666; }
+  .footer { margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid #eee; font-size: 0.9rem; }
+  /* language visibility */
+  [data-lang="lt"] .en { display: none; }
+  [data-lang="en"] .lt { display: none; }
+</style>
+</head>
+<body data-lang="lt">
+
+<h1>MiCurioso</h1>
+<p class="sub"><span class="lt">Naujienos ir pakeitimai</span><span class="en">News &amp; changelog</span></p>
+
+<div class="toggle" role="group" aria-label="Language">
+  <button type="button" data-lang="lt" class="active">LT</button>
+  <button type="button" data-lang="en">EN</button>
+</div>
+
+<div id="list"><p class="empty"><span class="lt">Kraunama…</span><span class="en">Loading…</span></p></div>
+
+<div class="footer">
+  <a href="index.html"><span class="lt">Privatumo politika</span><span class="en">Privacy policy</span></a>
+</div>
+
+<script>
+  var TYPE_LABELS = {
+    ota:   { lt: "Atnaujinimas", en: "Update" },
+    build: { lt: "Nauja versija", en: "New version" }
+  };
+
+  function el(tag, cls, text) {
+    var n = document.createElement(tag);
+    if (cls) n.className = cls;
+    if (text != null) n.textContent = text;
+    return n;
+  }
+
+  function bilingual(tag, lt, en) {
+    var frag = document.createDocumentFragment();
+    frag.appendChild(el(tag, "lt", lt));
+    frag.appendChild(el(tag, "en", en));
+    return frag;
+  }
+
+  function render(entries) {
+    var list = document.getElementById("list");
+    list.textContent = "";
+    if (!Array.isArray(entries) || !entries.length) {
+      var empty = el("p", "empty");
+      empty.appendChild(bilingual("span", "Naujienų dar nėra.", "No news yet."));
+      list.appendChild(empty);
+      return;
+    }
+    entries.forEach(function (e) {
+      var entry = el("div", "entry");
+      var meta = el("div", "meta");
+      if (e.date) meta.appendChild(el("span", "date", e.date));
+      if (e.version) meta.appendChild(el("span", "badge version", "v" + e.version));
+      var t = TYPE_LABELS[e.type];
+      if (t) {
+        var badge = el("span", "badge " + e.type);
+        badge.appendChild(bilingual("span", t.lt, t.en));
+        meta.appendChild(badge);
+      }
+      entry.appendChild(meta);
+      if (e.lt) { var plt = el("p", "lt"); plt.textContent = e.lt; entry.appendChild(plt); }
+      if (e.en) { var pen = el("p", "en"); pen.textContent = e.en; entry.appendChild(pen); }
+      list.appendChild(entry);
+    });
+  }
+
+  var buttons = document.querySelectorAll(".toggle button");
+  buttons.forEach(function (b) {
+    b.addEventListener("click", function () {
+      var lang = b.getAttribute("data-lang");
+      document.body.setAttribute("data-lang", lang);
+      document.documentElement.lang = lang;
+      buttons.forEach(function (x) { x.classList.remove("active"); });
+      b.classList.add("active");
+    });
+  });
+
+  fetch("news.json", { cache: "no-store" })
+    .then(function (r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
+    .then(render)
+    .catch(function () {
+      var list = document.getElementById("list");
+      list.textContent = "";
+      var err = el("p", "empty");
+      err.appendChild(bilingual("span", "Nepavyko įkelti naujienų.", "Could not load news."));
+      list.appendChild(err);
+    });
+</script>
+
+</body>
+</html>
