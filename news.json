@@ -1,9 +1,65 @@
 [
   {
     "version": "0.1.5",
-    "date": "2026-07-23",
+    "date": "2026-07-22",
     "type": "build",
-    "lt": "Pradinė MiCurioso versija: kolekcijos katalogavimas pagal nuotrauką su AI atpažinimu, brūkšninio kodo / ISBN skenavimas, dublikatų patikra, savos kategorijos, žymos ir pilnos atsarginės kopijos.",
-    "en": "Initial MiCurioso release: photo-based cataloging with AI identification, barcode / ISBN scanning, duplicate detection, custom categories, tags and full backups."
+    "lt": "Paruošta versija Google Play uždaram testavimui: gamybinis build'as (AAB), pristatymo (splash) ekranas su firmine spalva ir onboarding pataisa po Android navigacijos juosta.",
+    "en": "Version prepared for Google Play closed testing: a production build (AAB), a branded splash screen, and an onboarding fix behind the Android navigation bar."
+  },
+  {
+    "version": "0.1.4",
+    "date": "2026-07-21",
+    "type": "ota",
+    "lt": "Naujas įvertinimo laukas — 0–10 slankiklis ragaujamoms kategorijoms (Viskis/Vynas/Alus jį gauna automatiškai). Pridėtas kategorijos redagavimo ekranas (pervadinimas, laukų šalinimas). Saugumo, korektiškumo ir prieinamumo (a11y) pataisos pagal kritinę peržiūrą.",
+    "en": "A new rating field — a 0–10 slider for tasting categories (Whisky/Wine/Beer get it automatically). Added a category editing screen (rename, remove fields). Security, correctness and accessibility (a11y) fixes from a critical review."
+  },
+  {
+    "version": "0.1.4",
+    "date": "2026-07-20",
+    "type": "ota",
+    "lt": "Pridėta pradinė instrukcija (onboarding) naujiems naudotojams, automatinis atnaujinimų tikrinimas ir UI pataisos pagal pirmų testuotojų atsiliepimus.",
+    "en": "Added first-run onboarding for new users, automatic update checks, and UI fixes based on early tester feedback."
+  },
+  {
+    "version": "0.1.4",
+    "date": "2026-07-16",
+    "type": "build",
+    "lt": "Naujas build. Rekomenduojamo Gemini modelio atnaujinimas pagal realų testavimą (stabilesnis atpažinimas) ir Play Console pristatymo medžiaga (feature graphic).",
+    "en": "A new build. Updated the recommended Gemini model based on real testing (more reliable identification) and Play Console store assets (feature graphic)."
+  },
+  {
+    "version": "0.1.3",
+    "date": "2026-07-15",
+    "type": "ota",
+    "lt": "Aiškios AI atpažinimo klaidų priežastys vietoj tylaus nepavykimo. Tekstinių laukų automatinis pildymas iš anksčiau įvestų reikšmių (pvz. Žanras). Sklandesnis pasiūlymų pasirinkimas su atidaryta klaviatūra.",
+    "en": "Clear reasons for AI identification errors instead of a silent failure. Text-field autocomplete from previously entered values (e.g. Genre). Smoother suggestion picking while the keyboard is open."
+  },
+  {
+    "version": "0.1.3",
+    "date": "2026-07-14",
+    "type": "build",
+    "lt": "Statistika perkelta į atskirą skirtuką su kategorijos filtru. 11 paruoštų kategorijų šablonų greitam kūrimui. Palaikoma antra (galinė) nuotrauka kategorijoms, kurioms jos reikia. Naujesni Gemini 3.x modeliai, programėlės ikona ir „Apie programėlę“ skiltis su kontaktais.",
+    "en": "Statistics moved to its own tab with a category filter. 11 ready-made category templates for quick setup. Support for a second (back) photo for categories that need it. Newer Gemini 3.x models, an app icon, and an “About” section with contacts."
+  },
+  {
+    "version": "0.1.1",
+    "date": "2026-07-13",
+    "type": "ota",
+    "lt": "Pilna dvikalbystė LT/EN su kalbos perjungikliu (įskaitant Gemini atpažinimą pagal sąsajos kalbą). Šviesi/tamsi tema (automatinė arba rankinė). Statistikos ekranas su grafikais. Rūšiavimas kataloge ir paieška pagal žymes.",
+    "en": "Full LT/EN bilingual support with a language switch (including Gemini identification in the interface language). Light/dark theme (automatic or manual). A statistics screen with charts. Catalog sorting and search by tags."
+  },
+  {
+    "version": "0.1.1",
+    "date": "2026-07-12",
+    "type": "ota",
+    "lt": "Didelis žingsnis: katalogas tampa daugiakategorinis — gali kurti savas kategorijas su savais laukais. Pridėta knygų kategorija su ISBN brūkšninio kodo skenavimu ir automatiniu pildymu iš Open Library. Nuotraukos suspaudžiamos prieš saugojimą ir įkėlimą.",
+    "en": "A big step: the catalog becomes multi-category — you can create your own categories with your own fields. Added a books category with ISBN barcode scanning and auto-fill from Open Library. Photos are compressed before storage and upload."
+  },
+  {
+    "version": "0.1.0",
+    "date": "2026-07-11",
+    "type": "build",
+    "lt": "Pradžia. Pirmoji MiCurioso (tuomet „Stikliukai“) versija: fotografuoji daiktą, Gemini AI jį atpažįsta, patikrini ar tokio jau neturi, pažymi žymėmis. Katalogas su paieška ir filtrais, įrašo detalės su redagavimu, atsarginė kopija į zip failą. Visi duomenys — tik telefone.",
+    "en": "The beginning. The first MiCurioso (then “Stikliukai”) release: photograph an item, Gemini AI identifies it, check whether you already own one, tag it. A catalog with search and filters, item detail with editing, and zip-file backup. All data stays on the phone."
   }
 ]
