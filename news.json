@@ -3,6 +3,13 @@
     "version": "0.2.1",
     "date": "2026-08-04",
     "type": "ota",
+    "lt": "Tikslesnis dublikatų atpažinimas: panašumo riba perkalibruota pagal realius duomenis, o daiktai su sutampančiu užrašu dabar visada rodomi pirmi su žyme „Užrašas sutampa\".",
+    "en": "More accurate duplicate detection: the similarity threshold was recalibrated against real data, and items with a matching inscription now always appear first, tagged 'Inscription matches'."
+  },
+  {
+    "version": "0.2.1",
+    "date": "2026-08-04",
+    "type": "ota",
     "lt": "Dublikatų peržiūra: porų paieška pagal tekstą, pilnai išskleidžiamos balų juostos ir tikslesni panašumo balai (vektoriai atnaujinami redaguojant; Nustatymuose naujas mygtukas „Perskaičiuoti visus vektorius\").",
     "en": "Duplicate review: text search for pairs, fully expandable score bands, and more accurate similarity scores (vectors refresh on edit; new 'Recompute all vectors' button in Settings)."
   },
