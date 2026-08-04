@@ -1,5 +1,12 @@
 [
   {
+    "version": "0.2.0",
+    "date": "2026-08-04",
+    "type": "ota",
+    "lt": "Testavimo pataisos: žymių/lauko pasiūlymų pasirinkimas, dalinimosi kortelės nuotrauka, GPS vietos nustatymo pakartojimas, AI atnaujinimo limitų valdymas, papildytos šalys.",
+    "en": "Testing fixes: tag/field suggestion selection, share card photo, location detection retry, AI refresh rate limiting, added countries."
+  },
+  {
     "version": "0.1.5",
     "date": "2026-07-22",
     "type": "build",
