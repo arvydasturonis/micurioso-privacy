@@ -3,6 +3,13 @@
     "version": "0.2.1",
     "date": "2026-08-04",
     "type": "ota",
+    "lt": "Sukalibruotas dublikatų atpažinimo panašumo slenkstis (0.85); katalogo filtro juostos (šalis/kategorija) dabar rikiuojamos pagal dažniausiai turimus, ne abėcėlę.",
+    "en": "Calibrated the duplicate-detection similarity threshold (0.85); catalog filter chips (country/category) are now sorted by how often you have them, not alphabetically."
+  },
+  {
+    "version": "0.2.1",
+    "date": "2026-08-04",
+    "type": "ota",
     "lt": "Galimų dublikatų peržiūros ekranas dabar rodo tikrą panašumo balų histogramą (juostos su realiu porų skaičiumi + pavyzdžiai), kad būtų lengviau tiksliai nustatyti dublikatų ribą.",
     "en": "The possible-duplicates review screen now shows a real similarity-score histogram (bands with actual pair counts + samples) to help pinpoint the duplicate threshold accurately."
   },
