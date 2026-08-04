@@ -1,5 +1,12 @@
 [
   {
+    "version": "0.2.1",
+    "date": "2026-08-04",
+    "type": "ota",
+    "lt": "Pataisytas žymių/laukų pasiūlymų pasirinkimo išsaugojimas redaguojant esamą įrašą; galimų dublikatų peržiūros ekranas dabar rodo ir MIN_COSINE ribos zoną kalibravimui.",
+    "en": "Fixed tag/field suggestion selection not saving when editing an existing item; the possible-duplicates review screen now also shows pairs near the MIN_COSINE threshold for calibration."
+  },
+  {
     "version": "0.2.0",
     "date": "2026-08-04",
     "type": "ota",
