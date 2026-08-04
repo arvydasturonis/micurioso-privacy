@@ -3,6 +3,13 @@
     "version": "0.2.1",
     "date": "2026-08-04",
     "type": "ota",
+    "lt": "Horizontalios (landscape) padėties pataisymai: katalogo tinklelis rodo daugiau nuotraukų, įrašo peržiūroje ir naujo įrašo formoje nuotrauka perkelta į atskirą stulpelį, dublikatų langai pertvarkyti, sutvarkytas perbraukimo tarp įrašų lygiavimas.",
+    "en": "Landscape layout fixes: the catalog grid now fits more photos, the item detail and new-item form move the photo into its own column, the duplicate screens were rearranged, and swiping between items aligns correctly."
+  },
+  {
+    "version": "0.2.1",
+    "date": "2026-08-04",
+    "type": "ota",
     "lt": "Tikslesnis dublikatų atpažinimas: panašumo riba perkalibruota pagal realius duomenis, o daiktai su sutampančiu užrašu dabar visada rodomi pirmi su žyme „Užrašas sutampa\".",
     "en": "More accurate duplicate detection: the similarity threshold was recalibrated against real data, and items with a matching inscription now always appear first, tagged 'Inscription matches'."
   },
