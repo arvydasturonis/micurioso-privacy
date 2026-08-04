@@ -3,6 +3,13 @@
     "version": "0.2.1",
     "date": "2026-08-04",
     "type": "ota",
+    "lt": "Dublikatų peržiūra: porų paieška pagal tekstą, pilnai išskleidžiamos balų juostos ir tikslesni panašumo balai (vektoriai atnaujinami redaguojant; Nustatymuose naujas mygtukas „Perskaičiuoti visus vektorius\").",
+    "en": "Duplicate review: text search for pairs, fully expandable score bands, and more accurate similarity scores (vectors refresh on edit; new 'Recompute all vectors' button in Settings)."
+  },
+  {
+    "version": "0.2.1",
+    "date": "2026-08-04",
+    "type": "ota",
     "lt": "Sukalibruotas dublikatų atpažinimo panašumo slenkstis (0.85); katalogo filtro juostos (šalis/kategorija) dabar rikiuojamos pagal dažniausiai turimus, ne abėcėlę.",
     "en": "Calibrated the duplicate-detection similarity threshold (0.85); catalog filter chips (country/category) are now sorted by how often you have them, not alphabetically."
   },
