@@ -1,6 +1,13 @@
 [
   {
     "version": "0.2.1",
+    "date": "2026-08-05",
+    "type": "ota",
+    "lt": "Dublikatų kalibravimo ekrane (Nustatymai → „Galimi dublikatai\") panašumo balai dabar rodomi trimis skaitmenimis po kablelio — geriau matosi, kurios poros vos praeina ribą, o kurios vos nepraeina.",
+    "en": "The duplicate calibration screen (Settings → \"Possible duplicates\") now shows similarity scores to three decimals, so it is clearer which pairs only just cross the threshold and which only just miss it."
+  },
+  {
+    "version": "0.2.1",
     "date": "2026-08-04",
     "type": "ota",
     "lt": "Horizontalios (landscape) padėties pataisymai: katalogo tinklelis rodo daugiau nuotraukų, įrašo peržiūroje ir naujo įrašo formoje nuotrauka perkelta į atskirą stulpelį, dublikatų langai pertvarkyti, sutvarkytas perbraukimo tarp įrašų lygiavimas.",
