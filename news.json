@@ -3,8 +3,8 @@
     "version": "0.2.1",
     "date": "2026-08-08",
     "type": "ota",
-    "lt": "Zymiu ir lauku reiksmiu pasiulymai dabar rodomi kompaktiska juosta, kuri telpa virs klaviaturos - anksciau ja uzstodavo klaviatura ir reikedavo slinkti, o horizontalioje padetyje jos nesimatydavo visai.",
-    "en": "Tag and field-value suggestions now appear as a compact strip that fits above the keyboard - previously the keyboard covered it and you had to scroll, and in landscape it was not visible at all."
+    "lt": "Žymių ir laukų reikšmių pasiūlymai dabar rodomi kompaktiška juosta, kuri telpa virš klaviatūros — anksčiau ją užstodavo klaviatūra ir reikėdavo slinkti, o horizontalioje padėtyje jos nesimatydavo visai.",
+    "en": "Tag and field-value suggestions now appear as a compact strip that fits above the keyboard — previously the keyboard covered it and you had to scroll, and in landscape it was not visible at all."
   },
   {
     "version": "0.2.1",
