@@ -2,6 +2,13 @@
   {
     "version": "0.2.1",
     "date": "2026-08-08",
+    "type": "build",
+    "lt": "Google Play versija atnaujinta iš 0.1.5 į 0.2.1 — didžiausias leidimas iki šiol. Dublikatų atpažinimas dabar semantinis: atpažįsta tą patį daiktą net jei aprašytas kitais žodžiais, o Nustatymuose atsirado „Galimi dublikatai\" peržiūros ekranas. Nauja: dalinimosi kortelė daikto nuotraukai, valiutos pasirinkimas, naršymas perbraukiant tarp įrašų, nuotraukos apkarpymas iškart po nufotografavimo, greitesnis katalogas, horizontalios (landscape) padėties palaikymas, statistikoje atskira „Nenurodyta\" grupė, o pasirinkimų sąrašai rikiuojami pagal naudojimo dažnumą. Taip pat atsparesnis atsarginių kopijų kūrimas ir atkūrimas, pataisytas Android „atgal\" mygtukas ir pašalintas nenaudotas mikrofono leidimas.",
+    "en": "The Google Play version moves from 0.1.5 to 0.2.1 — the largest release so far. Duplicate detection is now semantic: it recognises the same item even when described in different words, and Settings gained a \"Possible duplicates\" review screen. Also new: a share card for an item's photo, a currency setting, swipe navigation between items, photo cropping right after the shot, a faster catalog, landscape support, a separate \"Not specified\" group in statistics, and option lists sorted by how often you use them. Plus more robust backup/restore, a fixed Android back button, and the unused microphone permission removed."
+  },
+  {
+    "version": "0.2.1",
+    "date": "2026-08-08",
     "type": "ota",
     "lt": "Žymių ir laukų reikšmių pasiūlymai dabar rodomi kompaktiška juosta, kuri telpa virš klaviatūros — anksčiau ją užstodavo klaviatūra ir reikėdavo slinkti, o horizontalioje padėtyje jos nesimatydavo visai.",
     "en": "Tag and field-value suggestions now appear as a compact strip that fits above the keyboard — previously the keyboard covered it and you had to scroll, and in landscape it was not visible at all."
