@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="lt">
+<html lang="en" data-lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -29,14 +29,15 @@
   [data-lang="lt"] .en { display: none; }
   [data-lang="en"] .lt { display: none; }
 </style>
+<script src="lang.js"></script>
 </head>
-<body data-lang="lt">
+<body>
 
 <h1>MiCurioso</h1>
 <p class="sub"><span class="lt">Naujienos ir pakeitimai</span><span class="en">News &amp; changelog</span></p>
 
 <div class="toggle" role="group" aria-label="Language">
-  <button type="button" data-lang="lt" class="active">LT</button>
+  <button type="button" data-lang="lt">LT</button>
   <button type="button" data-lang="en">EN</button>
 </div>
 
@@ -93,16 +94,7 @@
     });
   }
 
-  var buttons = document.querySelectorAll(".toggle button");
-  buttons.forEach(function (b) {
-    b.addEventListener("click", function () {
-      var lang = b.getAttribute("data-lang");
-      document.body.setAttribute("data-lang", lang);
-      document.documentElement.lang = lang;
-      buttons.forEach(function (x) { x.classList.remove("active"); });
-      b.classList.add("active");
-    });
-  });
+  // Kalbos parinkimą ir LT/EN mygtukus tvarko lang.js (bendras su index.html).
 
   fetch("news.json", { cache: "no-store" })
     .then(function (r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })

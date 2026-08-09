@@ -1,21 +1,42 @@
 <!DOCTYPE html>
-<html lang="lt">
+<html lang="en" data-lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>MiCurioso — Privatumo politika</title>
+<title>MiCurioso — Privatumo politika / Privacy policy</title>
 <style>
   body { font-family: -apple-system, Segoe UI, Roboto, Arial, sans-serif; max-width: 720px; margin: 2rem auto; padding: 0 1rem; line-height: 1.55; color: #1a1a1a; }
-  h1 { font-size: 1.6rem; }
+  h1 { font-size: 1.6rem; margin-bottom: 0.25rem; }
   h2 { font-size: 1.15rem; margin-top: 2rem; }
   p, li { font-size: 0.98rem; }
+  a { color: #2a5db0; }
   .updated { color: #666; font-size: 0.9rem; }
+  .toggle { margin: 1.25rem 0 2rem; }
+  .toggle button { font: inherit; font-size: 0.9rem; padding: 0.35rem 0.9rem; border: 1px solid #ccc; background: #f4f4f4; color: #333; cursor: pointer; }
+  .toggle button:first-child { border-radius: 6px 0 0 6px; }
+  .toggle button:last-child { border-radius: 0 6px 6px 0; border-left: none; }
+  .toggle button.active { background: #2a5db0; color: #fff; border-color: #2a5db0; }
+  .footer { margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid #eee; font-size: 0.9rem; }
+  /* language visibility */
+  [data-lang="lt"] .en { display: none; }
+  [data-lang="en"] .lt { display: none; }
 </style>
+<script src="lang.js"></script>
 </head>
 <body>
 
-<h1>MiCurioso — Privatumo politika</h1>
-<p class="updated">Paskutinį kartą atnaujinta: 2026-07-15 · <a href="news.html">Naujienos / News</a></p>
+<h1>MiCurioso</h1>
+<p class="updated">
+  <span class="lt">Privatumo politika · paskutinį kartą atnaujinta: 2026-08-09</span>
+  <span class="en">Privacy policy · last updated: 2026-08-09</span>
+</p>
+
+<div class="toggle" role="group" aria-label="Language">
+  <button type="button" data-lang="lt">LT</button>
+  <button type="button" data-lang="en">EN</button>
+</div>
+
+<div class="lt">
 
 <p>
 MiCurioso (Android paketo pavadinimas <code>com.arvydas.stikliukai</code>) yra asmeninė
@@ -102,6 +123,102 @@ puslapyje su nauja atnaujinimo data.
 Klausimus dėl privatumo gali siųsti adresu:
 <a href="mailto:arvydas.turonis@gmail.com">arvydas.turonis@gmail.com</a>
 </p>
+
+</div>
+
+<div class="en">
+
+<p>
+MiCurioso (Android package name <code>com.arvydas.stikliukai</code>) is a personal
+collection catalog app. It is built for a single user on a single device — there is
+no account, no sign-in, and no server that collects your data. Everything about your
+collection stays on your phone.
+</p>
+
+<h2>What the app stores</h2>
+<p>
+The app stores locally, in your phone's storage: photos of the items in your
+collection, their descriptions and other field values (for example country, price,
+place of purchase), tags, and — if you grant permission — GPS coordinates used to
+fill in the place of purchase automatically. None of this is sent anywhere
+automatically; it stays on your device until you delete it or uninstall the app.
+</p>
+
+<h2>Use of the camera</h2>
+<p>
+The camera is used to photograph items in your collection and to scan book barcodes
+(ISBN). Photos are stored only on your phone; audio recording is not used and the
+app does not request that permission.
+</p>
+
+<h2>Use of location (GPS)</h2>
+<p>
+If you grant location permission, the app uses it only to fill in the place of
+purchase for a new item automatically. Location data is not sent anywhere — it is
+stored locally, together with that item's record. You can revoke the permission at
+any time in your phone's settings; the rest of the app keeps working.
+</p>
+
+<h2>Third-party services</h2>
+<ul>
+  <li>
+    <strong>Google Gemini API</strong> — if you choose to use automatic item
+    recognition from a photo, that photo is sent to the Google Gemini API using an
+    API key that you create yourself and enter in the app. Google's Gemini API terms
+    of service and privacy policy apply to that transfer. This feature is entirely
+    optional — you can always add an item without automatic recognition.
+  </li>
+  <li>
+    <strong>Open Library API</strong> — in the books category, after an ISBN barcode
+    is scanned, only the ISBN itself is sent to this free public service in order to
+    look up the book's title and author. No personal data is sent.
+  </li>
+  <li>
+    <strong>Sentry</strong> — an error monitoring service used to keep the app
+    stable. Technical crash reports are sent to it automatically: device model,
+    operating system version, app version, and the error description/code location.
+    The contents of your collection (photos, descriptions, location) are not included
+    in those reports.
+  </li>
+</ul>
+
+<h2>Backups</h2>
+<p>
+The app lets you export your whole collection into a single zip file and import it
+back. That file is created and shared by you (for example saved to cloud storage or
+sent to yourself) through your phone's standard share menu — the app never uploads
+it anywhere on its own.
+</p>
+
+<h2>Deleting your data</h2>
+<p>
+You can delete any item in your collection directly in the app. Uninstalling the app
+deletes all data it created (the database and the photos) along with it.
+</p>
+
+<h2>Children's privacy</h2>
+<p>
+The app is not directed at children and does not knowingly collect data from anyone
+under 13 years of age.
+</p>
+
+<h2>Changes to this policy</h2>
+<p>
+If this privacy policy changes, the updated version will be published on this same
+page with a new "last updated" date.
+</p>
+
+<h2>Contact</h2>
+<p>
+Questions about privacy can be sent to:
+<a href="mailto:arvydas.turonis@gmail.com">arvydas.turonis@gmail.com</a>
+</p>
+
+</div>
+
+<div class="footer">
+  <a href="news.html"><span class="lt">Naujienos ir pakeitimai</span><span class="en">News &amp; changelog</span></a>
+</div>
 
 </body>
 </html>
