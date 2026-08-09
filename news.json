@@ -3,6 +3,13 @@
     "version": "0.2.1",
     "date": "2026-08-09",
     "type": "ota",
+    "lt": "Angliškame sąsajos variante ištaisytos likusios lietuviškos vietos: trūkę šalių vertimai, kategorijų laukai ir jų parinktys, paieška pagal išverstą pavadinimą ir teisinga abėcėlinė tvarka.",
+    "en": "Fixed the remaining Lithuanian leftovers in the English interface: missing country translations, category fields and their options, search by the translated name, and correct alphabetical sorting."
+  },
+  {
+    "version": "0.2.1",
+    "date": "2026-08-09",
+    "type": "ota",
     "lt": "Išvaizdos pagražinimai: tvarkingesnės katalogo kortelės, vienodi mygtukai, aiškesnės tuščios būsenos ir atskiras pranešimas, kai paieška nieko neranda. Statistikos diagramos spalvos nebesusilieja, o šalių sąrašas telpa į du stulpelius. Nustatymuose atsirado nuorodos į naujienas ir privatumo politiką, o modelių sąraše liko tik naujoji Gemini 3 karta.",
     "en": "Visual polish: tidier catalog cards, consistent buttons, clearer empty states and a separate message when a search finds nothing. Chart colours no longer blend together and the value list now fits into two columns. Settings gained links to the news and privacy pages, and the model list now offers only the newer Gemini 3 generation."
   },
