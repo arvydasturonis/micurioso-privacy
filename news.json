@@ -3,6 +3,13 @@
     "version": "0.2.1",
     "date": "2026-08-09",
     "type": "ota",
+    "lt": "Pirmą kartą paleidus programėlę dabar galima iš karto susižymėti, kokias kolekcijas kaupsi — pažymėtos kategorijos (Monetos, Alus, Vynas, Knygos, Pašto ženklai ir kitos) sukuriamos automatiškai. Stikliukai pažymėti iš anksto, bet juos galima atžymėti, jei jų nekolekcionuoji.",
+    "en": "On first launch you can now mark which collections you want to keep — the categories you tick (Coins, Beer, Wine, Books, Stamps and more) are created for you right away. Shot Glasses are pre-selected, but you can uncheck them if they are not your thing."
+  },
+  {
+    "version": "0.2.1",
+    "date": "2026-08-09",
+    "type": "ota",
     "lt": "Angliškame sąsajos variante ištaisytos likusios lietuviškos vietos: trūkę šalių vertimai, kategorijų laukai ir jų parinktys, paieška pagal išverstą pavadinimą ir teisinga abėcėlinė tvarka.",
     "en": "Fixed the remaining Lithuanian leftovers in the English interface: missing country translations, category fields and their options, search by the translated name, and correct alphabetical sorting."
   },
