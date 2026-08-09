@@ -3,6 +3,13 @@
     "version": "0.2.1",
     "date": "2026-08-09",
     "type": "ota",
+    "lt": "Prieinamumo pataisymai: katalogo kortelės dabar ekrano skaitytuvui perskaitomos (pagrindinė reikšmė ir aprašymas), o kategorijų pasirinkimo eilutės pasako, ar jos pažymėtos. Įprastam naudojimui nieko nepasikeitė.",
+    "en": "Accessibility fixes: catalog cards are now read out properly by screen readers (primary value and description), and the category picker rows announce whether they are checked. Nothing changes for regular use."
+  },
+  {
+    "version": "0.2.1",
+    "date": "2026-08-09",
+    "type": "ota",
     "lt": "Pirmą kartą paleidus programėlę dabar galima iš karto susižymėti, kokias kolekcijas kaupsi — pažymėtos kategorijos (Monetos, Alus, Vynas, Knygos, Pašto ženklai ir kitos) sukuriamos automatiškai. Stikliukai pažymėti iš anksto, bet juos galima atžymėti, jei jų nekolekcionuoji.",
     "en": "On first launch you can now mark which collections you want to keep — the categories you tick (Coins, Beer, Wine, Books, Stamps and more) are created for you right away. Shot Glasses are pre-selected, but you can uncheck them if they are not your thing."
   },
