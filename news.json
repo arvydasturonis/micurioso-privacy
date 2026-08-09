@@ -1,6 +1,13 @@
 [
   {
     "version": "0.2.1",
+    "date": "2026-08-09",
+    "type": "ota",
+    "lt": "Horizontalioje padėtyje klaviatūra nebeuždengia viso ekrano: redaguojant žymę matomas ir pats laukas, ir siūlomų žymių juosta.",
+    "en": "In landscape the keyboard no longer covers the whole screen: while editing a tag you can see both the input field and the suggested tags."
+  },
+  {
+    "version": "0.2.1",
     "date": "2026-08-08",
     "type": "ota",
     "lt": "Horizontalioje padėtyje kataloge paslėpta viršutinė juosta — telpa daugiau nuotraukų. Kategorijų skirtukai nebeužlipa ant ekrano iškirptės. Greitesnis „Galimi dublikatai“ ekranas: ieškant poros nuotraukos nebemirksi.",
