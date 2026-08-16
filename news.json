@@ -3,6 +3,13 @@
     "version": "0.2.2",
     "date": "2026-08-16",
     "type": "ota",
+    "lt": "Masinio pridėjimo peržiūroje nugarėlių juostos nebeturi pilkų paraščių — matosi tik pati knygos nugarėlė. Lentynos nuotrauka apdorojama taupiau: ji nebedekoduojama du kartus, tad senesniame telefone atpažinimas rečiau nutrūksta dėl atminties.",
+    "en": "In the bulk-add review, spine strips no longer have grey margins — you see just the book spine itself. Shelf photos are processed more frugally: they are no longer decoded twice, so on an older phone recognition is less likely to run out of memory."
+  },
+  {
+    "version": "0.2.2",
+    "date": "2026-08-16",
+    "type": "ota",
     "lt": "Masinis knygų pridėjimas iš lentynos nuotraukos tapo gerokai patogesnis: peržiūroje dabar matai pačią nugarėlę — tokį patį vaizdą, kokį gaus įrašas — ir gali ją apversti vienu paspaudimu, jei leidėjas pavadinimą atspausdino kita kryptimi. Knygos be atpažinto pavadinimo nebepridedamos tyliai. Knygų kategorijos katalogas tapo sąrašu su matomomis nugarėlėmis, o žanrą dabar parenka AI iš fiksuoto sąrašo, tad filtras lieka tvarkingas. Kataloge atsirado masinis trynimas: palaikyk kortelę, pažymėk kelias ir ištrink iš karto. Langas „Galimi dublikatai“ suskirstytas pagal kategorijas. Ilgi pavadinimai nebeslenka į šoną, o laužomi per kelias eilutes. Nustatymuose atsirado dar vienas Gemini modelis.",
     "en": "Bulk-adding books from a shelf photo got noticeably better: the review list now shows the actual spine — exactly the image the item will get — and you can flip it with one tap when the publisher printed the title the other way round. Books with no recognized title are no longer added silently. A book category's catalog is now a list with visible spines, and the genre is filled in by AI from a fixed list, so the filter stays tidy. The catalog gained bulk delete: long-press a card, select several, delete them at once. The possible-duplicates screen is now split by category. Long titles wrap onto several lines instead of scrolling sideways. Settings gained one more Gemini model."
   },
