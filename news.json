@@ -3,6 +3,13 @@
     "version": "0.2.2",
     "date": "2026-08-17",
     "type": "ota",
+    "lt": "Lentynos nuotraukoje dabar atpažįstamos ir gulinčios knygos — anksčiau jos būdavo praleidžiamos visos. Gretimos lentynos kraštas, įkliuvęs į kadrą, nebepatenka į kolekciją: tokios eilutės pažymimos ir lieka be varnelės. Peržiūroje atsirado „Ką aptiko nuotraukoje“ — visos knygos apibrėžtos ant pačios nuotraukos, tad matai ir tai, ko programa nepamatė. Nugarėlę, kurios pavadinimas nuskaitytas netiksliai, galima perskaityti iš arčiau vienu paspaudimu.",
+    "en": "Books lying flat in stacks are now detected in a shelf photo — before, every one of them was missed. A neighbouring shelf caught at the edge of the frame no longer slips into your collection: those rows are flagged and left unchecked. The review screen gained “What it found in the photo” — every book outlined on the photo itself, so you can also see what the app did not see. A spine whose title came out wrong can be read closer with one tap."
+  },
+  {
+    "version": "0.2.2",
+    "date": "2026-08-17",
+    "type": "ota",
     "lt": "Knygų sąrašas dabar teisingai rikiuojasi pagal pavadinimą. „Galimi dublikatai“ — palietus porą atsiveria tik tie du įrašai, tad juos galima palyginti perbraukiant. Masiniame pridėjime nepavykusi nuotrauka pasako priežastį (pavyzdžiui, „nėra ryšio“), o ne vien „atpažinti nepavyko“.",
     "en": "The book list now sorts by title correctly. In “Possible duplicates”, tapping a pair opens just those two items, so you can compare them by swiping. In bulk add, a failed photo now says why (for example “no connection”) instead of only “recognition failed”."
   },
