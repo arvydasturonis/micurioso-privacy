@@ -1,6 +1,13 @@
 [
   {
     "version": "0.2.2",
+    "date": "2026-08-17",
+    "type": "ota",
+    "lt": "Knygų sąrašas dabar teisingai rikiuojasi pagal pavadinimą. „Galimi dublikatai“ — palietus porą atsiveria tik tie du įrašai, tad juos galima palyginti perbraukiant. Masiniame pridėjime nepavykusi nuotrauka pasako priežastį (pavyzdžiui, „nėra ryšio“), o ne vien „atpažinti nepavyko“.",
+    "en": "The book list now sorts by title correctly. In “Possible duplicates”, tapping a pair opens just those two items, so you can compare them by swiping. In bulk add, a failed photo now says why (for example “no connection”) instead of only “recognition failed”."
+  },
+  {
+    "version": "0.2.2",
     "date": "2026-08-16",
     "type": "ota",
     "lt": "Masinio pridėjimo peržiūroje nugarėlių juostos nebeturi pilkų paraščių — matosi tik pati knygos nugarėlė. Lentynos nuotrauka apdorojama taupiau: ji nebedekoduojama du kartus, tad senesniame telefone atpažinimas rečiau nutrūksta dėl atminties.",
