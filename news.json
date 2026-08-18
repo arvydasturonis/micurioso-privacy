@@ -3,6 +3,13 @@
     "version": "0.2.2",
     "date": "2026-08-18",
     "type": "ota",
+    "lt": "Masinis knygų pridėjimas: prieš atpažinimą dabar galima nukirpti kadro viršų ir apačią, tad gretimos lentynos knygos, į kadrą įėjusios tik puse, į sąrašą net nepakliūva. Nukirpimas nesumažina raiškos: atpažinimui siunčiamos nuotraukos mastelis nepakinta, tik joje nebelieka to, ko nereikia.",
+    "en": "Bulk book adding: before recognition you can now crop the top and bottom of the frame, so half-visible books from the neighbouring shelf never reach the list at all. Cropping costs no resolution: the photo sent for recognition keeps the same scale, it simply no longer contains what you did not want."
+  },
+  {
+    "version": "0.2.2",
+    "date": "2026-08-18",
+    "type": "ota",
     "lt": "Knygos, nufotografuotos iš priekio, nebeguldomos ant šono. O kai atpažinimas nepavyksta, ekranas dabar pasako priežastį (pavyzdžiui serverio klaidos kodą), o ne vien tai, kad nepavyko.",
     "en": "Books photographed cover-out are no longer laid on their side. And when recognition fails, the screen now tells you why (for example the server error code) instead of only that it failed."
   },
