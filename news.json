@@ -3,6 +3,13 @@
     "version": "0.2.2",
     "date": "2026-08-18",
     "type": "ota",
+    "lt": "Knygos, nufotografuotos iš priekio, nebeguldomos ant šono. O kai atpažinimas nepavyksta, ekranas dabar pasako priežastį (pavyzdžiui serverio klaidos kodą), o ne vien tai, kad nepavyko.",
+    "en": "Books photographed cover-out are no longer laid on their side. And when recognition fails, the screen now tells you why (for example the server error code) instead of only that it failed."
+  },
+  {
+    "version": "0.2.2",
+    "date": "2026-08-18",
+    "type": "ota",
     "lt": "Masinis knygų pridėjimas: peržiūroje dabar iškart matoma, kurios knygos gaus visos lentynos nuotrauką, o ne savo nugarėlės iškarpą, ir tokios eilutės pažymimos. Programa nustojo be reikalo laikyti atmintyje apdorotas nuotraukas, tad kelių lentynos kadrų apdorojimas telefonui nebeatsieina taip sunkiai.",
     "en": "Bulk book adding: the review now shows upfront which books will get the whole shelf photo instead of their own spine crop, and marks those rows. The app no longer holds processed photos in memory longer than needed, so working through several shelf photos is much lighter on the phone."
   },
