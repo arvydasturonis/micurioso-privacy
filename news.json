@@ -3,6 +3,13 @@
     "version": "0.2.2",
     "date": "2026-08-18",
     "type": "ota",
+    "lt": "Masinio pridėjimo peržiūra: pasvirusių ar tankiai sustatytų knygų iškarpos nebesusitraukia į neįskaitomą plaušelį, nugarėlės juosta didesnė, o apvertimo ir „perskaityti iš arčiau\" mygtukai nebenukerpami. Kadro karpymo ir ISBN skenavimo languose mygtukas „Atšaukti\" nebelieka po sistemine navigacijos juosta.",
+    "en": "Bulk add review: crops of leaning or tightly packed books no longer shrink to an unreadable sliver, the spine strip is larger, and the flip and \"read it closer\" buttons are no longer clipped. In the frame-crop and ISBN scan screens the \"Cancel\" button no longer sits under the system navigation bar."
+  },
+  {
+    "version": "0.2.2",
+    "date": "2026-08-18",
+    "type": "ota",
     "lt": "Masinis knygų pridėjimas: prieš atpažinimą dabar galima nukirpti kadro viršų ir apačią, tad gretimos lentynos knygos, į kadrą įėjusios tik puse, į sąrašą net nepakliūva. Nukirpimas nesumažina raiškos: atpažinimui siunčiamos nuotraukos mastelis nepakinta, tik joje nebelieka to, ko nereikia.",
     "en": "Bulk book adding: before recognition you can now crop the top and bottom of the frame, so half-visible books from the neighbouring shelf never reach the list at all. Cropping costs no resolution: the photo sent for recognition keeps the same scale, it simply no longer contains what you did not want."
   },
