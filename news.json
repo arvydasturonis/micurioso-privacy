@@ -3,6 +3,13 @@
     "version": "0.2.2",
     "date": "2026-08-18",
     "type": "ota",
+    "lt": "Kai kvietimas į atpažinimą nutrūksta, programa dabar automatiškai pabando dar kartą — dažniausiai to pakanka, nes serveris būna tik laikinai perkrautas. O jei vis tiek nepavyksta, žinutė nebetvirtina, kad „nėra ryšio\": ji pasako tik tai, ką tikrai žinome — kad susisiekti su serveriu nepavyko.",
+    "en": "When a recognition request drops, the app now retries once automatically — usually that is enough, since the server is only briefly overloaded. And if it still fails, the message no longer claims \"no connection\": it says only what we actually know, that the server could not be reached."
+  },
+  {
+    "version": "0.2.2",
+    "date": "2026-08-18",
+    "type": "ota",
     "lt": "Masinio pridėjimo peržiūra: pasvirusių ar tankiai sustatytų knygų iškarpos nebesusitraukia į neįskaitomą plaušelį, nugarėlės juosta didesnė, o apvertimo ir „perskaityti iš arčiau\" mygtukai nebenukerpami. Kadro karpymo ir ISBN skenavimo languose mygtukas „Atšaukti\" nebelieka po sistemine navigacijos juosta.",
     "en": "Bulk add review: crops of leaning or tightly packed books no longer shrink to an unreadable sliver, the spine strip is larger, and the flip and \"read it closer\" buttons are no longer clipped. In the frame-crop and ISBN scan screens the \"Cancel\" button no longer sits under the system navigation bar."
   },
