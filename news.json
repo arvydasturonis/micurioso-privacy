@@ -3,6 +3,13 @@
     "version": "0.2.2",
     "date": "2026-08-19",
     "type": "ota",
+    "lt": "Knygų aprašymų nebereikia palikti tuščių. Nustatymuose atsirado „Papildyti knygų aprašymus\" - jis perklausia Gemini apie visas knygas, kurioms trūksta aprašymo ar žanro, ir rašo tik į tuščius laukus. Atskiros knygos ekrane yra „Paklausti apie šią knygą\": pravertė ištaisius pavadinimą, kai senas aprašymas yra apie ne tą knygą (tada paklausiama, ar perrašyti). Ir masinio pridėjimo suvestinė nuo šiol atskiria, kurių knygų Gemini nežinojo, nuo tų, kurių net nebuvo klausta.",
+    "en": "Empty book descriptions no longer have to stay empty. Settings now has \"Fill in book descriptions\" - it asks Gemini again about every book missing a description or a genre, and only ever writes into empty fields. A single book has its own \"Ask about this book\" button, which helps after you correct a title and the old description is about a different book (it asks before replacing). And the bulk add summary now separates the books Gemini did not know from the ones it was never even asked about."
+  },
+  {
+    "version": "0.2.2",
+    "date": "2026-08-19",
+    "type": "ota",
     "lt": "Katalogo filtre atsirado „Nenurodyta\": juo atsifiltruoji įrašus, kuriems reikšmė dar neįrašyta - pavyzdžiui, knygas be žanro. Iki šiol čipai rodė tik esamas reikšmes, tad kaip tik tų, kurias norisi užpildyti, surasti nebuvo kaip. Čipas stovi iškart po „Visi\", o užpildžius paskutinį įrašą pats išnyksta.",
     "en": "The catalog filter now has a \"Not specified\" chip: it shows the items whose value is still blank - books without a genre, for example. Until now the chips listed only the values you already had, so the very ones you might want to fill in were the ones you could not find. The chip sits right after \"All\", and it disappears on its own once the last item is filled in."
   },
