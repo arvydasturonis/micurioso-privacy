@@ -1,6 +1,13 @@
 [
   {
     "version": "0.2.2",
+    "date": "2026-08-19",
+    "type": "ota",
+    "lt": "Masiniame knygų pridėjime sisteminis „atgal\" nebeuždaro viso srauto: karpymo ekrane jis grąžina vienu žingsniu atgal, o peržiūroje pirma paklausia, ar tikrai atsisakai atpažintų knygų. Nustatymuose patikslinti Gemini modelių aprašymai - juose liko tik tai, kas išmatuota, o Pro dabar aiškiai pasako, kad su nemokamu raktu neveikia.",
+    "en": "In bulk book adding, the system Back button no longer closes the whole flow: on the crop screen it steps back one photo, and in the review it asks before discarding the recognized books. The Gemini model descriptions in Settings now state only what was actually measured, and Pro says plainly that it does not work with a free key."
+  },
+  {
+    "version": "0.2.2",
     "date": "2026-08-18",
     "type": "ota",
     "lt": "Kai kvietimas į atpažinimą nutrūksta, programa dabar automatiškai pabando dar kartą — dažniausiai to pakanka, nes serveris būna tik laikinai perkrautas. O jei vis tiek nepavyksta, žinutė nebetvirtina, kad „nėra ryšio\": ji pasako tik tai, ką tikrai žinome — kad susisiekti su serveriu nepavyko.",
