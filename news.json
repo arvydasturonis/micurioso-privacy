@@ -3,6 +3,13 @@
     "version": "0.2.2",
     "date": "2026-08-19",
     "type": "ota",
+    "lt": "Masinio pridėjimo peržiūroje dabar paaiškinta, ką daro maži mygtukai ant nuotraukos: vienas atpažįsta knygą iš padidintos iškarpos, kitas pasuka iškarpą 180°. O pakartojus atpažinimą senasis pavadinimas nebedingsta - eilutėje lieka kitas variantas su mygtuku, tad gali pasirinkti, kurį palikti.",
+    "en": "In the bulk add review, the small buttons on the photo now come with an explanation: one re-recognizes the book from an enlarged crop, the other rotates the crop by 180°. And re-recognizing no longer discards the previous title - the row keeps the other result next to it with a button, so you can pick which one to keep."
+  },
+  {
+    "version": "0.2.2",
+    "date": "2026-08-19",
+    "type": "ota",
     "lt": "Masiniame knygų pridėjime sisteminis „atgal\" nebeuždaro viso srauto: karpymo ekrane jis grąžina vienu žingsniu atgal, o peržiūroje pirma paklausia, ar tikrai atsisakai atpažintų knygų. Nustatymuose patikslinti Gemini modelių aprašymai - juose liko tik tai, kas išmatuota, o Pro dabar aiškiai pasako, kad su nemokamu raktu neveikia.",
     "en": "In bulk book adding, the system Back button no longer closes the whole flow: on the crop screen it steps back one photo, and in the review it asks before discarding the recognized books. The Gemini model descriptions in Settings now state only what was actually measured, and Pro says plainly that it does not work with a free key."
   },
