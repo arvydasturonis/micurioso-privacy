@@ -3,6 +3,13 @@
     "version": "0.2.2",
     "date": "2026-08-19",
     "type": "ota",
+    "lt": "Katalogo filtre atsirado „Nenurodyta\": juo atsifiltruoji įrašus, kuriems reikšmė dar neįrašyta - pavyzdžiui, knygas be žanro. Iki šiol čipai rodė tik esamas reikšmes, tad kaip tik tų, kurias norisi užpildyti, surasti nebuvo kaip. Čipas stovi iškart po „Visi\", o užpildžius paskutinį įrašą pats išnyksta.",
+    "en": "The catalog filter now has a \"Not specified\" chip: it shows the items whose value is still blank - books without a genre, for example. Until now the chips listed only the values you already had, so the very ones you might want to fill in were the ones you could not find. The chip sits right after \"All\", and it disappears on its own once the last item is filled in."
+  },
+  {
+    "version": "0.2.2",
+    "date": "2026-08-19",
+    "type": "ota",
     "lt": "Masinio pridėjimo peržiūroje dabar paaiškinta, ką daro maži mygtukai ant nuotraukos: vienas atpažįsta knygą iš padidintos iškarpos, kitas pasuka iškarpą 180°. O pakartojus atpažinimą senasis pavadinimas nebedingsta - eilutėje lieka kitas variantas su mygtuku, tad gali pasirinkti, kurį palikti.",
     "en": "In the bulk add review, the small buttons on the photo now come with an explanation: one re-recognizes the book from an enlarged crop, the other rotates the crop by 180°. And re-recognizing no longer discards the previous title - the row keeps the other result next to it with a button, so you can pick which one to keep."
   },
