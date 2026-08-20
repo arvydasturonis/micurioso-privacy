@@ -1,5 +1,12 @@
 [
   {
+    "version": "0.2.3",
+    "date": "2026-08-20",
+    "type": "build",
+    "lt": "Nuotrauką įraše dabar galima pakeisti – nufotografuoti iš naujo arba pasirinkti iš galerijos, su apkarpymu. Įrašo mygtukai suspausti į ikonas, tad daugiau vietos lieka pačiam įrašui. Lentynos nuotrauką masiniame pridėjime galima padidinti per visą ekraną ir priartinti, kad matytum, kas apibraukta. Vyno, viskio ir kitų kolekcijų filtrai bei statistika nebeskaičiuojami pagal pavadinimą – dabar pagal regioną, tipą ar kitą tavo pasirinktą lauką, ir iš karto pagal du. Prieš perrašant knygos aprašymą parodoma, kas ką užklos. Dublikatų ekranas nebemeluoja, kad nieko nerado, kol dar skaičiuoja.",
+    "en": "You can now replace an item's photo – retake it or pick one from the gallery, with cropping. The item buttons are compact icons, leaving more room for the item itself. In bulk add, a shelf photo opens full-screen with pinch zoom so you can see what was detected. Filters and statistics for wine, whisky and other collections no longer group by name – now by region, type or any field you choose, and by two at once. Before a book description is overwritten, you see exactly what replaces what. The duplicates screen no longer claims it found nothing while it is still calculating."
+  },
+  {
     "version": "0.2.2",
     "date": "2026-08-19",
     "type": "ota",
