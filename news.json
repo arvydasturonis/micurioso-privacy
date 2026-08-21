@@ -1,6 +1,13 @@
 [
   {
     "version": "0.2.3",
+    "date": "2026-08-21",
+    "type": "ota",
+    "lt": "Knygoms atsirado serijos numeris — programa jį perskaito iš tos pačios nuotraukos. Naujame „Serijos\" ekrane matyti, kuriuos serijos numerius jau turite, o kurių trūksta; trūkstamų sąrašu galima pasidalinti (patogu einant į knygyną ar turgų). Pridedant knygą po vieną, dabar užpildomas ir aprašymas su žanru, o kai ISBN nerandamas — pavadinimas su autoriumi iš viršelio.",
+    "en": "Books now have a series number, read from the same photo. The new Series screen shows which numbers of the series you already own and which are missing, and the missing list can be shared — handy in a bookshop or at a flea market. Adding a book one at a time now also fills in its description and genre, and when the ISBN is not found, the title and author are read from the cover."
+  },
+  {
+    "version": "0.2.3",
     "date": "2026-08-20",
     "type": "ota",
     "lt": "Du pataisymai iš tikrų klaidų telefone. „Papildyti knygų aprašymus\" nebenutrūksta pusiaukelėje: buvo išmatuota, kad 25 knygų užklausa normaliai užima 10–20 s, o programa nutraukdavo ties 20 s – riba pakelta. Ir masiniame pridėjime priartinta lentynos nuotrauka nebelieka juoda: nuotrauka dabar dekoduojama vieną kartą ir dalinamasi ja visose vietose, o ne po kartą kiekvienai knygos eilutei.",
