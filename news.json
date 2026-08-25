@@ -1,6 +1,13 @@
 [
   {
     "version": "0.2.3",
+    "date": "2026-08-25",
+    "type": "ota",
+    "lt": "Masinis knygų pridėjimas: serijos numeris nebeatitenka kaimyninei knygai. Programa pati pastebi, kad nugarėlės kadre stovi stačiai, ir prieš atpažindama pasuka nuotrauką — numerius modelis teisingai perskaito tik iš kadro su horizontaliais užrašais. Atsirado ir rankinis mygtukas „Pasukti kadrą“ bei „Apversti visas“ peržiūroje.",
+    "en": "Bulk book add: the series number no longer lands on the neighbouring book. The app now notices when the spines stand upright in the frame and rotates the photo before recognising it — the numbers are only read correctly from a frame whose spine text runs horizontally. A manual “Rotate frame” button and “Flip all” in the review were added too."
+  },
+  {
+    "version": "0.2.3",
     "date": "2026-08-21",
     "type": "ota",
     "lt": "Knygoms atsirado serijos numeris — programa jį perskaito iš tos pačios nuotraukos. Naujame „Serijos\" ekrane matyti, kuriuos serijos numerius jau turite, o kurių trūksta; trūkstamų sąrašu galima pasidalinti (patogu einant į knygyną ar turgų). Pridedant knygą po vieną, dabar užpildomas ir aprašymas su žanru, o kai ISBN nerandamas — pavadinimas su autoriumi iš viršelio.",
