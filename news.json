@@ -3,6 +3,13 @@
     "version": "0.2.3",
     "date": "2026-08-25",
     "type": "ota",
+    "lt": "Patikslinimas prie ankstesnio: serijos numeriai dabar pataisomi KIEKVIENOJE nuotraukoje. Pirmoji versija pasuktu kadru pakeisdavo visą nuotrauką ir priimdavo tik tada, jei pasukus randama ne mažiau knygų — todėl viename pakete viena lentyna būdavo pataisyta, o kita ne. Dabar iš pasukto kadro imami tik numeriai.",
+    "en": "A follow-up to the previous entry: series numbers are now corrected in every photo. The first version replaced the whole frame with the rotated one and only accepted it if no books were lost, so one shelf in a batch would be fixed while another was not. Now only the numbers are taken from the rotated frame."
+  },
+  {
+    "version": "0.2.3",
+    "date": "2026-08-25",
+    "type": "ota",
     "lt": "Masinis knygų pridėjimas: serijos numeris nebeatitenka kaimyninei knygai. Programa pati pastebi, kad nugarėlės kadre stovi stačiai, ir prieš atpažindama pasuka nuotrauką — numerius modelis teisingai perskaito tik iš kadro su horizontaliais užrašais. Atsirado ir rankinis mygtukas „Pasukti kadrą“ bei „Apversti visas“ peržiūroje.",
     "en": "Bulk book add: the series number no longer lands on the neighbouring book. The app now notices when the spines stand upright in the frame and rotates the photo before recognising it — the numbers are only read correctly from a frame whose spine text runs horizontally. A manual “Rotate frame” button and “Flip all” in the review were added too."
   },
