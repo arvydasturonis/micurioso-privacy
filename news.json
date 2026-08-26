@@ -3,6 +3,13 @@
     "version": "0.2.3",
     "date": "2026-08-26",
     "type": "ota",
+    "lt": "Serijų žinynas: knygas galima priskirti kelioms serijoms, kiekviena turi savo tinklelį ir ribą. PFAF (Pasaulinės fantastikos aukso fondo) katalogas įtrauktas į programą — autorius ir serijos numeris užsipildo pagal tikslų pavadinimą be interneto, o AI dabar užpildo ir žinomų knygų autorius.",
+    "en": "Series registry: books can be assigned to multiple series, each with its own grid and bound. The PFAF (World SF Gold Fund) catalog is built in — the author and series number fill in from an exact title match without internet, and AI now also fills in authors of known books."
+  },
+  {
+    "version": "0.2.3",
+    "date": "2026-08-26",
+    "type": "ota",
     "lt": "Klausiant apie knygą, dabar galima atmesti ir tuščio lauko užpildymą: kiekviena eilutė turi varnelę, tuščiam laukui ji uždėta iš anksto. Masinio pridėjimo karpymo ekranas įspėja, kad kadro krašte pusiau matoma knyga pasuka visus serijos numerius per vieną.",
     "en": "When asking about a book you can now also decline filling an empty field: every row has a checkbox, ticked in advance for empty ones. The bulk-add crop screen warns that a half-visible book at the frame edge shifts every series number by one."
   },
