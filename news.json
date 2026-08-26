@@ -1,6 +1,13 @@
 [
   {
     "version": "0.2.3",
+    "date": "2026-08-26",
+    "type": "ota",
+    "lt": "Klausiant apie knygą, dabar galima atmesti ir tuščio lauko užpildymą: kiekviena eilutė turi varnelę, tuščiam laukui ji uždėta iš anksto. Masinio pridėjimo karpymo ekranas įspėja, kad kadro krašte pusiau matoma knyga pasuka visus serijos numerius per vieną.",
+    "en": "When asking about a book you can now also decline filling an empty field: every row has a checkbox, ticked in advance for empty ones. The bulk-add crop screen warns that a half-visible book at the frame edge shifts every series number by one."
+  },
+  {
+    "version": "0.2.3",
     "date": "2026-08-25",
     "type": "ota",
     "lt": "Patikslinimas prie ankstesnio: serijos numeriai dabar pataisomi KIEKVIENOJE nuotraukoje. Pirmoji versija pasuktu kadru pakeisdavo visą nuotrauką ir priimdavo tik tada, jei pasukus randama ne mažiau knygų — todėl viename pakete viena lentyna būdavo pataisyta, o kita ne. Dabar iš pasukto kadro imami tik numeriai.",
