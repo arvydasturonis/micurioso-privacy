@@ -1,6 +1,13 @@
 [
   {
     "version": "0.2.3",
+    "date": "2026-08-27",
+    "type": "ota",
+    "lt": "Statistikos serijos kortelė „Turite N iš M“ dabar skaičiuoja kiekvieną seriją atskirai, su jos pačios riba, o ne visus sunumeruotus įrašus su viena senąja riba. „Užpildyti iš katalogo“ nebeatrodo užstrigęs — mygtukas rodo, kad dirba. Masinio pridėjimo peržiūroje ranka pakeitus pavadinimą nuimamas nebeteisingas „Nr. pataisytas pagal katalogą“ ženklelis.",
+    "en": "The statistics series card \"You have N of M\" now counts each series on its own, against that series' bound, instead of all numbered items against one old bound. \"Fill from catalog\" no longer looks stuck — the button says it is working. In the bulk-add review, editing a title by hand clears the no-longer-true \"No. corrected from the catalog\" badge."
+  },
+  {
+    "version": "0.2.3",
     "date": "2026-08-26",
     "type": "ota",
     "lt": "Serijų žinynas: knygas galima priskirti kelioms serijoms, kiekviena turi savo tinklelį ir ribą. PFAF (Pasaulinės fantastikos aukso fondo) katalogas įtrauktas į programą — autorius ir serijos numeris užsipildo pagal tikslų pavadinimą be interneto, o AI dabar užpildo ir žinomų knygų autorius.",
