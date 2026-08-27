@@ -3,6 +3,13 @@
     "version": "0.2.3",
     "date": "2026-08-27",
     "type": "ota",
+    "lt": "Daugiatomės knygos serijos numeris nebelieka tuščias: jei ant nugarėlės atspausdintas tomo žymuo „(2)“, žinynas parenka būtent antrąjį numerį. Serijos tinklelyje toks numeris rodomas sąraše kaip pasirinkimas, ne įrašomas tyliai. Pavadinimo rašyba taisoma tik bazėje — „LAVINA (2)“ tampa „Lavina (2)“, o žymuo lieka.",
+    "en": "A multi-volume book no longer has to stay without a series number: when the spine carries a volume marker like \"(2)\", the catalog picks that volume's number. In the series grid such a number is offered in the list as a choice rather than written silently. Title spelling is corrected in the base only, so \"LAVINA (2)\" becomes \"Lavina (2)\" and the marker stays."
+  },
+  {
+    "version": "0.2.3",
+    "date": "2026-08-27",
+    "type": "ota",
     "lt": "„Užpildyti iš katalogo“ dabar parodo, kur serijos žinynas nesutinka su tavo įrašais, ir leidžia pasirinkti, ką pataisyti: klaidingą serijos numerį (masiniame pridėjime jį pastumia kadro krašte pusiau matoma knyga) ir pavadinimo rašybą, kai atpažinimas grąžino jį be lietuviškų raidžių. Pavadinimo rašyba pažymėta iš anksto, numeris — ne, o atšaukus nerašoma nieko. Prie mygtuko atsirado paaiškinimas, ką jis daro.",
     "en": "\"Fill from catalog\" now shows where the series catalog disagrees with your items and lets you pick what to correct: a wrong series number (in bulk add it gets shifted by a book the frame cuts in half) and the title's spelling when recognition returned it without Lithuanian diacritics. Title spelling is ticked in advance, the number is not, and cancelling writes nothing. The button now carries a one-line explanation of what it does."
   },
