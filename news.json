@@ -1,6 +1,13 @@
 [
   {
     "version": "0.2.3",
+    "date": "2026-08-28",
+    "type": "ota",
+    "lt": "Serijų tinklelyje paspaudus trūkstamą numerį dabar matyti, kokia tai knyga — pavadinimas ir autorius. Nugarėlės be pavadinimo, bet su serijos numeriu, atpažįstamos iš serijos žinyno. Masiniame pridėjime seriją visoms knygoms priskiria vienas mygtukas su pasirinkimų sąrašu. Knygų katalogą dabar galima filtruoti pagal seriją (vietoj kalbos). Taip pat: parodoma, kurių knygų žinynas neatpažino ir kurie serijos numeriai kartojasi, bei pataisytas vienas klaidingas žinyno pavadinimas.",
+    "en": "In the series grid, tapping a missing number now shows which book it is — title and author. Spines with no title but a series number are identified from the series catalog. In bulk add, a single button assigns a series to all books. The book catalog can now be filtered by series instead of language. Also: books the catalog did not recognise and repeated series numbers are now listed, and one wrong catalog title was corrected."
+  },
+  {
+    "version": "0.2.3",
     "date": "2026-08-27",
     "type": "ota",
     "lt": "Kelios pataisos iš pilnos kodo peržiūros. Reikšmių parinkiklio (šalies, serijos, žanro) mygtukas „Uždaryti“ nebelieka po telefono navigacijos juosta — anksčiau jis buvo matomas, bet pirštas jo nepasiekdavo. Masiniu būdu pridedant knygas serijos numeris į katalogą patenka tik tada, kai jis tikrai skaitmuo: anksčiau ženkliuko atspaudas su santrumpa įsirašydavo pažodžiui, ir knyga serijos tinklelyje dingdavo. Atmetus sugadintą atsarginę kopiją paaiškinimas dabar rodomas ta pačia kalba, kokia įjungta programoje.",
