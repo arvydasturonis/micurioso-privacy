@@ -3,6 +3,13 @@
     "version": "0.2.3",
     "date": "2026-08-29",
     "type": "ota",
+    "lt": "Knygų sąraše prie kiekvienos knygos matomas serijos numeris, o rūšiuoti galima pagal jį — taip iš karto matyti, kurių serijos numerių dar trūksta. Lentynos nuotraukos apkarpymo ekrane dabar galima nukirpti kur kas daugiau (anksčiau turėjo likti trečdalis kadro, dabar — dešimtadalis), tad prireikus galima siųsti atpažinti vieną vienintelę nugarėlę.",
+    "en": "The book list now shows each book's series number, and can be sorted by it — so the gaps in a numbered series are visible at a glance. On the shelf photo crop screen you can now cut away far more of the frame (a third had to remain before, now a tenth), so a single spine can be sent for recognition on its own."
+  },
+  {
+    "version": "0.2.3",
+    "date": "2026-08-29",
+    "type": "ota",
     "lt": "Serijos žinynas atpažįsta daugiau knygų. Ištaisytos penkios klaidos pačiame žinyne (prie kelių pavadinimų buvo prilipdytas antras to paties tomo kūrinys), o lyginant pavadinimus nuo šiol nebekreipiama dėmesio į skyrybą — kabučių, brūkšnio ar dvitaškio skirtumas nebeatskiria knygos nuo jos įrašo. Pridėta ir galimybė žinyne turėti pavadinimą tokį, koks atspausdintas ant knygos, kai leidykla suklydo tiraže.",
     "en": "The series catalog now recognises more books. Five errors in the catalog itself were corrected (a few titles had a second work from the same volume glued on), and titles are compared ignoring punctuation — a difference in quotation marks, dashes or a colon no longer separates a book from its entry. The catalog can also hold the title exactly as printed on a book when the publisher got it wrong in the print run."
   },
