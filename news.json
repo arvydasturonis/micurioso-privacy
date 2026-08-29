@@ -3,6 +3,13 @@
     "version": "0.2.3",
     "date": "2026-08-29",
     "type": "ota",
+    "lt": "Serijos žinynas atpažįsta daugiau knygų. Ištaisytos penkios klaidos pačiame žinyne (prie kelių pavadinimų buvo prilipdytas antras to paties tomo kūrinys), o lyginant pavadinimus nuo šiol nebekreipiama dėmesio į skyrybą — kabučių, brūkšnio ar dvitaškio skirtumas nebeatskiria knygos nuo jos įrašo. Pridėta ir galimybė žinyne turėti pavadinimą tokį, koks atspausdintas ant knygos, kai leidykla suklydo tiraže.",
+    "en": "The series catalog now recognises more books. Five errors in the catalog itself were corrected (a few titles had a second work from the same volume glued on), and titles are compared ignoring punctuation — a difference in quotation marks, dashes or a colon no longer separates a book from its entry. The catalog can also hold the title exactly as printed on a book when the publisher got it wrong in the print run."
+  },
+  {
+    "version": "0.2.3",
+    "date": "2026-08-29",
+    "type": "ota",
     "lt": "Serijos žinyno pataisos dabar pasiekia ir jau sukurtą seriją: anksčiau katalogas į telefoną nukeliaudavo tik jį kuriant, tad ištaisytas įrašas (PFAF-225 Neverendo paslaptis) likdavo senasis. Be to, sąraše, kur išvardytos žinyno neatpažintos knygos, knygą galima bakstelėti — atsidaro jos kortelė, o braukiant pereinama per tą patį sąrašą.",
     "en": "Series catalog corrections now reach a series you already created: until now the catalog reached your phone only when the series was created, so a corrected entry stayed wrong. Also, a book in the list of titles the catalog did not recognise can now be tapped — it opens that book, and swiping moves through the same list."
   },
