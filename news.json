@@ -1,6 +1,13 @@
 [
   {
     "version": "0.2.3",
+    "date": "2026-08-29",
+    "type": "ota",
+    "lt": "Serijos žinyno pataisos dabar pasiekia ir jau sukurtą seriją: anksčiau katalogas į telefoną nukeliaudavo tik jį kuriant, tad ištaisytas įrašas (PFAF-225 Neverendo paslaptis) likdavo senasis. Be to, sąraše, kur išvardytos žinyno neatpažintos knygos, knygą galima bakstelėti — atsidaro jos kortelė, o braukiant pereinama per tą patį sąrašą.",
+    "en": "Series catalog corrections now reach a series you already created: until now the catalog reached your phone only when the series was created, so a corrected entry stayed wrong. Also, a book in the list of titles the catalog did not recognise can now be tapped — it opens that book, and swiping moves through the same list."
+  },
+  {
+    "version": "0.2.3",
     "date": "2026-08-28",
     "type": "ota",
     "lt": "Serijų tinklelyje paspaudus trūkstamą numerį dabar matyti, kokia tai knyga — pavadinimas ir autorius. Nugarėlės be pavadinimo, bet su serijos numeriu, atpažįstamos iš serijos žinyno. Masiniame pridėjime seriją visoms knygoms priskiria vienas mygtukas su pasirinkimų sąrašu. Knygų katalogą dabar galima filtruoti pagal seriją (vietoj kalbos). Taip pat: parodoma, kurių knygų žinynas neatpažino ir kurie serijos numeriai kartojasi, bei pataisytas vienas klaidingas žinyno pavadinimas.",
