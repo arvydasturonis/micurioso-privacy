@@ -1,6 +1,13 @@
 [
   {
     "version": "0.2.3",
+    "date": "2026-08-30",
+    "type": "ota",
+    "lt": "Knygos: šešios PFAF antologijos („Užslinks naktis“, „Pragaištingas krėslas“, „Balsas tyruose“, „Smėlio karaliai“, „Kosmoso verpetas“, „Žemės paveldėtojai“) žinyne gavo autorių — iki šiol jo neturėjo, tad „Užpildyti iš katalogo“ apie jas tylėdavo. Tas pats užpildymas dabar siūlo pataisyti ir klaidingą autorių, ne tik tuščią: eilutė su varnele, iš anksto nepažymėta. O kataloge atsirado masinis žanro keitimas — pasižymi knygas, spaudi „Žanras“ ir renkiesi iš savo kolekcijos žanrų, kanoninio sąrašo arba įrašai savą.",
+    "en": "Books: six PFAF anthologies now carry an author in the catalog — until now they had none, so “Fill from catalog” said nothing about them. That same action can now fix a wrong author too, not just an empty one: a row with a checkbox, unticked by default. And the catalog gained bulk genre editing — select books, tap “Genre” and pick from your own genres, from the canonical list, or type your own."
+  },
+  {
+    "version": "0.2.3",
     "date": "2026-08-29",
     "type": "ota",
     "lt": "Knygų sąraše prie kiekvienos knygos matomas serijos numeris, o rūšiuoti galima pagal jį — taip iš karto matyti, kurių serijos numerių dar trūksta. Lentynos nuotraukos apkarpymo ekrane dabar galima nukirpti kur kas daugiau (anksčiau turėjo likti trečdalis kadro, dabar — dešimtadalis), tad prireikus galima siųsti atpažinti vieną vienintelę nugarėlę.",
