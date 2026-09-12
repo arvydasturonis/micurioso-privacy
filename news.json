@@ -1,5 +1,12 @@
 [
   {
+    "version": "0.3.0",
+    "date": "2026-09-12",
+    "type": "build",
+    "lt": "Naujiena — skolinimai. Kai kam nors paskolini knygą, dabar tai gali užsirašyti: kam, nuo kada ir, jei nori, iki kada. Įrašo ekrane atsiranda juostelė „Paskolinta: …“ su mygtuku „Grąžinta“, o Nustatymuose — sąrašas „Skolinimai“ su viskuo, kas dar ne pas tave (pradelsti viršuje). Nustačius grąžinimo terminą telefonas tą dieną primins. Veikia ir kita kryptimi: kai knygą paskolina tau, ji pažymima „Ne mano“ — lieka kataloge, tad turguje pasakys tai, ko reikia („šitą turi, bet pasiskolintą — savo neturi“), bet į kolekcijos statistiką nebeįskaičiuojama. Grąžinus įrašas neišnyksta: lieka istorijoje, kam ir kada buvai skolinęs.",
+    "en": "New: loans. When you lend a book to someone, you can now write it down: to whom, since when, and optionally by when. The item screen shows a “Lent to: …” bar with a “Returned” button, and Settings gains a “Loans” list of everything that is not with you (overdue first). Set a return date and your phone reminds you on the day. It works the other way round too: a book someone lends to you is marked “Not mine” — it stays in the catalog, so at a flea market it tells you what matters (“you have this one, but borrowed — you don’t own a copy”), while staying out of your collection statistics. Returning a book does not erase the record: it stays in the history of who borrowed what, and when."
+  },
+  {
     "version": "0.2.3",
     "date": "2026-08-30",
     "type": "ota",
