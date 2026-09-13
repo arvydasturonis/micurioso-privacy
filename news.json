@@ -1,6 +1,13 @@
 [
   {
     "version": "0.3.0",
+    "date": "2026-09-13",
+    "type": "ota",
+    "lt": "Naujas „Įrankiai“ skirtukas: nustatymuose liko tik tai, ką pasirenki (raktas, kalba, tema, valiuta), o visi veiksmai — kategorijos, skolinimai, galimi dublikatai, atsarginė kopija, instrukcija — persikėlė į atskirą skirtuką. Būklė dabar pritaikyta prie to, ką renki: knygoms Neskaityta/Skaitoma/Perskaityta, buteliams Neatidaryta/Atidaryta/Išgerta. Fotografuojant apkarpymas vyksta pačioje programoje — nebereikia ieškoti sistemos „Crop“ mygtuko, o nieko nelietus nuotrauka lieka nepakitusi. Pirmame paleidime iš karto pasiūloma susikurti Gemini raktą (žingsnį galima praleisti). Smulkiau: „Testuoti raktą“ dabar ir išsaugo raktą, o išeinant su neišsaugotu — paklausia; tuščiame kataloge paspaudus paveikslėlį atsidaro kamera; be rakto pranešimas aiškiau pasako, kodėl daiktas neatpažintas.",
+    "en": "New “Tools” tab: settings now hold only what you choose (API key, language, theme, currency), while everything you do — categories, loans, possible duplicates, backup, instructions — moved to its own tab. Condition values now match what you collect: Unread/Reading/Read for books, Unopened/Opened/Finished for bottles. Cropping after a photo now happens inside the app — no more hunting for the system “Crop” button, and leaving the frame untouched keeps the photo unchanged. The first run now offers to set up a Gemini key right away (the step can be skipped). Smaller things: “Test key” now saves the key as well, and leaving with an unsaved one asks first; tapping the picture in an empty catalog opens the camera; and the no-key message now explains why an item was not recognised."
+  },
+  {
+    "version": "0.3.0",
     "date": "2026-09-12",
     "type": "build",
     "lt": "Naujiena — skolinimai. Kai kam nors paskolini knygą, dabar tai gali užsirašyti: kam, nuo kada ir, jei nori, iki kada. Įrašo ekrane atsiranda juostelė „Paskolinta: …“ su mygtuku „Grąžinta“, o Nustatymuose — sąrašas „Skolinimai“ su viskuo, kas dar ne pas tave (pradelsti viršuje). Nustačius grąžinimo terminą telefonas tą dieną primins. Veikia ir kita kryptimi: kai knygą paskolina tau, ji pažymima „Ne mano“ — lieka kataloge, tad turguje pasakys tai, ko reikia („šitą turi, bet pasiskolintą — savo neturi“), bet į kolekcijos statistiką nebeįskaičiuojama. Grąžinus įrašas neišnyksta: lieka istorijoje, kam ir kada buvai skolinęs.",
