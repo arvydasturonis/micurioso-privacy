@@ -1,6 +1,13 @@
 [
   {
     "version": "0.3.0",
+    "date": "2026-09-14",
+    "type": "ota",
+    "lt": "Butelių būklė „Išgerta\" dabar rašoma taisyklingai, su lietuviška raide. Nuosavybės perjungiklis įrašo ekrane vadinasi „Ne mano\" - anksčiau jis visose kategorijose minėjo knygas, nors skolinimai veikia bet kuriai kolekcijai.",
+    "en": "The bottle condition \"Finished\" is now spelled correctly in Lithuanian. The ownership switch on the item screen now reads \"Not mine\" - it used to mention books in every category, even though loans work for any collection."
+  },
+  {
+    "version": "0.3.0",
     "date": "2026-09-13",
     "type": "ota",
     "lt": "Naujas „Įrankiai“ skirtukas: nustatymuose liko tik tai, ką pasirenki (raktas, kalba, tema, valiuta), o visi veiksmai — kategorijos, skolinimai, galimi dublikatai, atsarginė kopija, instrukcija — persikėlė į atskirą skirtuką. Būklė dabar pritaikyta prie to, ką renki: knygoms Neskaityta/Skaitoma/Perskaityta, buteliams Neatidaryta/Atidaryta/Išgerta. Fotografuojant apkarpymas vyksta pačioje programoje — nebereikia ieškoti sistemos „Crop“ mygtuko, o nieko nelietus nuotrauka lieka nepakitusi. Pirmame paleidime iš karto pasiūloma susikurti Gemini raktą (žingsnį galima praleisti). Smulkiau: „Testuoti raktą“ dabar ir išsaugo raktą, o išeinant su neišsaugotu — paklausia; tuščiame kataloge paspaudus paveikslėlį atsidaro kamera; be rakto pranešimas aiškiau pasako, kodėl daiktas neatpažintas.",
