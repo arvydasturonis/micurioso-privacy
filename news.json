@@ -3,6 +3,13 @@
     "version": "0.3.0",
     "date": "2026-09-19",
     "type": "ota",
+    "lt": "Iš galerijos imama nuotrauka nebeprašoma apkarpyti du kartus – liko tik programos apkarpymo ekranas. Antra (kitos pusės) nuotrauka tapo neprivaloma: jei jos neturite, spauskite „Tęsti be antros nuotraukos\". O bendrinamoje kortelėje diskgolfo skrydžio skaičiai dabar surašyti viena eilute, kaip ir ant paties disko.",
+    "en": "A photo picked from the gallery is no longer cropped twice – only the app’s own crop screen remains. The second (other side) photo is now optional: if you don’t have one, tap “Continue without the second photo”. And on the shared card, disc golf flight numbers now appear on a single line, just as they are printed on the disc."
+  },
+  {
+    "version": "0.3.0",
+    "date": "2026-09-19",
+    "type": "ota",
     "lt": "Diskgolfo diskams – keturi atskiri skrydžio laukai (greitis, slydimas, posūkis, kritimas) vietoj vienos eilutės, o kategorija dabar prašo ir kitos disko pusės nuotraukos: skaičiai atspausti būtent ten, tad juos gali atpažinti pati programa. Jau susikurta diskų kategorija atsinaujina savaime. Ir bendriau: pridedant įrašą dabar galima ne tik fotografuoti, bet ir rinktis nuotrauką iš galerijos.",
     "en": "Disc golf discs now have four separate flight fields (speed, glide, turn, fade) instead of one line, and the category also asks for a photo of the disc’s other side: the numbers are printed there, so the app can read them itself. An existing disc category updates itself. More generally: when adding an item you can now pick a photo from your gallery instead of taking one."
   },
