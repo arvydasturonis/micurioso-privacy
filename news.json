@@ -1,6 +1,13 @@
 [
   {
     "version": "0.3.0",
+    "date": "2026-09-19",
+    "type": "ota",
+    "lt": "Bendrinama kortelė nebeapkarpo nuotraukos – ji dedama visa, kokių proporcijų bebūtų, o apačioje atsirado QR kodas, vedantis į programos puslapį „Google Play\". Skolinimo priminimas dabar pasirodo ir tada, kai programa tuo metu atidaryta. Kataloge primename apie atsarginę kopiją, jei jos seniai nedarėte. Nauja kategorija – diskgolfo diskai.",
+    "en": "The shared card no longer crops your photo – it fits whole, whatever its shape – and it now carries a QR code to the app's Google Play page. A loan reminder now also shows up while the app is open. The catalog reminds you about a backup if it has been a while. New category: disc golf discs."
+  },
+  {
+    "version": "0.3.0",
     "date": "2026-09-14",
     "type": "ota",
     "lt": "Butelių būklė „Išgerta\" dabar rašoma taisyklingai, su lietuviška raide. Nuosavybės perjungiklis įrašo ekrane vadinasi „Ne mano\" - anksčiau jis visose kategorijose minėjo knygas, nors skolinimai veikia bet kuriai kolekcijai.",
