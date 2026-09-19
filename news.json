@@ -3,6 +3,13 @@
     "version": "0.3.0",
     "date": "2026-09-19",
     "type": "ota",
+    "lt": "Diskgolfo diskams – keturi atskiri skrydžio laukai (greitis, slydimas, posūkis, kritimas) vietoj vienos eilutės, o kategorija dabar prašo ir kitos disko pusės nuotraukos: skaičiai atspausti būtent ten, tad juos gali atpažinti pati programa. Jau susikurta diskų kategorija atsinaujina savaime. Ir bendriau: pridedant įrašą dabar galima ne tik fotografuoti, bet ir rinktis nuotrauką iš galerijos.",
+    "en": "Disc golf discs now have four separate flight fields (speed, glide, turn, fade) instead of one line, and the category also asks for a photo of the disc’s other side: the numbers are printed there, so the app can read them itself. An existing disc category updates itself. More generally: when adding an item you can now pick a photo from your gallery instead of taking one."
+  },
+  {
+    "version": "0.3.0",
+    "date": "2026-09-19",
+    "type": "ota",
     "lt": "Bendrinama kortelė nebeapkarpo nuotraukos – ji dedama visa, kokių proporcijų bebūtų, o apačioje atsirado QR kodas, vedantis į programos puslapį „Google Play\". Skolinimo priminimas dabar pasirodo ir tada, kai programa tuo metu atidaryta. Kataloge primename apie atsarginę kopiją, jei jos seniai nedarėte. Nauja kategorija – diskgolfo diskai.",
     "en": "The shared card no longer crops your photo – it fits whole, whatever its shape – and it now carries a QR code to the app's Google Play page. A loan reminder now also shows up while the app is open. The catalog reminds you about a backup if it has been a while. New category: disc golf discs."
   },
