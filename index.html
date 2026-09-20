@@ -45,9 +45,9 @@ tavo telefone.
 </p>
 <p>
 Nuo 2026-09-20 programėlėje galima susikurti <strong>neprivalomą paskyrą</strong>.
-Be jos viskas veikia kaip veikę. Paskyros reikia tik tinklinėms savybėms, o pati
-kolekcija į serverį <strong>nekeliama</strong> — žr. skiltį „Paskyra ir tinklinės
-savybės“.
+Be jos viskas veikia kaip veikę. Su paskyra atsiranda galimybė kai kurias
+kategorijas <strong>savo pačių pasirinkimu</strong> publikuoti į serverį — žr.
+skiltį „Paskyra ir tinklinės savybės“.
 </p>
 
 <h2>Kokius duomenis programėlė saugo</h2>
@@ -82,11 +82,19 @@ identifikatorius ir <strong>rodomas vardas</strong>, kurį pasirenki pats ir kur
 matys kiti naudotojai.
 </p>
 <p>
-<strong>Kolekcija į serverį nekeliama.</strong> Šios versijos paskyra dar nieko
-nepublikuoja — daiktai, nuotraukos ir aprašymai lieka telefone. Kai atsiras
-kolekcijų dalinimasis, į serverį pateks <strong>tik tos kategorijos, kurias pats
-pažymėsi</strong>, ir net iš jų <strong>nebus keliama kaina, įsigijimo vieta,
-įsigijimo data ir skolinimų įrašai</strong>. Ši politika tada bus atnaujinta.
+<strong>Į serverį keliama tik tavo pačių pasirinkimu.</strong> Kolekcijos
+nustatymuose gali pažymėti kategoriją kaip publikuotą — tada į serverį iškeliama
+ta kategorija ir jos daiktai: aprašymas, būklė, įvertinimas, žymos, kategorijos
+laukų reikšmės ir maža (apie 300&nbsp;px) nuotraukos miniatiūra.
+<strong>Kaina, įsigijimo vieta, įsigijimo data ir skolinimų įrašai nekeliami
+niekada</strong> — net iš publikuotos kategorijos. Bet kada gali „Nebepublikuoti“
+— serverio kopija ir jos miniatiūros ištrinamos, telefone kolekcija lieka
+nepakitusi.
+</p>
+<p>
+<strong>Šioje versijoje publikuotus daiktus mato tik pats paskyros savininkas.</strong>
+Dalinimosi su draugais ar viešo matymo dar nėra — tai ateities savybė, ir ši
+politika bus atnaujinta prieš ją įjungiant.
 </p>
 <p>
 Paskyrą gali bet kada ištrinti programėlėje (Nustatymai → Paskyra → Ištrinti
@@ -102,9 +110,10 @@ paskyrą) arba per
     vardą. Taikomos Google paslaugų sąlygos ir privatumo politika.
   </li>
   <li>
-    <strong>Supabase</strong> — paskyrų ir (ateityje) publikuotų kolekcijų
-    saugykla Europos Sąjungoje veikiančiame serveryje. Ten patenka tik tai, kas
-    išvardyta skiltyje „Paskyra ir tinklinės savybės“.
+    <strong>Supabase</strong> — paskyrų ir publikuotų kategorijų (be kainos,
+    įsigijimo vietos, datos ir skolinimų) saugykla Europos Sąjungoje veikiančiame
+    serveryje. Ten patenka tik tai, kas išvardyta skiltyje „Paskyra ir tinklinės
+    savybės“.
   </li>
   <li>
     <strong>Google Gemini API</strong> — jei nusprendi naudoti automatinį daikto
@@ -175,9 +184,9 @@ collection catalog app. Everything about your collection stays on your phone.
 </p>
 <p>
 Since 2026-09-20 you can create an <strong>optional account</strong> in the app.
-Without one, everything works exactly as before. An account is only needed for the
-networked features, and your collection itself is <strong>not uploaded</strong> —
-see “Accounts and networked features”.
+Without one, everything works exactly as before. With an account you can choose
+to publish some categories to the server — <strong>only if you choose to</strong>
+— see “Accounts and networked features”.
 </p>
 
 <h2>What the app stores</h2>
@@ -212,11 +221,18 @@ identifier, and the <strong>display name</strong> you choose — the name other 
 will see.
 </p>
 <p>
-<strong>Your collection is not uploaded.</strong> In this version an account
-publishes nothing at all: items, photos and descriptions stay on your phone. When
-collection sharing arrives, only <strong>the categories you explicitly mark</strong>
-will be uploaded, and even from those the <strong>price, place of purchase, date of
-purchase and loan records will not be</strong>. This policy will be updated then.
+<strong>Nothing is uploaded unless you choose it.</strong> In a category's
+settings you can mark it as published — this uploads that category and its items:
+description, condition, rating, tags, the category's own field values, and a small
+(about 300&nbsp;px) thumbnail image. <strong>Price, place of purchase, date of
+purchase and loan records are never uploaded</strong>, even from a published
+category. You can unpublish at any time — the server copy and its thumbnails are
+deleted, and your collection on the phone stays unchanged.
+</p>
+<p>
+<strong>In this version, published items are visible only to the account owner.</strong>
+Sharing with friends or public visibility does not exist yet — that is a future
+feature, and this policy will be updated before it is turned on.
 </p>
 <p>
 You can delete your account at any time in the app (Settings → Account → Delete
@@ -232,9 +248,10 @@ account) or through the
     of service and privacy policy apply.
   </li>
   <li>
-    <strong>Supabase</strong> — storage for accounts and (in future) published
-    collections, on a server located in the European Union. Only what is listed
-    under “Accounts and networked features” is stored there.
+    <strong>Supabase</strong> — storage for accounts and published categories
+    (without price, place of purchase, date of purchase or loan records), on a
+    server located in the European Union. Only what is listed under “Accounts and
+    networked features” is stored there.
   </li>
   <li>
     <strong>Google Gemini API</strong> — if you choose to use automatic item
