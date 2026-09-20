@@ -3,6 +3,13 @@
     "version": "0.4.0",
     "date": "2026-09-20",
     "type": "ota",
+    "lt": "Pataisytas miniatiūrų kėlimas publikuojant kategoriją: kelias buvo sudedamas du kartus, tad nė viena miniatiūra nepatekdavo į debesį, nors pati kategorija nusiųsdavo sėkmingai. Publikavimo mygtukas dabar rodo eigą (pavyzdžiui, 12/40) — didelėje kolekcijoje kėlimas užtrunka, ir laukimas turi turėti matomą pabaigą.",
+    "en": "Fixed thumbnail upload when publishing a category: the path was being joined twice, so no thumbnail ever reached the cloud even though the category itself uploaded fine. The publish button now shows progress (for example, 12/40) — in a large collection the upload takes a while, and the wait should have a visible end."
+  },
+  {
+    "version": "0.4.0",
+    "date": "2026-09-20",
+    "type": "ota",
     "lt": "Atsirado neprivaloma paskyra ir kolekcijų publikavimas. Prisijungęs su Google gali pažymėti kategoriją ir įkelti ją į debesį — tam, kad vėliau galėtum ja dalintis su draugais. Kaina, įsigijimo vieta, įsigijimo data ir skolinimai į debesį nepatenka niekada.",
     "en": "An optional account and category publishing have arrived. Once signed in with Google you can mark a category and upload it to the cloud, so you can share it with friends later. Price, place of purchase, date of purchase and loans are never uploaded."
   },
