@@ -1,5 +1,12 @@
 [
   {
+    "version": "0.4.0",
+    "date": "2026-09-20",
+    "type": "ota",
+    "lt": "Atsirado neprivaloma paskyra ir kolekcijų publikavimas. Prisijungęs su Google gali pažymėti kategoriją ir įkelti ją į debesį — tam, kad vėliau galėtum ja dalintis su draugais. Kaina, įsigijimo vieta, įsigijimo data ir skolinimai į debesį nepatenka niekada.",
+    "en": "An optional account and category publishing have arrived. Once signed in with Google you can mark a category and upload it to the cloud, so you can share it with friends later. Price, place of purchase, date of purchase and loans are never uploaded."
+  },
+  {
     "version": "0.3.0",
     "date": "2026-09-19",
     "type": "ota",
