@@ -27,8 +27,8 @@
 
 <h1>MiCurioso</h1>
 <p class="updated">
-  <span class="lt">Privatumo politika · paskutinį kartą atnaujinta: 2026-08-09</span>
-  <span class="en">Privacy policy · last updated: 2026-08-09</span>
+  <span class="lt">Privatumo politika · paskutinį kartą atnaujinta: 2026-09-20</span>
+  <span class="en">Privacy policy · last updated: 2026-09-20</span>
 </p>
 
 <div class="toggle" role="group" aria-label="Language">
@@ -40,9 +40,14 @@
 
 <p>
 MiCurioso (Android paketo pavadinimas <code>com.arvydas.stikliukai</code>) yra asmeninė
-kolekcionavimo katalogo programėlė. Ji skirta vienam naudotojui viename įrenginyje —
-nėra paskyros, prisijungimo ar serverio, į kurį būtų renkami tavo duomenys. Visa
-informacija apie tavo kolekciją laikoma tavo telefone.
+kolekcionavimo katalogo programėlė. Visa informacija apie tavo kolekciją laikoma
+tavo telefone.
+</p>
+<p>
+Nuo 2026-09-20 programėlėje galima susikurti <strong>neprivalomą paskyrą</strong>.
+Be jos viskas veikia kaip veikę. Paskyros reikia tik tinklinėms savybėms, o pati
+kolekcija į serverį <strong>nekeliama</strong> — žr. skiltį „Paskyra ir tinklinės
+savybės“.
 </p>
 
 <h2>Kokius duomenis programėlė saugo</h2>
@@ -69,8 +74,38 @@ jie saugomi tik lokaliai, kartu su kito daikto įrašu. Leidimą visada gali at�
 telefono nustatymuose, tai neturės įtakos kitoms programėlės funkcijoms.
 </p>
 
+<h2>Paskyra ir tinklinės savybės</h2>
+<p>
+Paskyra yra neprivaloma ir kuriama prisijungiant per <strong>Google</strong>.
+Prisijungus serveryje (Supabase) išsaugomas tavo el. pašto adresas, Google paskyros
+identifikatorius ir <strong>rodomas vardas</strong>, kurį pasirenki pats ir kurį
+matys kiti naudotojai.
+</p>
+<p>
+<strong>Kolekcija į serverį nekeliama.</strong> Šios versijos paskyra dar nieko
+nepublikuoja — daiktai, nuotraukos ir aprašymai lieka telefone. Kai atsiras
+kolekcijų dalinimasis, į serverį pateks <strong>tik tos kategorijos, kurias pats
+pažymėsi</strong>, ir net iš jų <strong>nebus keliama kaina, įsigijimo vieta,
+įsigijimo data ir skolinimų įrašai</strong>. Ši politika tada bus atnaujinta.
+</p>
+<p>
+Paskyrą gali bet kada ištrinti programėlėje (Nustatymai → Paskyra → Ištrinti
+paskyrą) arba per
+<a href="delete-account.html">paskyros ištrynimo puslapį</a>.
+</p>
+
 <h2>Trečiųjų šalių paslaugos</h2>
 <ul>
+  <li>
+    <strong>Google prisijungimas (Sign in with Google)</strong> — jei kuri paskyrą,
+    Google patvirtina tavo tapatybę ir perduoda programėlei el. pašto adresą bei
+    vardą. Taikomos Google paslaugų sąlygos ir privatumo politika.
+  </li>
+  <li>
+    <strong>Supabase</strong> — paskyrų ir (ateityje) publikuotų kolekcijų
+    saugykla Europos Sąjungoje veikiančiame serveryje. Ten patenka tik tai, kas
+    išvardyta skiltyje „Paskyra ir tinklinės savybės“.
+  </li>
   <li>
     <strong>Google Gemini API</strong> — jei nusprendi naudoti automatinį daikto
     atpažinimą iš nuotraukos, ta nuotrauka išsiunčiama į Google Gemini API, naudojant
@@ -106,6 +141,12 @@ Bet kurį kolekcijos įrašą gali ištrinti tiesiogiai programėlėje. Pašalin
 programėlę iš telefono, visi jos sukurti duomenys (duomenų bazė ir nuotraukos)
 ištrinami kartu su ja.
 </p>
+<p>
+Jei esi susikūręs paskyrą, ją ištrinti gali programėlėje (Nustatymai → Paskyra →
+Ištrinti paskyrą) arba per
+<a href="delete-account.html">paskyros ištrynimo puslapį</a>. Trynimas galutinis:
+paskyra neužšaldoma, o pašalinama. Kolekcija telefone nuo to nenukenčia.
+</p>
 
 <h2>Vaikų privatumas</h2>
 <p>
@@ -130,9 +171,13 @@ Klausimus dėl privatumo gali siųsti adresu:
 
 <p>
 MiCurioso (Android package name <code>com.arvydas.stikliukai</code>) is a personal
-collection catalog app. It is built for a single user on a single device — there is
-no account, no sign-in, and no server that collects your data. Everything about your
-collection stays on your phone.
+collection catalog app. Everything about your collection stays on your phone.
+</p>
+<p>
+Since 2026-09-20 you can create an <strong>optional account</strong> in the app.
+Without one, everything works exactly as before. An account is only needed for the
+networked features, and your collection itself is <strong>not uploaded</strong> —
+see “Accounts and networked features”.
 </p>
 
 <h2>What the app stores</h2>
@@ -159,8 +204,38 @@ stored locally, together with that item's record. You can revoke the permission 
 any time in your phone's settings; the rest of the app keeps working.
 </p>
 
+<h2>Accounts and networked features</h2>
+<p>
+An account is optional and is created by signing in with <strong>Google</strong>.
+Once signed in, the server (Supabase) stores your email address, your Google account
+identifier, and the <strong>display name</strong> you choose — the name other users
+will see.
+</p>
+<p>
+<strong>Your collection is not uploaded.</strong> In this version an account
+publishes nothing at all: items, photos and descriptions stay on your phone. When
+collection sharing arrives, only <strong>the categories you explicitly mark</strong>
+will be uploaded, and even from those the <strong>price, place of purchase, date of
+purchase and loan records will not be</strong>. This policy will be updated then.
+</p>
+<p>
+You can delete your account at any time in the app (Settings → Account → Delete
+account) or through the
+<a href="delete-account.html">account deletion page</a>.
+</p>
+
 <h2>Third-party services</h2>
 <ul>
+  <li>
+    <strong>Sign in with Google</strong> — if you create an account, Google verifies
+    your identity and passes your email address and name to the app. Google's terms
+    of service and privacy policy apply.
+  </li>
+  <li>
+    <strong>Supabase</strong> — storage for accounts and (in future) published
+    collections, on a server located in the European Union. Only what is listed
+    under “Accounts and networked features” is stored there.
+  </li>
   <li>
     <strong>Google Gemini API</strong> — if you choose to use automatic item
     recognition from a photo, that photo is sent to the Google Gemini API using an
@@ -194,6 +269,12 @@ it anywhere on its own.
 <p>
 You can delete any item in your collection directly in the app. Uninstalling the app
 deletes all data it created (the database and the photos) along with it.
+</p>
+<p>
+If you have created an account, you can delete it in the app (Settings → Account →
+Delete account) or through the
+<a href="delete-account.html">account deletion page</a>. Deletion is permanent: the
+account is removed, not frozen. The collection on your phone is unaffected.
 </p>
 
 <h2>Children's privacy</h2>
