@@ -3,6 +3,13 @@
     "version": "0.4.0",
     "date": "2026-09-20",
     "type": "ota",
+    "lt": "Ištrynus daiktą iš publikuotos kategorijos, jo nuotrauka dabar dingsta ir iš debesies. Iki šiol dingdavo tik įrašas lentelėje, o miniatiūra likdavo — programa apie tai nepranešdavo, nes jos požiūriu viskas pavykdavo.",
+    "en": "When you delete an item from a published category, its picture is now removed from the cloud as well. Until now only the table row disappeared while the thumbnail stayed behind — and the app never reported it, because from its point of view everything had succeeded."
+  },
+  {
+    "version": "0.4.0",
+    "date": "2026-09-20",
+    "type": "ota",
     "lt": "Pataisytas miniatiūrų kėlimas publikuojant kategoriją: kelias buvo sudedamas du kartus, tad nė viena miniatiūra nepatekdavo į debesį, nors pati kategorija nusiųsdavo sėkmingai. Publikavimo mygtukas dabar rodo eigą (pavyzdžiui, 12/40) — didelėje kolekcijoje kėlimas užtrunka, ir laukimas turi turėti matomą pabaigą.",
     "en": "Fixed thumbnail upload when publishing a category: the path was being joined twice, so no thumbnail ever reached the cloud even though the category itself uploaded fine. The publish button now shows progress (for example, 12/40) — in a large collection the upload takes a while, and the wait should have a visible end."
   },
