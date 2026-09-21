@@ -1,6 +1,13 @@
 [
   {
     "version": "0.4.0",
+    "date": "2026-09-21",
+    "type": "build",
+    "lt": "Draugai pasiekė Google Play. Programoje dabar gali pridėti draugą pagal el. paštą arba dalinimosi kodą, o tikrindamas, ar jau turi dovaną, gali rinktis - tikrinti savo kolekciją ar konkretaus draugo. Kategoriją reikia atskirai pažymėti kaip matomą draugams - vien publikavimas jos automatiškai neatveria.",
+    "en": "Friends have reached Google Play. You can now add a friend by email or by a share code, and when checking whether you already own a gift, you can choose whose collection to check - your own or a specific friend's. A category still needs to be marked visible to friends separately; publishing it alone doesn't open it up automatically."
+  },
+  {
+    "version": "0.4.0",
     "date": "2026-09-20",
     "type": "ota",
     "lt": "Ištrynus daiktą iš publikuotos kategorijos, jo nuotrauka dabar dingsta ir iš debesies. Iki šiol dingdavo tik įrašas lentelėje, o miniatiūra likdavo — programa apie tai nepranešdavo, nes jos požiūriu viskas pavykdavo.",
