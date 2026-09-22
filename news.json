@@ -1,6 +1,13 @@
 [
   {
     "version": "0.4.0",
+    "date": "2026-09-22",
+    "type": "ota",
+    "lt": "Kategorijų sąraše dabar iš karto matoma ir keičiama dalinimosi su draugais būsena – nebereikia eiti į redagavimo ekraną.",
+    "en": "The category list now shows and lets you change friend-sharing status directly, without opening the edit screen."
+  },
+  {
+    "version": "0.4.0",
     "date": "2026-09-21",
     "type": "build",
     "lt": "Draugai pasiekė Google Play. Programoje dabar gali pridėti draugą pagal el. paštą arba dalinimosi kodą, o tikrindamas, ar jau turi dovaną, gali rinktis - tikrinti savo kolekciją ar konkretaus draugo. Kategoriją reikia atskirai pažymėti kaip matomą draugams - vien publikavimas jos automatiškai neatveria.",
