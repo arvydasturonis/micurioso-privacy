@@ -3,6 +3,13 @@
     "version": "0.4.0",
     "date": "2026-09-24",
     "type": "ota",
+    "lt": "Draugų ir kategorijų ekranuose prisijungti su Google galima iš karto, nebereikia eiti į Nustatymus. Kvietime draugui dabar parašyta, kur įvesti kodą, ir pridėta nuoroda atsisiųsti programą.",
+    "en": "You can now sign in with Google straight from the Friends and Categories screens, without going to Settings. A friend invite now explains where to enter the code and includes a link to download the app."
+  },
+  {
+    "version": "0.4.0",
+    "date": "2026-09-24",
+    "type": "ota",
     "lt": "Nepavykus prisijungti su Google, programa dabar parodo tikrą priežastį ir klaidos kodą, o ne visada „patikrink interneto ryšį“.",
     "en": "When Google sign-in fails, the app now shows the actual reason and an error code instead of always saying “check your connection”."
   },
