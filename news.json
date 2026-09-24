@@ -2,6 +2,13 @@
   {
     "version": "0.4.1",
     "date": "2026-09-24",
+    "type": "ota",
+    "lt": "Smulki pataisa: Google Play atnaujinimų patikra nebepraneša klaidos, kai Play paslauga telefone laikinai nepasiekiama.",
+    "en": "Minor fix: the Google Play update check no longer reports an error when the Play service is temporarily unavailable on the phone."
+  },
+  {
+    "version": "0.4.1",
+    "date": "2026-09-24",
     "type": "build",
     "lt": "Nauja versija 0.4.1: programa pati pasiūlo atsinaujinti iš Google Play, atnaujinimas parsisiunčia fone ir įdiegiamas, kai tau patogu. Taip pat atnaujintos vidinės bibliotekos.",
     "en": "New version 0.4.1: the app now offers to update itself from Google Play; the update downloads in the background and installs when it suits you. Internal libraries were also updated."
