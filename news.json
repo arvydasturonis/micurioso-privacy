@@ -3,6 +3,13 @@
     "version": "0.4.1",
     "date": "2026-09-24",
     "type": "ota",
+    "lt": "Dovanos patikros ekrane prisijungti su Google galima iš karto, nebereikia eiti į Nustatymus.",
+    "en": "You can now sign in with Google straight from the gift check screen, without going to Settings."
+  },
+  {
+    "version": "0.4.1",
+    "date": "2026-09-24",
+    "type": "ota",
     "lt": "Smulki pataisa: Google Play atnaujinimų patikra nebepraneša klaidos, kai Play paslauga telefone laikinai nepasiekiama.",
     "en": "Minor fix: the Google Play update check no longer reports an error when the Play service is temporarily unavailable on the phone."
   },
