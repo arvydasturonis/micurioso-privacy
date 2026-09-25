@@ -3,6 +3,13 @@
     "version": "0.4.1",
     "date": "2026-09-25",
     "type": "ota",
+    "lt": "Pataisytas Naršyti skirtuko paieškos laukelis, kuris nutįsdavo per visą ekraną.",
+    "en": "Fixed the Browse tab's search field, which used to stretch to fill the whole screen."
+  },
+  {
+    "version": "0.4.1",
+    "date": "2026-09-25",
+    "type": "ota",
     "lt": "Naujas 'Naršyti' skirtukas Draugų ekrane - dabar galima atrasti ne tik draugų, bet ir bet kurio kito naudotojo viešai pasidalintas kolekcijas.",
     "en": "New 'Browse' tab on the Friends screen - discover not just friends' collections, but any other user's publicly shared ones too."
   },
