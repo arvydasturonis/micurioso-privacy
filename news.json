@@ -3,6 +3,13 @@
     "version": "0.4.1",
     "date": "2026-09-25",
     "type": "ota",
+    "lt": "Naujas 'Naršyti' skirtukas Draugų ekrane - dabar galima atrasti ne tik draugų, bet ir bet kurio kito naudotojo viešai pasidalintas kolekcijas.",
+    "en": "New 'Browse' tab on the Friends screen - discover not just friends' collections, but any other user's publicly shared ones too."
+  },
+  {
+    "version": "0.4.1",
+    "date": "2026-09-25",
+    "type": "ota",
     "lt": "Draugo kolekcijos ekranai: matyti kategorijos ir draugo vardą antraštėje, knygų sąraše pavadinimą/autorių/serijos numerį; aiškesnis Draugų ekranas (paaiškinimas, ką vesti, ir kad draugą galima paliesti); pataisyta debesies klaidų diagnostika.",
     "en": "Friend collection screens: category and friend name now shown as a title, book list shows title/author/series number; clearer Friends screen (explains what to enter, and that tapping a friend opens their collection); fixed cloud error diagnostics."
   },
