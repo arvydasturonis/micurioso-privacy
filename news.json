@@ -1,5 +1,12 @@
 [
   {
+    "version": "0.4.2",
+    "date": "2026-09-26",
+    "type": "build",
+    "lt": "Paprastesnė pradžia: pirmas ekranas iškart klausia, ką kolekcionuoji. Gemini raktą gauti lengviau, nes grįžus iš Google AI Studio programa pati pasiūlo įklijuoti nukopijuotą raktą. Tuščiame kataloge yra aiškus mygtukas „Pridėti pirmą daiktą“. Patobulintas atnaujinimas per Google Play.",
+    "en": "A simpler start: the first screen asks straight away what you collect. Getting a Gemini key is easier: when you come back from Google AI Studio, the app offers to paste the key you copied. An empty catalog now has a clear 'Add your first item' button. Improved updating through Google Play."
+  },
+  {
     "version": "0.4.1",
     "date": "2026-09-26",
     "type": "ota",
