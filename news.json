@@ -1,6 +1,13 @@
 [
   {
     "version": "0.4.1",
+    "date": "2026-09-26",
+    "type": "ota",
+    "lt": "Debesies pataisa: naujo naudotojo prisijungimo profilis dabar visada sukuriamas teisingai. Draugų ekranas rodo kraunimo indikatorių, kol tikrinama prisijungimo būsena.",
+    "en": "Cloud fix: a new user's profile is now always created correctly on first sign-in. The Friends screen now shows a loading indicator while your account status is being checked."
+  },
+  {
+    "version": "0.4.1",
     "date": "2026-09-25",
     "type": "ota",
     "lt": "Pataisytas Naršyti skirtuko paieškos laukelis, kuris nutįsdavo per visą ekraną.",
