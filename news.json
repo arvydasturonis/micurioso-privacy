@@ -4,7 +4,7 @@
     "date": "2026-09-27",
     "type": "ota",
     "lt": "Knygų serijos: mygtukas „Apie knygą“ dabar pasiūlo ir seriją su numeriu (pvz. Narnijos kronikos, Haris Poteris, Kopa) – ji įrašoma tik jums pažymėjus. Mažoms serijoms: kataloge pažymėkite knygas → „Į seriją“ → „+ Nauja serija…“, o numerius galima priskirti pagal žymėjimo tvarką. Taip pat pataisyta: ką tik pridėtos knygos aprašymas, žanras ir autorius atsiranda įrašo ekrane patys, nebereikia jo atidaryti iš naujo.",
-    "en": "Book series: the “About this book” button now also suggests the series and its number (e.g. The Chronicles of Narnia, Harry Potter, Dune) – it is saved only if you tick it. For small series: select books in the catalog → “To series” → “+ New series…”, optionally numbering them in the order you selected. Also fixed: a newly added book's description, genre and author now appear on its screen by themselves, without reopening it."
+    "en": "Book series: the “About book” button now also suggests the series and its number (e.g. The Chronicles of Narnia, Harry Potter, Dune) – it is saved only if you tick it. For small series: select books in the catalog → “To series” → “+ New series…”, optionally numbering them in the order you selected. Also fixed: a newly added book's description, genre and author now appear on its screen by themselves, without reopening it."
   },
   {
     "version": "0.4.2",
