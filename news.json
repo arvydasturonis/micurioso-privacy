@@ -3,8 +3,8 @@
     "version": "0.4.2",
     "date": "2026-09-27",
     "type": "ota",
-    "lt": "Greitesnis dalinimasis kolekcija: pakeitus daiktą bendrinamoje kategorijoje, į debesį nebesiunčiami nepasikeitę paieškos duomenys. Didelėms kolekcijoms (pvz. keli šimtai knygų) siunčiamo duomenų kiekis sumažėjo maždaug 15 kartų, tad sinchronizavimas nebenutrūksta dėl laiko ribos.",
-    "en": "Faster collection sharing: when you change an item in a shared category, unchanged search data is no longer re-sent to the cloud. For large collections (e.g. several hundred books) the upload is about 15 times smaller, so syncing no longer fails on the time limit."
+    "lt": "Greitesnis dalinimasis kolekcija: pakeitus daiktą bendrinamoje kategorijoje, į debesį nebesiunčiami nepasikeitę paieškos duomenys. Didelėms kolekcijoms (pvz. keli šimtai knygų) siunčiamo duomenų kiekis sumažėjo maždaug 15 kartų, todėl sinchronizavimas turėtų vykti patikimiau.",
+    "en": "Faster collection sharing: when you change an item in a shared category, unchanged search data is no longer re-sent to the cloud. For large collections (e.g. several hundred books) the upload is about 15 times smaller, so syncing should be more reliable."
   },
   {
     "version": "0.4.2",
