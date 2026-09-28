@@ -3,6 +3,13 @@
     "version": "0.4.2",
     "date": "2026-09-28",
     "type": "ota",
+    "lt": "Jei pridedant knygą Gemini neatsako, forma dabar tai paaiškina ir pasiūlo aprašymą gauti vėliau per „Apie knygą“.",
+    "en": "If Gemini does not answer while adding a book, the form now says so and suggests getting the description later via \"About book\"."
+  },
+  {
+    "version": "0.4.2",
+    "date": "2026-09-28",
+    "type": "ota",
     "lt": "Knygos nuotrauką vėl galima apkarpyti. Knyga dabar atpažįstama prieš pildymo formą: aprašymas, žanras, autorius ir serijos numeris iškart matomi formoje ir juos galima pataisyti prieš išsaugant (arba praleisti).",
     "en": "Book photos can be cropped again. A book is now recognised before the form: the description, genre, author and series number appear in the form right away, so you can correct them before saving (or skip)."
   },
