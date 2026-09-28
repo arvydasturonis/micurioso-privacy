@@ -1,6 +1,13 @@
 [
   {
     "version": "0.4.2",
+    "date": "2026-09-28",
+    "type": "ota",
+    "lt": "Bendrinamos kolekcijos į debesį dabar siunčiamos dalimis po 100 daiktų, o ne visos iš karto. Didelėms kolekcijoms (pvz. keli šimtai knygų) viena dalis serveryje apdorojama per mažiau nei sekundę, o nutrūkus ryšiui jau išsiųstos dalys nebeprarandamos – kitas sinchronizavimas tęsia nuo jų.",
+    "en": "Shared collections are now uploaded to the cloud in parts of 100 items instead of all at once. For large collections (e.g. several hundred books) each part takes the server under a second, and if the connection drops, the parts already sent are kept – the next sync continues from there."
+  },
+  {
+    "version": "0.4.2",
     "date": "2026-09-27",
     "type": "ota",
     "lt": "Greitesnis dalinimasis kolekcija: pakeitus daiktą bendrinamoje kategorijoje, į debesį nebesiunčiami nepasikeitę paieškos duomenys. Didelėms kolekcijoms (pvz. keli šimtai knygų) siunčiamo duomenų kiekis sumažėjo maždaug 15 kartų, todėl sinchronizavimas turėtų vykti patikimiau.",
