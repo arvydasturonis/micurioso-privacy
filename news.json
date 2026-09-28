@@ -3,6 +3,13 @@
     "version": "0.4.2",
     "date": "2026-09-28",
     "type": "ota",
+    "lt": "Knygos nuotrauką vėl galima apkarpyti. Knyga dabar atpažįstama prieš pildymo formą: aprašymas, žanras, autorius ir serijos numeris iškart matomi formoje ir juos galima pataisyti prieš išsaugant (arba praleisti).",
+    "en": "Book photos can be cropped again. A book is now recognised before the form: the description, genre, author and series number appear in the form right away, so you can correct them before saving (or skip)."
+  },
+  {
+    "version": "0.4.2",
+    "date": "2026-09-28",
+    "type": "ota",
     "lt": "Bendrinamos kolekcijos į debesį dabar siunčiamos dalimis po 100 daiktų, o ne visos iš karto. Didelėms kolekcijoms (pvz. keli šimtai knygų) viena dalis serveryje apdorojama per mažiau nei sekundę, o nutrūkus ryšiui jau išsiųstos dalys nebeprarandamos – kitas sinchronizavimas tęsia nuo jų.",
     "en": "Shared collections are now uploaded to the cloud in parts of 100 items instead of all at once. For large collections (e.g. several hundred books) each part takes the server under a second, and if the connection drops, the parts already sent are kept – the next sync continues from there."
   },
