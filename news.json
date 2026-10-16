@@ -1,6 +1,13 @@
 [
   {
     "version": "0.4.2",
+    "date": "2026-10-16",
+    "type": "ota",
+    "lt": "Nuotrauką dabar galima priartinti pirštais: palietus ją dviem pirštais, atsidaro peržiūra per visą ekraną, kurioje nuotrauką galima plėsti, stumdyti ir dukart bakstelėjus priartinti ar grąžinti atgal. Taip pat ir žiūrint draugo daiktus.",
+    "en": "Photos can now be zoomed with your fingers: touching one with two fingers opens a full-screen view where you can spread, pan, and double-tap to zoom in or back out. This also works when viewing a friend's items."
+  },
+  {
+    "version": "0.4.2",
     "date": "2026-09-28",
     "type": "ota",
     "lt": "Jei pridedant knygą Gemini neatsako, forma dabar tai paaiškina ir pasiūlo aprašymą gauti vėliau per „Apie knygą“.",
