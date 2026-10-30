@@ -1,5 +1,12 @@
 [
   {
+    "version": "0.5.0",
+    "date": "2026-10-30",
+    "type": "build",
+    "lt": "Atnaujintas programos pagrindas (Expo SDK 58, Android 17). Programa mažesnė ir greitesnė, pašalinti du nenaudojami leidimai (mikrofonas ir rodymas virš kitų programų).",
+    "en": "Updated app foundation (Expo SDK 58, Android 17). The app is smaller and faster, and two unused permissions (microphone and display over other apps) were removed."
+  },
+  {
     "version": "0.4.2",
     "date": "2026-10-16",
     "type": "ota",
