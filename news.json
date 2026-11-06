@@ -1,6 +1,13 @@
 [
   {
     "version": "0.5.0",
+    "date": "2026-11-06",
+    "type": "ota",
+    "lt": "Jei telefono laikrodis rodo neteisingą laiką, programa tai praneša paskyros ir draugų ekrane – nuo to priklauso prisijungimas. Taip pat tikslesni klaidų pranešimai, kai nepavyksta pasiekti serverio.",
+    "en": "If your phone clock shows the wrong time, the app now says so on the account and friends screens, since signing in depends on it. Also clearer error reports when the server can't be reached."
+  },
+  {
+    "version": "0.5.0",
     "date": "2026-10-30",
     "type": "build",
     "lt": "Atnaujintas programos pagrindas (Expo SDK 58, Android 17). Programa mažesnė ir greitesnė, pašalinti du nenaudojami leidimai (mikrofonas ir rodymas virš kitų programų).",
