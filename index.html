@@ -70,8 +70,11 @@ nenaudojama ir atitinkamas leidimas programėlės nėra prašomas.
 <h2>Vietos (GPS) naudojimas</h2>
 <p>
 Jei suteiki leidimą naudoti vietą, programėlė ją naudoja tik tam, kad automatiškai
-užpildytų naujo daikto įsigijimo vietos lauką. Vietos duomenys niekur nesiunčiami —
-jie saugomi tik lokaliai, kartu su kito daikto įrašu. Leidimą visada gali atšaukti
+užpildytų naujo daikto įsigijimo vietos lauką. Apytikslės koordinatės (miesto lygio
+tikslumu) vienkartiškai perduodamos telefono sistemos geokodavimo paslaugai (Android
+Geocoder, teikia Google), kuri jas paverčia miesto ir šalies pavadinimu. Pačios
+koordinatės programėlėje nesaugomos ir niekur kitur nesiunčiamos — lokaliai, kartu
+su daikto įrašu, išsaugomas tik gautas tekstas „Miestas, Šalis“. Leidimą visada gali atšaukti
 telefono nustatymuose, tai neturės įtakos kitoms programėlės funkcijoms.
 </p>
 
@@ -209,8 +212,11 @@ app does not request that permission.
 <h2>Use of location (GPS)</h2>
 <p>
 If you grant location permission, the app uses it only to fill in the place of
-purchase for a new item automatically. Location data is not sent anywhere — it is
-stored locally, together with that item's record. You can revoke the permission at
+purchase for a new item automatically. Approximate coordinates (city-level
+accuracy) are passed once to the phone's system geocoding service (Android Geocoder,
+provided by Google), which turns them into a city and country name. The coordinates
+themselves are not stored by the app and are not sent anywhere else — only the
+resulting "City, Country" text is saved locally, together with the item's record. You can revoke the permission at
 any time in your phone's settings; the rest of the app keeps working.
 </p>
 
