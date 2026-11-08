@@ -2,6 +2,13 @@
   {
     "version": "0.5.1",
     "date": "2026-11-08",
+    "type": "ota",
+    "lt": "Statistika atsidaro gerokai greičiau didelėse knygų kolekcijose - „Populiariausių autorių\" skaičiavimas pagreitintas daugiau nei šimtą kartų.",
+    "en": "Statistics now open much faster in large book collections - the \"Top authors\" calculation is more than a hundred times quicker."
+  },
+  {
+    "version": "0.5.1",
+    "date": "2026-11-08",
     "type": "build",
     "lt": "Spektakliai: naujas šablonas su būklėmis „matyta\" ir „bilietai nupirkti\" bei įvertinimu. Įrašą galima sukurti tiesiai iš el. paštu gauto PDF bilieto arba nuskenavus dokumentą. Įrankiuose - „Kuriuos jau turiu?\": įkelkite repertuaro ar knygyno sąrašo ekranvaizdį, ir programa parodys, kuriuos pavadinimus jau turite. Taip pat: vieno ekrano klaida nebeuždaro visos programos.",
     "en": "Shows: a new template with \"seen\" and \"tickets bought\" conditions and a rating. An entry can be created straight from a PDF ticket received by e-mail, or by scanning a document. New in Tools - \"Which do I already have?\": pick a screenshot of a theatre repertoire or a bookshop list and the app shows which titles you already have. Also: an error on one screen no longer closes the whole app."
