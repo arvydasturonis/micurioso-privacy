@@ -4,664 +4,759 @@
     "date": "2026-11-14",
     "type": "ota",
     "lt": "Draugų dalinimasis: draugo kolekcijoje miniatiūros nebedingsta ilgiau naršant, vienas per ilgas daiktas nebeužblokuoja visos kategorijos sinchronizavimo, o atšaukta kategorija nebeatsiranda debesyje po kopijos atkūrimo.",
-    "en": "Sharing with friends: thumbnails in a friend's collection no longer disappear during longer browsing, one oversized item no longer blocks a whole category from syncing, and an unpublished category no longer reappears in the cloud after restoring a backup."
+    "en": "Sharing with friends: thumbnails in a friend's collection no longer disappear during longer browsing, one oversized item no longer blocks a whole category from syncing, and an unpublished category no longer reappears in the cloud after restoring a backup.",
+    "es": "Compartir con amigos: las miniaturas de la colección de un amigo ya no desaparecen al navegar durante más tiempo, un solo artículo demasiado grande ya no impide sincronizar toda una categoría, y una categoría no publicada ya no vuelve a aparecer en la nube tras restaurar una copia de seguridad."
   },
   {
     "version": "0.5.1",
     "date": "2026-11-14",
     "type": "ota",
     "lt": "Patikimumo atnaujinimas: atkūrimas iš kopijos ir masinis pridėjimas nebepraranda duomenų, neteisingai įvesta kaina nebeištrinama tyliai, „Žalias\" ir „žalias\" sujungiamos į vieną žymą, nepavykus kamerai ar galerijai ekranas nebeužstringa, o skolinimų, serijų ir dublikatų sąrašai atsidaro greičiau.",
-    "en": "Reliability update: restoring a backup and bulk add no longer lose data, a mistyped price is no longer silently erased, \"Green\" and \"green\" are merged into one tag, a camera or gallery failure no longer leaves the screen stuck, and the loans, series and duplicates lists open faster."
+    "en": "Reliability update: restoring a backup and bulk add no longer lose data, a mistyped price is no longer silently erased, \"Green\" and \"green\" are merged into one tag, a camera or gallery failure no longer leaves the screen stuck, and the loans, series and duplicates lists open faster.",
+    "es": "Actualización de fiabilidad: restaurar una copia de seguridad y añadir en bloque ya no pierden datos, un precio mal escrito ya no se borra en silencio, \"Verde\" y \"verde\" se unen en una sola etiqueta, un fallo de la cámara o de la galería ya no deja la pantalla bloqueada, y las listas de préstamos, series y duplicados se abren más rápido."
   },
   {
     "version": "0.5.1",
     "date": "2026-11-08",
     "type": "ota",
     "lt": "Statistika atsidaro gerokai greičiau didelėse knygų kolekcijose - „Populiariausių autorių\" skaičiavimas pagreitintas daugiau nei šimtą kartų.",
-    "en": "Statistics now open much faster in large book collections - the \"Top authors\" calculation is more than a hundred times quicker."
+    "en": "Statistics now open much faster in large book collections - the \"Top authors\" calculation is more than a hundred times quicker.",
+    "es": "Las estadísticas ahora se abren mucho más rápido en colecciones grandes de libros: el cálculo de \"Autores principales\" es más de cien veces más rápido."
   },
   {
     "version": "0.5.1",
     "date": "2026-11-08",
     "type": "build",
     "lt": "Spektakliai: naujas šablonas su būklėmis „matyta\" ir „bilietai nupirkti\" bei įvertinimu. Įrašą galima sukurti tiesiai iš el. paštu gauto PDF bilieto arba nuskenavus dokumentą. Įrankiuose - „Kuriuos jau turiu?\": įkelkite repertuaro ar knygyno sąrašo ekranvaizdį, ir programa parodys, kuriuos pavadinimus jau turite. Taip pat: vieno ekrano klaida nebeuždaro visos programos.",
-    "en": "Shows: a new template with \"seen\" and \"tickets bought\" conditions and a rating. An entry can be created straight from a PDF ticket received by e-mail, or by scanning a document. New in Tools - \"Which do I already have?\": pick a screenshot of a theatre repertoire or a bookshop list and the app shows which titles you already have. Also: an error on one screen no longer closes the whole app."
+    "en": "Shows: a new template with \"seen\" and \"tickets bought\" conditions and a rating. An entry can be created straight from a PDF ticket received by e-mail, or by scanning a document. New in Tools - \"Which do I already have?\": pick a screenshot of a theatre repertoire or a bookshop list and the app shows which titles you already have. Also: an error on one screen no longer closes the whole app.",
+    "es": "Obras de teatro: una nueva plantilla con los estados \"vista\" y \"entradas compradas\" y una valoración. Puedes crear una entrada directamente desde una entrada en PDF recibida por correo electrónico o escaneando un documento. Novedad en Herramientas, \"¿Cuáles ya tengo?\": elige una captura de pantalla de la cartelera de un teatro o de una lista de una librería y la app te muestra qué títulos ya tienes. Además: un error en una pantalla ya no cierra toda la app."
   },
   {
     "version": "0.5.0",
     "date": "2026-11-07",
     "type": "ota",
     "lt": "Atsarginė kopija dabar kuriama ir atkuriama dalimis, tad veikia ir su didele kolekcija, o mygtukas rodo progresą. Jei AI nepavyko atpažinti daikto, pridedant galima iškart bandyti dar kartą. Statistikoje – populiariausi autoriai (Top 10). Dovanos patikra rodo, kieno kolekcija ir kuri kategorija tikrinta.",
-    "en": "Backups are now created and restored in parts, so they work with large collections too, and the button shows progress. If AI recognition fails while adding an item, you can retry right away. Statistics now show the top 10 authors. The gift check shows whose collection and which category were checked."
+    "en": "Backups are now created and restored in parts, so they work with large collections too, and the button shows progress. If AI recognition fails while adding an item, you can retry right away. Statistics now show the top 10 authors. The gift check shows whose collection and which category were checked.",
+    "es": "Las copias de seguridad ahora se crean y se restauran por partes, así que también funcionan con colecciones grandes, y el botón muestra el progreso. Si el reconocimiento con IA falla al añadir un artículo, puedes reintentarlo enseguida. Las estadísticas ahora muestran los 10 autores principales. La comprobación de regalo muestra qué colección y qué categoría se comprobaron."
   },
   {
     "version": "0.5.0",
     "date": "2026-11-06",
     "type": "ota",
     "lt": "Jei telefono laikrodis rodo neteisingą laiką, programa tai praneša paskyros ir draugų ekrane – nuo to priklauso prisijungimas. Taip pat tikslesni klaidų pranešimai, kai nepavyksta pasiekti serverio.",
-    "en": "If your phone clock shows the wrong time, the app now says so on the account and friends screens, since signing in depends on it. Also clearer error reports when the server can't be reached."
+    "en": "If your phone clock shows the wrong time, the app now says so on the account and friends screens, since signing in depends on it. Also clearer error reports when the server can't be reached.",
+    "es": "Si el reloj de tu teléfono muestra una hora incorrecta, la app ahora te lo dice en las pantallas de la cuenta y de amigos, ya que el inicio de sesión depende de ello. Además, informes de error más claros cuando no se puede conectar con el servidor."
   },
   {
     "version": "0.5.0",
     "date": "2026-10-30",
     "type": "build",
     "lt": "Atnaujintas programos pagrindas (Expo SDK 58, Android 17). Programa mažesnė ir greitesnė, pašalinti du nenaudojami leidimai (mikrofonas ir rodymas virš kitų programų).",
-    "en": "Updated app foundation (Expo SDK 58, Android 17). The app is smaller and faster, and two unused permissions (microphone and display over other apps) were removed."
+    "en": "Updated app foundation (Expo SDK 58, Android 17). The app is smaller and faster, and two unused permissions (microphone and display over other apps) were removed.",
+    "es": "Base de la app actualizada (Expo SDK 58, Android 17). La app es más pequeña y más rápida, y se eliminaron dos permisos que no se usaban (micrófono y mostrar sobre otras apps)."
   },
   {
     "version": "0.4.2",
     "date": "2026-10-16",
     "type": "ota",
     "lt": "Nuotrauką dabar galima priartinti pirštais: palietus ją dviem pirštais, atsidaro peržiūra per visą ekraną, kurioje nuotrauką galima plėsti, stumdyti ir dukart bakstelėjus priartinti ar grąžinti atgal. Taip pat ir žiūrint draugo daiktus.",
-    "en": "Photos can now be zoomed with your fingers: touching one with two fingers opens a full-screen view where you can spread, pan, and double-tap to zoom in or back out. This also works when viewing a friend's items."
+    "en": "Photos can now be zoomed with your fingers: touching one with two fingers opens a full-screen view where you can spread, pan, and double-tap to zoom in or back out. This also works when viewing a friend's items.",
+    "es": "Ahora puedes ampliar las fotos con los dedos: al tocar una con dos dedos se abre una vista a pantalla completa donde puedes separar los dedos, desplazarte y tocar dos veces para acercar o volver a alejar. También funciona al ver los artículos de un amigo."
   },
   {
     "version": "0.4.2",
     "date": "2026-09-28",
     "type": "ota",
     "lt": "Jei pridedant knygą Gemini neatsako, forma dabar tai paaiškina ir pasiūlo aprašymą gauti vėliau per „Apie knygą“.",
-    "en": "If Gemini does not answer while adding a book, the form now says so and suggests getting the description later via \"About book\"."
+    "en": "If Gemini does not answer while adding a book, the form now says so and suggests getting the description later via \"About book\".",
+    "es": "Si Gemini no responde al añadir un libro, el formulario ahora lo indica y sugiere obtener la descripción más tarde mediante \"Acerca del libro\"."
   },
   {
     "version": "0.4.2",
     "date": "2026-09-28",
     "type": "ota",
     "lt": "Knygos nuotrauką vėl galima apkarpyti. Knyga dabar atpažįstama prieš pildymo formą: aprašymas, žanras, autorius ir serijos numeris iškart matomi formoje ir juos galima pataisyti prieš išsaugant (arba praleisti).",
-    "en": "Book photos can be cropped again. A book is now recognised before the form: the description, genre, author and series number appear in the form right away, so you can correct them before saving (or skip)."
+    "en": "Book photos can be cropped again. A book is now recognised before the form: the description, genre, author and series number appear in the form right away, so you can correct them before saving (or skip).",
+    "es": "Las fotos de libros se pueden volver a recortar. Ahora un libro se reconoce antes del formulario: la descripción, el género, el autor y el número de la serie aparecen en el formulario de inmediato, así que puedes corregirlos antes de guardar (u omitirlo)."
   },
   {
     "version": "0.4.2",
     "date": "2026-09-28",
     "type": "ota",
     "lt": "Bendrinamos kolekcijos į debesį dabar siunčiamos dalimis po 100 daiktų, o ne visos iš karto. Didelėms kolekcijoms (pvz. keli šimtai knygų) viena dalis serveryje apdorojama per mažiau nei sekundę, o nutrūkus ryšiui jau išsiųstos dalys nebeprarandamos – kitas sinchronizavimas tęsia nuo jų.",
-    "en": "Shared collections are now uploaded to the cloud in parts of 100 items instead of all at once. For large collections (e.g. several hundred books) each part takes the server under a second, and if the connection drops, the parts already sent are kept – the next sync continues from there."
+    "en": "Shared collections are now uploaded to the cloud in parts of 100 items instead of all at once. For large collections (e.g. several hundred books) each part takes the server under a second, and if the connection drops, the parts already sent are kept – the next sync continues from there.",
+    "es": "Las colecciones compartidas ahora se suben a la nube en partes de 100 artículos en lugar de todas a la vez. En colecciones grandes (p. ej., varios cientos de libros), cada parte le lleva al servidor menos de un segundo, y si se corta la conexión, las partes ya enviadas se conservan: la siguiente sincronización continúa desde ahí."
   },
   {
     "version": "0.4.2",
     "date": "2026-09-27",
     "type": "ota",
     "lt": "Greitesnis dalinimasis kolekcija: pakeitus daiktą bendrinamoje kategorijoje, į debesį nebesiunčiami nepasikeitę paieškos duomenys. Didelėms kolekcijoms (pvz. keli šimtai knygų) siunčiamo duomenų kiekis sumažėjo maždaug 15 kartų, todėl sinchronizavimas turėtų vykti patikimiau.",
-    "en": "Faster collection sharing: when you change an item in a shared category, unchanged search data is no longer re-sent to the cloud. For large collections (e.g. several hundred books) the upload is about 15 times smaller, so syncing should be more reliable."
+    "en": "Faster collection sharing: when you change an item in a shared category, unchanged search data is no longer re-sent to the cloud. For large collections (e.g. several hundred books) the upload is about 15 times smaller, so syncing should be more reliable.",
+    "es": "Compartir colecciones es más rápido: cuando cambias un artículo de una categoría compartida, los datos de búsqueda que no han cambiado ya no se vuelven a enviar a la nube. En colecciones grandes (p. ej., varios cientos de libros), la subida es unas 15 veces más pequeña, así que la sincronización debería ser más fiable."
   },
   {
     "version": "0.4.2",
     "date": "2026-09-27",
     "type": "ota",
     "lt": "Knygų serijos: mygtukas „Apie knygą“ dabar pasiūlo ir seriją su numeriu (pvz. Narnijos kronikos, Haris Poteris, Kopa) – ji įrašoma tik jums pažymėjus. Mažoms serijoms: kataloge pažymėkite knygas → „Į seriją“ → „+ Nauja serija…“, o numerius galima priskirti pagal žymėjimo tvarką. Taip pat pataisyta: ką tik pridėtos knygos aprašymas, žanras ir autorius atsiranda įrašo ekrane patys, nebereikia jo atidaryti iš naujo.",
-    "en": "Book series: the “About book” button now also suggests the series and its number (e.g. The Chronicles of Narnia, Harry Potter, Dune) – it is saved only if you tick it. For small series: select books in the catalog → “To series” → “+ New series…”, optionally numbering them in the order you selected. Also fixed: a newly added book's description, genre and author now appear on its screen by themselves, without reopening it."
+    "en": "Book series: the “About book” button now also suggests the series and its number (e.g. The Chronicles of Narnia, Harry Potter, Dune) – it is saved only if you tick it. For small series: select books in the catalog → “To series” → “+ New series…”, optionally numbering them in the order you selected. Also fixed: a newly added book's description, genre and author now appear on its screen by themselves, without reopening it.",
+    "es": "Series de libros: el botón “Acerca del libro” ahora también sugiere la serie y su número (p. ej., Las crónicas de Narnia, Harry Potter, Dune), y solo se guarda si la marcas. Para series pequeñas: selecciona libros en el catálogo → “A serie” → “+ Nueva serie…”, y si quieres, numéralos en el orden en que los seleccionaste. También se corrigió: la descripción, el género y el autor de un libro recién añadido ahora aparecen en su pantalla por sí solos, sin volver a abrirlo."
   },
   {
     "version": "0.4.2",
     "date": "2026-09-26",
     "type": "build",
     "lt": "Paprastesnė pradžia: pirmas ekranas iškart klausia, ką kolekcionuoji. Gemini raktą gauti lengviau, nes grįžus iš Google AI Studio programa pati pasiūlo įklijuoti nukopijuotą raktą. Tuščiame kataloge yra aiškus mygtukas „Pridėti pirmą daiktą“. Patobulintas atnaujinimas per Google Play.",
-    "en": "A simpler start: the first screen asks straight away what you collect. Getting a Gemini key is easier: when you come back from Google AI Studio, the app offers to paste the key you copied. An empty catalog now has a clear 'Add your first item' button. Improved updating through Google Play."
+    "en": "A simpler start: the first screen asks straight away what you collect. Getting a Gemini key is easier: when you come back from Google AI Studio, the app offers to paste the key you copied. An empty catalog now has a clear 'Add your first item' button. Improved updating through Google Play.",
+    "es": "Un comienzo más sencillo: la primera pantalla te pregunta de entrada qué coleccionas. Conseguir una clave de Gemini es más fácil: cuando vuelves de Google AI Studio, la app te ofrece pegar la clave que copiaste. Un catálogo vacío ahora tiene un botón claro de 'Añade tu primer artículo'. Se mejoró la actualización a través de Google Play."
   },
   {
     "version": "0.4.1",
     "date": "2026-09-26",
     "type": "ota",
     "lt": "Debesies pataisa: naujo naudotojo prisijungimo profilis dabar visada sukuriamas teisingai. Draugų ekranas rodo kraunimo indikatorių, kol tikrinama prisijungimo būsena.",
-    "en": "Cloud fix: a new user's profile is now always created correctly on first sign-in. The Friends screen now shows a loading indicator while your account status is being checked."
+    "en": "Cloud fix: a new user's profile is now always created correctly on first sign-in. The Friends screen now shows a loading indicator while your account status is being checked.",
+    "es": "Corrección de la nube: el perfil de un usuario nuevo ahora siempre se crea correctamente al iniciar sesión por primera vez. La pantalla Amigos ahora muestra un indicador de carga mientras se comprueba el estado de tu cuenta."
   },
   {
     "version": "0.4.1",
     "date": "2026-09-25",
     "type": "ota",
     "lt": "Pataisytas Naršyti skirtuko paieškos laukelis, kuris nutįsdavo per visą ekraną.",
-    "en": "Fixed the Browse tab's search field, which used to stretch to fill the whole screen."
+    "en": "Fixed the Browse tab's search field, which used to stretch to fill the whole screen.",
+    "es": "Se corrigió el campo de búsqueda de la pestaña Explorar, que antes se estiraba hasta ocupar toda la pantalla."
   },
   {
     "version": "0.4.1",
     "date": "2026-09-25",
     "type": "ota",
     "lt": "Naujas 'Naršyti' skirtukas Draugų ekrane - dabar galima atrasti ne tik draugų, bet ir bet kurio kito naudotojo viešai pasidalintas kolekcijas.",
-    "en": "New 'Browse' tab on the Friends screen - discover not just friends' collections, but any other user's publicly shared ones too."
+    "en": "New 'Browse' tab on the Friends screen - discover not just friends' collections, but any other user's publicly shared ones too.",
+    "es": "Nueva pestaña 'Explorar' en la pantalla Amigos: descubre no solo las colecciones de tus amigos, sino también las que cualquier otro usuario comparte públicamente."
   },
   {
     "version": "0.4.1",
     "date": "2026-09-25",
     "type": "ota",
     "lt": "Draugo kolekcijos ekranai: matyti kategorijos ir draugo vardą antraštėje, knygų sąraše pavadinimą/autorių/serijos numerį; aiškesnis Draugų ekranas (paaiškinimas, ką vesti, ir kad draugą galima paliesti); pataisyta debesies klaidų diagnostika.",
-    "en": "Friend collection screens: category and friend name now shown as a title, book list shows title/author/series number; clearer Friends screen (explains what to enter, and that tapping a friend opens their collection); fixed cloud error diagnostics."
+    "en": "Friend collection screens: category and friend name now shown as a title, book list shows title/author/series number; clearer Friends screen (explains what to enter, and that tapping a friend opens their collection); fixed cloud error diagnostics.",
+    "es": "Pantallas de la colección de un amigo: la categoría y el nombre del amigo ahora se muestran como título, y la lista de libros muestra título/autor/número de la serie; pantalla Amigos más clara (explica qué introducir y que al tocar a un amigo se abre su colección); se corrigió el diagnóstico de errores de la nube."
   },
   {
     "version": "0.4.1",
     "date": "2026-09-25",
     "type": "ota",
     "lt": "Draugų kategorijose atsirado paieška ir filtrai, mygtukas dovanos patikrai tiesiai iš kategorijos, slinkimas tarp daiktų, o knygų miniatiūros dabar rodo tikrą nugarėlę. Taip pat ištaisytas defektas, dėl kurio įvestas, bet neišsaugotas vardas Nustatymuose galėjo tyliai dingti.",
-    "en": "Friend collections now have search and filters, a gift-check button right from the category, swipe between items, and book thumbnails that show the real spine. Also fixed a bug where a typed but unsaved display name in Settings could be silently lost."
+    "en": "Friend collections now have search and filters, a gift-check button right from the category, swipe between items, and book thumbnails that show the real spine. Also fixed a bug where a typed but unsaved display name in Settings could be silently lost.",
+    "es": "Las colecciones de amigos ahora tienen búsqueda y filtros, un botón para comprobar regalo directamente desde la categoría, deslizamiento entre artículos y miniaturas de libros que muestran el lomo real. También se corrigió un error por el que un nombre visible escrito pero no guardado en Ajustes podía perderse en silencio."
   },
   {
     "version": "0.4.1",
     "date": "2026-09-24",
     "type": "ota",
     "lt": "Dovanos patikros ekrane prisijungti su Google galima iš karto, nebereikia eiti į Nustatymus.",
-    "en": "You can now sign in with Google straight from the gift check screen, without going to Settings."
+    "en": "You can now sign in with Google straight from the gift check screen, without going to Settings.",
+    "es": "Ahora puedes iniciar sesión con Google directamente desde la pantalla de comprobar regalo, sin ir a Ajustes."
   },
   {
     "version": "0.4.1",
     "date": "2026-09-24",
     "type": "ota",
     "lt": "Smulki pataisa: Google Play atnaujinimų patikra nebepraneša klaidos, kai Play paslauga telefone laikinai nepasiekiama.",
-    "en": "Minor fix: the Google Play update check no longer reports an error when the Play service is temporarily unavailable on the phone."
+    "en": "Minor fix: the Google Play update check no longer reports an error when the Play service is temporarily unavailable on the phone.",
+    "es": "Corrección menor: la comprobación de actualizaciones de Google Play ya no informa de un error cuando el servicio de Play no está disponible temporalmente en el teléfono."
   },
   {
     "version": "0.4.1",
     "date": "2026-09-24",
     "type": "build",
     "lt": "Nauja versija 0.4.1: programa pati pasiūlo atsinaujinti iš Google Play, atnaujinimas parsisiunčia fone ir įdiegiamas, kai tau patogu. Taip pat atnaujintos vidinės bibliotekos.",
-    "en": "New version 0.4.1: the app now offers to update itself from Google Play; the update downloads in the background and installs when it suits you. Internal libraries were also updated."
+    "en": "New version 0.4.1: the app now offers to update itself from Google Play; the update downloads in the background and installs when it suits you. Internal libraries were also updated.",
+    "es": "Nueva versión 0.4.1: la app ahora ofrece actualizarse desde Google Play; la actualización se descarga en segundo plano y se instala cuando te venga bien. También se actualizaron las bibliotecas internas."
   },
   {
     "version": "0.4.0",
     "date": "2026-09-24",
     "type": "ota",
     "lt": "Draugų ir kategorijų ekranuose prisijungti su Google galima iš karto, nebereikia eiti į Nustatymus. Kvietime draugui dabar parašyta, kur įvesti kodą, ir pridėta nuoroda atsisiųsti programą.",
-    "en": "You can now sign in with Google straight from the Friends and Categories screens, without going to Settings. A friend invite now explains where to enter the code and includes a link to download the app."
+    "en": "You can now sign in with Google straight from the Friends and Categories screens, without going to Settings. A friend invite now explains where to enter the code and includes a link to download the app.",
+    "es": "Ahora puedes iniciar sesión con Google directamente desde las pantallas Amigos y Categorías, sin ir a Ajustes. Una invitación de amistad ahora explica dónde introducir el código e incluye un enlace para descargar la app."
   },
   {
     "version": "0.4.0",
     "date": "2026-09-24",
     "type": "ota",
     "lt": "Nepavykus prisijungti su Google, programa dabar parodo tikrą priežastį ir klaidos kodą, o ne visada „patikrink interneto ryšį“.",
-    "en": "When Google sign-in fails, the app now shows the actual reason and an error code instead of always saying “check your connection”."
+    "en": "When Google sign-in fails, the app now shows the actual reason and an error code instead of always saying “check your connection”.",
+    "es": "Cuando falla el inicio de sesión con Google, la app ahora muestra el motivo real y un código de error en lugar de decir siempre “comprueba tu conexión”."
   },
   {
     "version": "0.4.0",
     "date": "2026-09-23",
     "type": "ota",
     "lt": "Publikuota kategorija dabar iš karto matoma draugams (anksčiau likdavo privati, kol pats pakeisdavai), o pridėjus, pataisius ar ištrynus daiktą - persiunčiama į debesį automatiškai.",
-    "en": "A published category is now visible to friends right away (it used to stay private until you changed it), and adding, editing or deleting an item now re-syncs to the cloud automatically."
+    "en": "A published category is now visible to friends right away (it used to stay private until you changed it), and adding, editing or deleting an item now re-syncs to the cloud automatically.",
+    "es": "Una categoría publicada ahora es visible para los amigos de inmediato (antes seguía siendo privada hasta que la modificabas), y añadir, editar o eliminar un artículo ahora vuelve a sincronizarse con la nube automáticamente."
   },
   {
     "version": "0.4.0",
     "date": "2026-09-23",
     "type": "ota",
     "lt": "Diskgolfo diskus dabar dažnai užtenka nufotografuoti vieną kartą: jei disko modelis atspausdintas ir jį pavyksta atpažinti, antros (galinės) nuotraukos programa nebeklausia.",
-    "en": "Disc golf discs now often need just one photo: if the disc's model name is printed on it and gets recognized, the app no longer asks for a second (back) photo."
+    "en": "Disc golf discs now often need just one photo: if the disc's model name is printed on it and gets recognized, the app no longer asks for a second (back) photo.",
+    "es": "Los discos de disc golf ahora suelen necesitar una sola foto: si el nombre del modelo del disco está impreso en él y se reconoce, la app ya no pide una segunda foto (del reverso)."
   },
   {
     "version": "0.4.0",
     "date": "2026-09-22",
     "type": "ota",
     "lt": "Kategorijų sąraše dabar iš karto matoma ir keičiama dalinimosi su draugais būsena – nebereikia eiti į redagavimo ekraną.",
-    "en": "The category list now shows and lets you change friend-sharing status directly, without opening the edit screen."
+    "en": "The category list now shows and lets you change friend-sharing status directly, without opening the edit screen.",
+    "es": "La lista de categorías ahora muestra el estado de uso compartido con amigos y te permite cambiarlo directamente, sin abrir la pantalla de edición."
   },
   {
     "version": "0.4.0",
     "date": "2026-09-21",
     "type": "build",
     "lt": "Draugai pasiekė Google Play. Programoje dabar gali pridėti draugą pagal el. paštą arba dalinimosi kodą, o tikrindamas, ar jau turi dovaną, gali rinktis - tikrinti savo kolekciją ar konkretaus draugo. Kategoriją reikia atskirai pažymėti kaip matomą draugams - vien publikavimas jos automatiškai neatveria.",
-    "en": "Friends have reached Google Play. You can now add a friend by email or by a share code, and when checking whether you already own a gift, you can choose whose collection to check - your own or a specific friend's. A category still needs to be marked visible to friends separately; publishing it alone doesn't open it up automatically."
+    "en": "Friends have reached Google Play. You can now add a friend by email or by a share code, and when checking whether you already own a gift, you can choose whose collection to check - your own or a specific friend's. A category still needs to be marked visible to friends separately; publishing it alone doesn't open it up automatically.",
+    "es": "Los amigos han llegado a Google Play. Ahora puedes añadir un amigo por correo electrónico o con un código para compartir, y al comprobar si ya tienes un regalo, puedes elegir qué colección comprobar: la tuya o la de un amigo concreto. Una categoría todavía debe marcarse por separado como visible para los amigos; publicarla por sí solo no la abre automáticamente."
   },
   {
     "version": "0.4.0",
     "date": "2026-09-20",
     "type": "ota",
     "lt": "Ištrynus daiktą iš publikuotos kategorijos, jo nuotrauka dabar dingsta ir iš debesies. Iki šiol dingdavo tik įrašas lentelėje, o miniatiūra likdavo — programa apie tai nepranešdavo, nes jos požiūriu viskas pavykdavo.",
-    "en": "When you delete an item from a published category, its picture is now removed from the cloud as well. Until now only the table row disappeared while the thumbnail stayed behind — and the app never reported it, because from its point of view everything had succeeded."
+    "en": "When you delete an item from a published category, its picture is now removed from the cloud as well. Until now only the table row disappeared while the thumbnail stayed behind — and the app never reported it, because from its point of view everything had succeeded.",
+    "es": "Cuando eliminas un artículo de una categoría publicada, su imagen ahora también se elimina de la nube. Hasta ahora solo desaparecía la fila de la tabla mientras la miniatura se quedaba allí, y la app nunca lo indicaba, porque desde su punto de vista todo había salido bien."
   },
   {
     "version": "0.4.0",
     "date": "2026-09-20",
     "type": "ota",
     "lt": "Pataisytas miniatiūrų kėlimas publikuojant kategoriją: kelias buvo sudedamas du kartus, tad nė viena miniatiūra nepatekdavo į debesį, nors pati kategorija nusiųsdavo sėkmingai. Publikavimo mygtukas dabar rodo eigą (pavyzdžiui, 12/40) — didelėje kolekcijoje kėlimas užtrunka, ir laukimas turi turėti matomą pabaigą.",
-    "en": "Fixed thumbnail upload when publishing a category: the path was being joined twice, so no thumbnail ever reached the cloud even though the category itself uploaded fine. The publish button now shows progress (for example, 12/40) — in a large collection the upload takes a while, and the wait should have a visible end."
+    "en": "Fixed thumbnail upload when publishing a category: the path was being joined twice, so no thumbnail ever reached the cloud even though the category itself uploaded fine. The publish button now shows progress (for example, 12/40) — in a large collection the upload takes a while, and the wait should have a visible end.",
+    "es": "Se corrigió la subida de miniaturas al publicar una categoría: la ruta se unía dos veces, así que ninguna miniatura llegaba nunca a la nube aunque la categoría en sí se subía bien. El botón de publicar ahora muestra el progreso (por ejemplo, 12/40): en una colección grande la subida tarda un rato, y la espera debería tener un final visible."
   },
   {
     "version": "0.4.0",
     "date": "2026-09-20",
     "type": "ota",
     "lt": "Atsirado neprivaloma paskyra ir kolekcijų publikavimas. Prisijungęs su Google gali pažymėti kategoriją ir įkelti ją į debesį — tam, kad vėliau galėtum ja dalintis su draugais. Kaina, įsigijimo vieta, įsigijimo data ir skolinimai į debesį nepatenka niekada.",
-    "en": "An optional account and category publishing have arrived. Once signed in with Google you can mark a category and upload it to the cloud, so you can share it with friends later. Price, place of purchase, date of purchase and loans are never uploaded."
+    "en": "An optional account and category publishing have arrived. Once signed in with Google you can mark a category and upload it to the cloud, so you can share it with friends later. Price, place of purchase, date of purchase and loans are never uploaded.",
+    "es": "Llegan una cuenta opcional y la publicación de categorías. Tras iniciar sesión con Google, puedes marcar una categoría y subirla a la nube para compartirla con amigos más adelante. El precio, el lugar de compra, la fecha de compra y los préstamos nunca se suben."
   },
   {
     "version": "0.3.0",
     "date": "2026-09-19",
     "type": "ota",
     "lt": "Iš galerijos imama nuotrauka nebeprašoma apkarpyti du kartus – liko tik programos apkarpymo ekranas. Antra (kitos pusės) nuotrauka tapo neprivaloma: jei jos neturite, spauskite „Tęsti be antros nuotraukos\". O bendrinamoje kortelėje diskgolfo skrydžio skaičiai dabar surašyti viena eilute, kaip ir ant paties disko.",
-    "en": "A photo picked from the gallery is no longer cropped twice – only the app’s own crop screen remains. The second (other side) photo is now optional: if you don’t have one, tap “Continue without the second photo”. And on the shared card, disc golf flight numbers now appear on a single line, just as they are printed on the disc."
+    "en": "A photo picked from the gallery is no longer cropped twice – only the app’s own crop screen remains. The second (other side) photo is now optional: if you don’t have one, tap “Continue without the second photo”. And on the shared card, disc golf flight numbers now appear on a single line, just as they are printed on the disc.",
+    "es": "Una foto elegida de la galería ya no se recorta dos veces: solo queda la pantalla de recorte propia de la app. La segunda foto (del otro lado) ahora es opcional: si no tienes una, toca “Continuar sin la segunda foto”. Y en la tarjeta para compartir, los números de vuelo de disc golf ahora aparecen en una sola línea, tal como están impresos en el disco."
   },
   {
     "version": "0.3.0",
     "date": "2026-09-19",
     "type": "ota",
     "lt": "Diskgolfo diskams – keturi atskiri skrydžio laukai (greitis, slydimas, posūkis, kritimas) vietoj vienos eilutės, o kategorija dabar prašo ir kitos disko pusės nuotraukos: skaičiai atspausti būtent ten, tad juos gali atpažinti pati programa. Jau susikurta diskų kategorija atsinaujina savaime. Ir bendriau: pridedant įrašą dabar galima ne tik fotografuoti, bet ir rinktis nuotrauką iš galerijos.",
-    "en": "Disc golf discs now have four separate flight fields (speed, glide, turn, fade) instead of one line, and the category also asks for a photo of the disc’s other side: the numbers are printed there, so the app can read them itself. An existing disc category updates itself. More generally: when adding an item you can now pick a photo from your gallery instead of taking one."
+    "en": "Disc golf discs now have four separate flight fields (speed, glide, turn, fade) instead of one line, and the category also asks for a photo of the disc’s other side: the numbers are printed there, so the app can read them itself. An existing disc category updates itself. More generally: when adding an item you can now pick a photo from your gallery instead of taking one.",
+    "es": "Los discos de disc golf ahora tienen cuatro campos de vuelo separados (velocidad, planeo, giro, caída) en lugar de una sola línea, y la categoría también pide una foto del otro lado del disco: los números están impresos ahí, así que la app puede leerlos por sí misma. Una categoría de discos existente se actualiza sola. En general: al añadir un artículo ahora puedes elegir una foto de tu galería en lugar de hacer una."
   },
   {
     "version": "0.3.0",
     "date": "2026-09-19",
     "type": "ota",
     "lt": "Bendrinama kortelė nebeapkarpo nuotraukos – ji dedama visa, kokių proporcijų bebūtų, o apačioje atsirado QR kodas, vedantis į programos puslapį „Google Play\". Skolinimo priminimas dabar pasirodo ir tada, kai programa tuo metu atidaryta. Kataloge primename apie atsarginę kopiją, jei jos seniai nedarėte. Nauja kategorija – diskgolfo diskai.",
-    "en": "The shared card no longer crops your photo – it fits whole, whatever its shape – and it now carries a QR code to the app's Google Play page. A loan reminder now also shows up while the app is open. The catalog reminds you about a backup if it has been a while. New category: disc golf discs."
+    "en": "The shared card no longer crops your photo – it fits whole, whatever its shape – and it now carries a QR code to the app's Google Play page. A loan reminder now also shows up while the app is open. The catalog reminds you about a backup if it has been a while. New category: disc golf discs.",
+    "es": "La tarjeta para compartir ya no recorta tu foto (cabe entera, tenga la forma que tenga) y ahora lleva un código QR a la página de la app en Google Play. Un recordatorio de préstamo ahora también aparece mientras la app está abierta. El catálogo te recuerda hacer una copia de seguridad si ha pasado un tiempo. Nueva categoría: discos de disc golf."
   },
   {
     "version": "0.3.0",
     "date": "2026-09-14",
     "type": "ota",
     "lt": "Butelių būklė „Išgerta\" dabar rašoma taisyklingai, su lietuviška raide. Nuosavybės perjungiklis įrašo ekrane vadinasi „Ne mano\" - anksčiau jis visose kategorijose minėjo knygas, nors skolinimai veikia bet kuriai kolekcijai.",
-    "en": "The bottle condition \"Finished\" is now spelled correctly in Lithuanian. The ownership switch on the item screen now reads \"Not mine\" - it used to mention books in every category, even though loans work for any collection."
+    "en": "The bottle condition \"Finished\" is now spelled correctly in Lithuanian. The ownership switch on the item screen now reads \"Not mine\" - it used to mention books in every category, even though loans work for any collection.",
+    "es": "El estado de botella \"Terminada\" ahora está bien escrito en lituano. El interruptor de propiedad en la pantalla del artículo ahora dice \"No es mío\": antes mencionaba libros en todas las categorías, aunque los préstamos funcionan con cualquier colección."
   },
   {
     "version": "0.3.0",
     "date": "2026-09-13",
     "type": "ota",
     "lt": "Naujas „Įrankiai“ skirtukas: nustatymuose liko tik tai, ką pasirenki (raktas, kalba, tema, valiuta), o visi veiksmai — kategorijos, skolinimai, galimi dublikatai, atsarginė kopija, instrukcija — persikėlė į atskirą skirtuką. Būklė dabar pritaikyta prie to, ką renki: knygoms Neskaityta/Skaitoma/Perskaityta, buteliams Neatidaryta/Atidaryta/Išgerta. Fotografuojant apkarpymas vyksta pačioje programoje — nebereikia ieškoti sistemos „Crop“ mygtuko, o nieko nelietus nuotrauka lieka nepakitusi. Pirmame paleidime iš karto pasiūloma susikurti Gemini raktą (žingsnį galima praleisti). Smulkiau: „Testuoti raktą“ dabar ir išsaugo raktą, o išeinant su neišsaugotu — paklausia; tuščiame kataloge paspaudus paveikslėlį atsidaro kamera; be rakto pranešimas aiškiau pasako, kodėl daiktas neatpažintas.",
-    "en": "New “Tools” tab: settings now hold only what you choose (API key, language, theme, currency), while everything you do — categories, loans, possible duplicates, backup, instructions — moved to its own tab. Condition values now match what you collect: Unread/Reading/Read for books, Unopened/Opened/Finished for bottles. Cropping after a photo now happens inside the app — no more hunting for the system “Crop” button, and leaving the frame untouched keeps the photo unchanged. The first run now offers to set up a Gemini key right away (the step can be skipped). Smaller things: “Test key” now saves the key as well, and leaving with an unsaved one asks first; tapping the picture in an empty catalog opens the camera; and the no-key message now explains why an item was not recognised."
+    "en": "New “Tools” tab: settings now hold only what you choose (API key, language, theme, currency), while everything you do — categories, loans, possible duplicates, backup, instructions — moved to its own tab. Condition values now match what you collect: Unread/Reading/Read for books, Unopened/Opened/Finished for bottles. Cropping after a photo now happens inside the app — no more hunting for the system “Crop” button, and leaving the frame untouched keeps the photo unchanged. The first run now offers to set up a Gemini key right away (the step can be skipped). Smaller things: “Test key” now saves the key as well, and leaving with an unsaved one asks first; tapping the picture in an empty catalog opens the camera; and the no-key message now explains why an item was not recognised.",
+    "es": "Nueva pestaña “Herramientas”: los ajustes ahora contienen solo lo que eliges (clave de API, idioma, tema, moneda), mientras que todo lo que haces (categorías, préstamos, posibles duplicados, copia de seguridad, instrucciones) pasó a su propia pestaña. Los valores de estado ahora se ajustan a lo que coleccionas: Sin leer/Leyendo/Leído para libros, Sin abrir/Abierta/Terminada para botellas. El recorte tras hacer una foto ahora ocurre dentro de la app: ya no hay que buscar el botón “Recortar” del sistema, y si dejas el encuadre sin tocar, la foto no cambia. El primer inicio ahora ofrece configurar una clave de Gemini enseguida (el paso se puede omitir). Cosas más pequeñas: “Probar clave” ahora también guarda la clave, y salir con una sin guardar te pregunta antes; tocar la imagen en un catálogo vacío abre la cámara; y el mensaje de falta de clave ahora explica por qué no se reconoció un artículo."
   },
   {
     "version": "0.3.0",
     "date": "2026-09-12",
     "type": "build",
     "lt": "Naujiena — skolinimai. Kai kam nors paskolini knygą, dabar tai gali užsirašyti: kam, nuo kada ir, jei nori, iki kada. Įrašo ekrane atsiranda juostelė „Paskolinta: …“ su mygtuku „Grąžinta“, o Nustatymuose — sąrašas „Skolinimai“ su viskuo, kas dar ne pas tave (pradelsti viršuje). Nustačius grąžinimo terminą telefonas tą dieną primins. Veikia ir kita kryptimi: kai knygą paskolina tau, ji pažymima „Ne mano“ — lieka kataloge, tad turguje pasakys tai, ko reikia („šitą turi, bet pasiskolintą — savo neturi“), bet į kolekcijos statistiką nebeįskaičiuojama. Grąžinus įrašas neišnyksta: lieka istorijoje, kam ir kada buvai skolinęs.",
-    "en": "New: loans. When you lend a book to someone, you can now write it down: to whom, since when, and optionally by when. The item screen shows a “Lent to: …” bar with a “Returned” button, and Settings gains a “Loans” list of everything that is not with you (overdue first). Set a return date and your phone reminds you on the day. It works the other way round too: a book someone lends to you is marked “Not mine” — it stays in the catalog, so at a flea market it tells you what matters (“you have this one, but borrowed — you don’t own a copy”), while staying out of your collection statistics. Returning a book does not erase the record: it stays in the history of who borrowed what, and when."
+    "en": "New: loans. When you lend a book to someone, you can now write it down: to whom, since when, and optionally by when. The item screen shows a “Lent to: …” bar with a “Returned” button, and Settings gains a “Loans” list of everything that is not with you (overdue first). Set a return date and your phone reminds you on the day. It works the other way round too: a book someone lends to you is marked “Not mine” — it stays in the catalog, so at a flea market it tells you what matters (“you have this one, but borrowed — you don’t own a copy”), while staying out of your collection statistics. Returning a book does not erase the record: it stays in the history of who borrowed what, and when.",
+    "es": "Novedad: préstamos. Cuando prestas un libro a alguien, ahora puedes anotarlo: a quién, desde cuándo y, si quieres, hasta cuándo. La pantalla del artículo muestra una barra “Prestado a: …” con un botón “Devuelto”, y Ajustes incorpora una lista de “Préstamos” con todo lo que no está contigo (los vencidos primero). Pon una fecha de devolución y tu teléfono te lo recuerda ese día. También funciona al revés: un libro que alguien te presta se marca como “No es mío”; se queda en el catálogo, así que en un mercadillo te dice lo que importa (“tienes este, pero prestado: no tienes un ejemplar propio”), sin contar en las estadísticas de tu colección. Devolver un libro no borra el registro: queda en el historial de quién tomó prestado qué, y cuándo."
   },
   {
     "version": "0.2.3",
     "date": "2026-08-30",
     "type": "ota",
     "lt": "Knygos: šešios PFAF antologijos („Užslinks naktis“, „Pragaištingas krėslas“, „Balsas tyruose“, „Smėlio karaliai“, „Kosmoso verpetas“, „Žemės paveldėtojai“) žinyne gavo autorių — iki šiol jo neturėjo, tad „Užpildyti iš katalogo“ apie jas tylėdavo. Tas pats užpildymas dabar siūlo pataisyti ir klaidingą autorių, ne tik tuščią: eilutė su varnele, iš anksto nepažymėta. O kataloge atsirado masinis žanro keitimas — pasižymi knygas, spaudi „Žanras“ ir renkiesi iš savo kolekcijos žanrų, kanoninio sąrašo arba įrašai savą.",
-    "en": "Books: six PFAF anthologies now carry an author in the catalog — until now they had none, so “Fill from catalog” said nothing about them. That same action can now fix a wrong author too, not just an empty one: a row with a checkbox, unticked by default. And the catalog gained bulk genre editing — select books, tap “Genre” and pick from your own genres, from the canonical list, or type your own."
+    "en": "Books: six PFAF anthologies now carry an author in the catalog — until now they had none, so “Fill from catalog” said nothing about them. That same action can now fix a wrong author too, not just an empty one: a row with a checkbox, unticked by default. And the catalog gained bulk genre editing — select books, tap “Genre” and pick from your own genres, from the canonical list, or type your own.",
+    "es": "Libros: seis antologías de PFAF ahora tienen autor en el catálogo; hasta ahora no tenían ninguno, así que “Completar desde el catálogo” no decía nada de ellas. Esa misma acción ahora también puede corregir un autor incorrecto, no solo uno vacío: una fila con una casilla, desmarcada por defecto. Y el catálogo incorpora la edición de género en bloque: selecciona libros, toca “Género” y elige entre tus propios géneros, la lista canónica o escribe el tuyo."
   },
   {
     "version": "0.2.3",
     "date": "2026-08-29",
     "type": "ota",
     "lt": "Knygų sąraše prie kiekvienos knygos matomas serijos numeris, o rūšiuoti galima pagal jį — taip iš karto matyti, kurių serijos numerių dar trūksta. Lentynos nuotraukos apkarpymo ekrane dabar galima nukirpti kur kas daugiau (anksčiau turėjo likti trečdalis kadro, dabar — dešimtadalis), tad prireikus galima siųsti atpažinti vieną vienintelę nugarėlę.",
-    "en": "The book list now shows each book's series number, and can be sorted by it — so the gaps in a numbered series are visible at a glance. On the shelf photo crop screen you can now cut away far more of the frame (a third had to remain before, now a tenth), so a single spine can be sent for recognition on its own."
+    "en": "The book list now shows each book's series number, and can be sorted by it — so the gaps in a numbered series are visible at a glance. On the shelf photo crop screen you can now cut away far more of the frame (a third had to remain before, now a tenth), so a single spine can be sent for recognition on its own.",
+    "es": "La lista de libros ahora muestra el número de la serie de cada libro y se puede ordenar por él, así que los huecos de una serie numerada se ven de un vistazo. En la pantalla de recorte de la foto del estante ahora puedes recortar mucho más del encuadre (antes debía quedar un tercio, ahora una décima parte), así que se puede enviar un solo lomo a reconocer."
   },
   {
     "version": "0.2.3",
     "date": "2026-08-29",
     "type": "ota",
     "lt": "Serijos žinynas atpažįsta daugiau knygų. Ištaisytos penkios klaidos pačiame žinyne (prie kelių pavadinimų buvo prilipdytas antras to paties tomo kūrinys), o lyginant pavadinimus nuo šiol nebekreipiama dėmesio į skyrybą — kabučių, brūkšnio ar dvitaškio skirtumas nebeatskiria knygos nuo jos įrašo. Pridėta ir galimybė žinyne turėti pavadinimą tokį, koks atspausdintas ant knygos, kai leidykla suklydo tiraže.",
-    "en": "The series catalog now recognises more books. Five errors in the catalog itself were corrected (a few titles had a second work from the same volume glued on), and titles are compared ignoring punctuation — a difference in quotation marks, dashes or a colon no longer separates a book from its entry. The catalog can also hold the title exactly as printed on a book when the publisher got it wrong in the print run."
+    "en": "The series catalog now recognises more books. Five errors in the catalog itself were corrected (a few titles had a second work from the same volume glued on), and titles are compared ignoring punctuation — a difference in quotation marks, dashes or a colon no longer separates a book from its entry. The catalog can also hold the title exactly as printed on a book when the publisher got it wrong in the print run.",
+    "es": "El catálogo de series ahora reconoce más libros. Se corrigieron cinco errores en el propio catálogo (a unos pocos títulos se les había pegado una segunda obra del mismo volumen), y los títulos se comparan sin tener en cuenta la puntuación: una diferencia en comillas, guiones o dos puntos ya no separa un libro de su entrada. El catálogo también puede guardar el título exactamente como está impreso en un libro cuando la editorial se equivocó en la tirada."
   },
   {
     "version": "0.2.3",
     "date": "2026-08-29",
     "type": "ota",
     "lt": "Serijos žinyno pataisos dabar pasiekia ir jau sukurtą seriją: anksčiau katalogas į telefoną nukeliaudavo tik jį kuriant, tad ištaisytas įrašas (PFAF-225 Neverendo paslaptis) likdavo senasis. Be to, sąraše, kur išvardytos žinyno neatpažintos knygos, knygą galima bakstelėti — atsidaro jos kortelė, o braukiant pereinama per tą patį sąrašą.",
-    "en": "Series catalog corrections now reach a series you already created: until now the catalog reached your phone only when the series was created, so a corrected entry stayed wrong. Also, a book in the list of titles the catalog did not recognise can now be tapped — it opens that book, and swiping moves through the same list."
+    "en": "Series catalog corrections now reach a series you already created: until now the catalog reached your phone only when the series was created, so a corrected entry stayed wrong. Also, a book in the list of titles the catalog did not recognise can now be tapped — it opens that book, and swiping moves through the same list.",
+    "es": "Las correcciones del catálogo de series ahora llegan a una serie que ya creaste: hasta ahora el catálogo llegaba a tu teléfono solo al crear la serie, así que una entrada corregida seguía mal. Además, ahora se puede tocar un libro de la lista de títulos que el catálogo no reconoció: abre ese libro, y al deslizar recorres la misma lista."
   },
   {
     "version": "0.2.3",
     "date": "2026-08-28",
     "type": "ota",
     "lt": "Serijų tinklelyje paspaudus trūkstamą numerį dabar matyti, kokia tai knyga — pavadinimas ir autorius. Nugarėlės be pavadinimo, bet su serijos numeriu, atpažįstamos iš serijos žinyno. Masiniame pridėjime seriją visoms knygoms priskiria vienas mygtukas su pasirinkimų sąrašu. Knygų katalogą dabar galima filtruoti pagal seriją (vietoj kalbos). Taip pat: parodoma, kurių knygų žinynas neatpažino ir kurie serijos numeriai kartojasi, bei pataisytas vienas klaidingas žinyno pavadinimas.",
-    "en": "In the series grid, tapping a missing number now shows which book it is — title and author. Spines with no title but a series number are identified from the series catalog. In bulk add, a single button assigns a series to all books. The book catalog can now be filtered by series instead of language. Also: books the catalog did not recognise and repeated series numbers are now listed, and one wrong catalog title was corrected."
+    "en": "In the series grid, tapping a missing number now shows which book it is — title and author. Spines with no title but a series number are identified from the series catalog. In bulk add, a single button assigns a series to all books. The book catalog can now be filtered by series instead of language. Also: books the catalog did not recognise and repeated series numbers are now listed, and one wrong catalog title was corrected.",
+    "es": "En la cuadrícula de la serie, al tocar un número que falta ahora se muestra qué libro es: título y autor. Los lomos sin título pero con número de serie se identifican a partir del catálogo de series. En añadir en bloque, un solo botón asigna una serie a todos los libros. El catálogo de libros ahora se puede filtrar por serie en lugar de por idioma. Además: ahora se listan los libros que el catálogo no reconoció y los números de serie repetidos, y se corrigió un título incorrecto del catálogo."
   },
   {
     "version": "0.2.3",
     "date": "2026-08-27",
     "type": "ota",
     "lt": "Kelios pataisos iš pilnos kodo peržiūros. Reikšmių parinkiklio (šalies, serijos, žanro) mygtukas „Uždaryti“ nebelieka po telefono navigacijos juosta — anksčiau jis buvo matomas, bet pirštas jo nepasiekdavo. Masiniu būdu pridedant knygas serijos numeris į katalogą patenka tik tada, kai jis tikrai skaitmuo: anksčiau ženkliuko atspaudas su santrumpa įsirašydavo pažodžiui, ir knyga serijos tinklelyje dingdavo. Atmetus sugadintą atsarginę kopiją paaiškinimas dabar rodomas ta pačia kalba, kokia įjungta programoje.",
-    "en": "Several fixes from a full code review. In the value picker (country, series, genre) the “Close” button no longer sits underneath the phone’s navigation bar — it used to be visible but out of reach. When adding books in bulk, a series number reaches the catalog only when it really is a number: a badge read together with an abbreviation used to be stored verbatim, and the book then vanished from the series grid. When a damaged backup is rejected, the explanation is now shown in the language the app is set to."
+    "en": "Several fixes from a full code review. In the value picker (country, series, genre) the “Close” button no longer sits underneath the phone’s navigation bar — it used to be visible but out of reach. When adding books in bulk, a series number reaches the catalog only when it really is a number: a badge read together with an abbreviation used to be stored verbatim, and the book then vanished from the series grid. When a damaged backup is rejected, the explanation is now shown in the language the app is set to.",
+    "es": "Varias correcciones de una revisión completa del código. En el selector de valores (país, serie, género), el botón “Cerrar” ya no queda debajo de la barra de navegación del teléfono: antes se veía pero no se podía pulsar. Al añadir libros en bloque, un número de serie llega al catálogo solo cuando realmente es un número: una insignia leída junto con una abreviatura se guardaba tal cual, y el libro desaparecía de la cuadrícula de la serie. Cuando se rechaza una copia de seguridad dañada, la explicación ahora se muestra en el idioma configurado en la app."
   },
   {
     "version": "0.2.3",
     "date": "2026-08-27",
     "type": "ota",
     "lt": "Daugiatomės knygos serijos numeris nebelieka tuščias: jei ant nugarėlės atspausdintas tomo žymuo „(2)“, žinynas parenka būtent antrąjį numerį. Serijos tinklelyje toks numeris rodomas sąraše kaip pasirinkimas, ne įrašomas tyliai. Pavadinimo rašyba taisoma tik bazėje — „LAVINA (2)“ tampa „Lavina (2)“, o žymuo lieka.",
-    "en": "A multi-volume book no longer has to stay without a series number: when the spine carries a volume marker like \"(2)\", the catalog picks that volume's number. In the series grid such a number is offered in the list as a choice rather than written silently. Title spelling is corrected in the base only, so \"LAVINA (2)\" becomes \"Lavina (2)\" and the marker stays."
+    "en": "A multi-volume book no longer has to stay without a series number: when the spine carries a volume marker like \"(2)\", the catalog picks that volume's number. In the series grid such a number is offered in the list as a choice rather than written silently. Title spelling is corrected in the base only, so \"LAVINA (2)\" becomes \"Lavina (2)\" and the marker stays.",
+    "es": "Un libro de varios volúmenes ya no tiene que quedarse sin número de serie: cuando el lomo lleva una marca de volumen como \"(2)\", el catálogo elige el número de ese volumen. En la cuadrícula de la serie, ese número se ofrece en la lista como opción en lugar de escribirse en silencio. La ortografía del título se corrige solo en la base, así que \"LAVINA (2)\" pasa a ser \"Lavina (2)\" y la marca se mantiene."
   },
   {
     "version": "0.2.3",
     "date": "2026-08-27",
     "type": "ota",
     "lt": "„Užpildyti iš katalogo“ dabar parodo, kur serijos žinynas nesutinka su tavo įrašais, ir leidžia pasirinkti, ką pataisyti: klaidingą serijos numerį (masiniame pridėjime jį pastumia kadro krašte pusiau matoma knyga) ir pavadinimo rašybą, kai atpažinimas grąžino jį be lietuviškų raidžių. Pavadinimo rašyba pažymėta iš anksto, numeris — ne, o atšaukus nerašoma nieko. Prie mygtuko atsirado paaiškinimas, ką jis daro.",
-    "en": "\"Fill from catalog\" now shows where the series catalog disagrees with your items and lets you pick what to correct: a wrong series number (in bulk add it gets shifted by a book the frame cuts in half) and the title's spelling when recognition returned it without Lithuanian diacritics. Title spelling is ticked in advance, the number is not, and cancelling writes nothing. The button now carries a one-line explanation of what it does."
+    "en": "\"Fill from catalog\" now shows where the series catalog disagrees with your items and lets you pick what to correct: a wrong series number (in bulk add it gets shifted by a book the frame cuts in half) and the title's spelling when recognition returned it without Lithuanian diacritics. Title spelling is ticked in advance, the number is not, and cancelling writes nothing. The button now carries a one-line explanation of what it does.",
+    "es": "\"Completar desde el catálogo\" ahora muestra dónde el catálogo de series no coincide con tus artículos y te deja elegir qué corregir: un número de serie incorrecto (en añadir en bloque se desplaza por un libro que el encuadre corta por la mitad) y la ortografía del título cuando el reconocimiento lo devolvió sin los signos diacríticos lituanos. La ortografía del título viene marcada de antemano, el número no, y cancelar no escribe nada. El botón ahora lleva una explicación de una línea sobre lo que hace."
   },
   {
     "version": "0.2.3",
     "date": "2026-08-27",
     "type": "ota",
     "lt": "Statistikos serijos kortelė „Turite N iš M“ dabar skaičiuoja kiekvieną seriją atskirai, su jos pačios riba, o ne visus sunumeruotus įrašus su viena senąja riba. „Užpildyti iš katalogo“ nebeatrodo užstrigęs — mygtukas rodo, kad dirba. Masinio pridėjimo peržiūroje ranka pakeitus pavadinimą nuimamas nebeteisingas „Nr. pataisytas pagal katalogą“ ženklelis.",
-    "en": "The statistics series card \"You have N of M\" now counts each series on its own, against that series' bound, instead of all numbered items against one old bound. \"Fill from catalog\" no longer looks stuck — the button says it is working. In the bulk-add review, editing a title by hand clears the no-longer-true \"No. corrected from the catalog\" badge."
+    "en": "The statistics series card \"You have N of M\" now counts each series on its own, against that series' bound, instead of all numbered items against one old bound. \"Fill from catalog\" no longer looks stuck — the button says it is working. In the bulk-add review, editing a title by hand clears the no-longer-true \"No. corrected from the catalog\" badge.",
+    "es": "La tarjeta de series de las estadísticas \"Tienes N de M\" ahora cuenta cada serie por separado, frente al límite de esa serie, en lugar de todos los artículos numerados frente a un único límite antiguo. \"Completar desde el catálogo\" ya no parece bloqueado: el botón indica que está trabajando. En la revisión de añadir en bloque, editar un título a mano quita la insignia \"N.º corregido desde el catálogo\", que ya no es cierta."
   },
   {
     "version": "0.2.3",
     "date": "2026-08-26",
     "type": "ota",
     "lt": "Serijų žinynas: knygas galima priskirti kelioms serijoms, kiekviena turi savo tinklelį ir ribą. PFAF (Pasaulinės fantastikos aukso fondo) katalogas įtrauktas į programą — autorius ir serijos numeris užsipildo pagal tikslų pavadinimą be interneto, o AI dabar užpildo ir žinomų knygų autorius.",
-    "en": "Series registry: books can be assigned to multiple series, each with its own grid and bound. The PFAF (World SF Gold Fund) catalog is built in — the author and series number fill in from an exact title match without internet, and AI now also fills in authors of known books."
+    "en": "Series registry: books can be assigned to multiple series, each with its own grid and bound. The PFAF (World SF Gold Fund) catalog is built in — the author and series number fill in from an exact title match without internet, and AI now also fills in authors of known books.",
+    "es": "Registro de series: los libros se pueden asignar a varias series, cada una con su propia cuadrícula y su límite. El catálogo de PFAF (Fondo de Oro de la Ciencia Ficción Mundial) viene incluido: el autor y el número de serie se completan a partir de una coincidencia exacta del título sin internet, y la IA ahora también completa los autores de libros conocidos."
   },
   {
     "version": "0.2.3",
     "date": "2026-08-26",
     "type": "ota",
     "lt": "Klausiant apie knygą, dabar galima atmesti ir tuščio lauko užpildymą: kiekviena eilutė turi varnelę, tuščiam laukui ji uždėta iš anksto. Masinio pridėjimo karpymo ekranas įspėja, kad kadro krašte pusiau matoma knyga pasuka visus serijos numerius per vieną.",
-    "en": "When asking about a book you can now also decline filling an empty field: every row has a checkbox, ticked in advance for empty ones. The bulk-add crop screen warns that a half-visible book at the frame edge shifts every series number by one."
+    "en": "When asking about a book you can now also decline filling an empty field: every row has a checkbox, ticked in advance for empty ones. The bulk-add crop screen warns that a half-visible book at the frame edge shifts every series number by one.",
+    "es": "Al preguntar por un libro, ahora también puedes rechazar que se complete un campo vacío: cada fila tiene una casilla, marcada de antemano en las vacías. La pantalla de recorte de añadir en bloque avisa de que un libro medio visible en el borde del encuadre desplaza todos los números de serie en uno."
   },
   {
     "version": "0.2.3",
     "date": "2026-08-25",
     "type": "ota",
     "lt": "Patikslinimas prie ankstesnio: serijos numeriai dabar pataisomi KIEKVIENOJE nuotraukoje. Pirmoji versija pasuktu kadru pakeisdavo visą nuotrauką ir priimdavo tik tada, jei pasukus randama ne mažiau knygų — todėl viename pakete viena lentyna būdavo pataisyta, o kita ne. Dabar iš pasukto kadro imami tik numeriai.",
-    "en": "A follow-up to the previous entry: series numbers are now corrected in every photo. The first version replaced the whole frame with the rotated one and only accepted it if no books were lost, so one shelf in a batch would be fixed while another was not. Now only the numbers are taken from the rotated frame."
+    "en": "A follow-up to the previous entry: series numbers are now corrected in every photo. The first version replaced the whole frame with the rotated one and only accepted it if no books were lost, so one shelf in a batch would be fixed while another was not. Now only the numbers are taken from the rotated frame.",
+    "es": "Continuación de la entrada anterior: los números de serie ahora se corrigen en todas las fotos. La primera versión sustituía todo el encuadre por el girado y solo lo aceptaba si no se perdía ningún libro, así que en un lote se corregía un estante y otro no. Ahora solo se toman los números del encuadre girado."
   },
   {
     "version": "0.2.3",
     "date": "2026-08-25",
     "type": "ota",
     "lt": "Masinis knygų pridėjimas: serijos numeris nebeatitenka kaimyninei knygai. Programa pati pastebi, kad nugarėlės kadre stovi stačiai, ir prieš atpažindama pasuka nuotrauką — numerius modelis teisingai perskaito tik iš kadro su horizontaliais užrašais. Atsirado ir rankinis mygtukas „Pasukti kadrą“ bei „Apversti visas“ peržiūroje.",
-    "en": "Bulk book add: the series number no longer lands on the neighbouring book. The app now notices when the spines stand upright in the frame and rotates the photo before recognising it — the numbers are only read correctly from a frame whose spine text runs horizontally. A manual “Rotate frame” button and “Flip all” in the review were added too."
+    "en": "Bulk book add: the series number no longer lands on the neighbouring book. The app now notices when the spines stand upright in the frame and rotates the photo before recognising it — the numbers are only read correctly from a frame whose spine text runs horizontally. A manual “Rotate frame” button and “Flip all” in the review were added too.",
+    "es": "Añadir libros en bloque: el número de serie ya no acaba en el libro de al lado. La app ahora detecta cuándo los lomos están en vertical en el encuadre y gira la foto antes de reconocerla: los números solo se leen correctamente en un encuadre en el que el texto del lomo va en horizontal. También se añadieron un botón manual “Girar encuadre” y “Voltear todo” en la revisión."
   },
   {
     "version": "0.2.3",
     "date": "2026-08-21",
     "type": "ota",
     "lt": "Knygoms atsirado serijos numeris — programa jį perskaito iš tos pačios nuotraukos. Naujame „Serijos\" ekrane matyti, kuriuos serijos numerius jau turite, o kurių trūksta; trūkstamų sąrašu galima pasidalinti (patogu einant į knygyną ar turgų). Pridedant knygą po vieną, dabar užpildomas ir aprašymas su žanru, o kai ISBN nerandamas — pavadinimas su autoriumi iš viršelio.",
-    "en": "Books now have a series number, read from the same photo. The new Series screen shows which numbers of the series you already own and which are missing, and the missing list can be shared — handy in a bookshop or at a flea market. Adding a book one at a time now also fills in its description and genre, and when the ISBN is not found, the title and author are read from the cover."
+    "en": "Books now have a series number, read from the same photo. The new Series screen shows which numbers of the series you already own and which are missing, and the missing list can be shared — handy in a bookshop or at a flea market. Adding a book one at a time now also fills in its description and genre, and when the ISBN is not found, the title and author are read from the cover.",
+    "es": "Los libros ahora tienen número de serie, leído de la misma foto. La nueva pantalla Serie muestra qué números de la serie ya tienes y cuáles faltan, y la lista de los que faltan se puede compartir: muy práctico en una librería o en un mercadillo. Añadir un libro de uno en uno ahora también completa su descripción y su género, y cuando no se encuentra el ISBN, el título y el autor se leen de la portada."
   },
   {
     "version": "0.2.3",
     "date": "2026-08-20",
     "type": "ota",
     "lt": "Du pataisymai iš tikrų klaidų telefone. „Papildyti knygų aprašymus\" nebenutrūksta pusiaukelėje: buvo išmatuota, kad 25 knygų užklausa normaliai užima 10–20 s, o programa nutraukdavo ties 20 s – riba pakelta. Ir masiniame pridėjime priartinta lentynos nuotrauka nebelieka juoda: nuotrauka dabar dekoduojama vieną kartą ir dalinamasi ja visose vietose, o ne po kartą kiekvienai knygos eilutei.",
-    "en": "Two fixes from real errors on the phone. \"Fill book descriptions\" no longer stops halfway: a 25-book request was measured to normally take 10-20 s while the app gave up at 20 s, so the limit was raised. And in bulk add, a zoomed shelf photo no longer goes black: the photo is now decoded once and shared everywhere, instead of once per book row."
+    "en": "Two fixes from real errors on the phone. \"Fill book descriptions\" no longer stops halfway: a 25-book request was measured to normally take 10-20 s while the app gave up at 20 s, so the limit was raised. And in bulk add, a zoomed shelf photo no longer goes black: the photo is now decoded once and shared everywhere, instead of once per book row.",
+    "es": "Dos correcciones a partir de errores reales en el teléfono. \"Completar descripciones de libros\" ya no se detiene a medias: se midió que una solicitud de 25 libros suele tardar 10-20 s, mientras que la app se rendía a los 20 s, así que se aumentó el límite. Y en añadir en bloque, una foto ampliada del estante ya no se queda en negro: ahora la foto se decodifica una vez y se comparte en todas partes, en lugar de una vez por cada fila de libro."
   },
   {
     "version": "0.2.3",
     "date": "2026-08-20",
     "type": "build",
     "lt": "Nuotrauką įraše dabar galima pakeisti – nufotografuoti iš naujo arba pasirinkti iš galerijos, su apkarpymu. Įrašo mygtukai suspausti į ikonas, tad daugiau vietos lieka pačiam įrašui. Lentynos nuotrauką masiniame pridėjime galima padidinti per visą ekraną ir priartinti, kad matytum, kas apibraukta. Vyno, viskio ir kitų kolekcijų filtrai bei statistika nebeskaičiuojami pagal pavadinimą – dabar pagal regioną, tipą ar kitą tavo pasirinktą lauką, ir iš karto pagal du. Prieš perrašant knygos aprašymą parodoma, kas ką užklos. Dublikatų ekranas nebemeluoja, kad nieko nerado, kol dar skaičiuoja.",
-    "en": "You can now replace an item's photo – retake it or pick one from the gallery, with cropping. The item buttons are compact icons, leaving more room for the item itself. In bulk add, a shelf photo opens full-screen with pinch zoom so you can see what was detected. Filters and statistics for wine, whisky and other collections no longer group by name – now by region, type or any field you choose, and by two at once. Before a book description is overwritten, you see exactly what replaces what. The duplicates screen no longer claims it found nothing while it is still calculating."
+    "en": "You can now replace an item's photo – retake it or pick one from the gallery, with cropping. The item buttons are compact icons, leaving more room for the item itself. In bulk add, a shelf photo opens full-screen with pinch zoom so you can see what was detected. Filters and statistics for wine, whisky and other collections no longer group by name – now by region, type or any field you choose, and by two at once. Before a book description is overwritten, you see exactly what replaces what. The duplicates screen no longer claims it found nothing while it is still calculating.",
+    "es": "Ahora puedes sustituir la foto de un artículo: vuelve a hacerla o elige una de la galería, con recorte. Los botones del artículo son iconos compactos, lo que deja más espacio para el propio artículo. En añadir en bloque, la foto del estante se abre a pantalla completa con zoom de pellizco para que veas qué se detectó. Los filtros y las estadísticas de vino, whisky y otras colecciones ya no agrupan por nombre: ahora por región, tipo o cualquier campo que elijas, y por dos a la vez. Antes de sobrescribir la descripción de un libro, ves exactamente qué sustituye a qué. La pantalla de duplicados ya no dice que no encontró nada mientras todavía está calculando."
   },
   {
     "version": "0.2.2",
     "date": "2026-08-19",
     "type": "ota",
     "lt": "„Galimi dublikatai\" nebeatsidaro ne toje kategorijoje. Anksčiau ekranas parodydavo pirmąją, o tada persijungdavo į tą, kurią paskutinį kartą žiūrėjai kataloge - ir visus panašumo skaičiavimus atlikdavo du kartus, tad su didesne kolekcija tai matėsi kaip užlaikymas. Dabar kategorija žinoma iškart. Ir dar: kai Gemini neatsako laiku, programa nebesako „nutrūko ryšys\" - serveris užklausą gavo, tik neatsakė per skirtą laiką, ir dabar taip ir parašyta.",
-    "en": "The \"Possible duplicates\" screen no longer opens in the wrong category. It used to show the first one and then switch to whichever you last viewed in the catalog - doing all the similarity maths twice, which showed up as a delay on a larger collection. The category is now known immediately. Also: when Gemini does not answer in time, the app no longer says the connection broke - the server did receive the request, it just did not answer within the time allowed, and that is what it now says."
+    "en": "The \"Possible duplicates\" screen no longer opens in the wrong category. It used to show the first one and then switch to whichever you last viewed in the catalog - doing all the similarity maths twice, which showed up as a delay on a larger collection. The category is now known immediately. Also: when Gemini does not answer in time, the app no longer says the connection broke - the server did receive the request, it just did not answer within the time allowed, and that is what it now says.",
+    "es": "La pantalla \"Posibles duplicados\" ya no se abre en la categoría equivocada. Antes mostraba la primera y luego cambiaba a la que viste por última vez en el catálogo, haciendo todos los cálculos de similitud dos veces, lo que se notaba como un retraso en una colección más grande. Ahora la categoría se conoce de inmediato. Además: cuando Gemini no responde a tiempo, la app ya no dice que se cortó la conexión; el servidor sí recibió la solicitud, simplemente no respondió en el tiempo permitido, y eso es lo que dice ahora."
   },
   {
     "version": "0.2.2",
     "date": "2026-08-19",
     "type": "ota",
     "lt": "Knygų aprašymų nebereikia palikti tuščių. Nustatymuose atsirado „Papildyti knygų aprašymus\" - jis perklausia Gemini apie visas knygas, kurioms trūksta aprašymo ar žanro, ir rašo tik į tuščius laukus. Atskiros knygos ekrane yra „Paklausti apie šią knygą\": pravertė ištaisius pavadinimą, kai senas aprašymas yra apie ne tą knygą (tada paklausiama, ar perrašyti). Ir masinio pridėjimo suvestinė nuo šiol atskiria, kurių knygų Gemini nežinojo, nuo tų, kurių net nebuvo klausta.",
-    "en": "Empty book descriptions no longer have to stay empty. Settings now has \"Fill in book descriptions\" - it asks Gemini again about every book missing a description or a genre, and only ever writes into empty fields. A single book has its own \"Ask about this book\" button, which helps after you correct a title and the old description is about a different book (it asks before replacing). And the bulk add summary now separates the books Gemini did not know from the ones it was never even asked about."
+    "en": "Empty book descriptions no longer have to stay empty. Settings now has \"Fill in book descriptions\" - it asks Gemini again about every book missing a description or a genre, and only ever writes into empty fields. A single book has its own \"Ask about this book\" button, which helps after you correct a title and the old description is about a different book (it asks before replacing). And the bulk add summary now separates the books Gemini did not know from the ones it was never even asked about.",
+    "es": "Las descripciones vacías de los libros ya no tienen que quedarse vacías. Ajustes ahora tiene \"Completar descripciones de libros\": vuelve a preguntar a Gemini por cada libro al que le falte la descripción o el género, y solo escribe en los campos vacíos. Un libro individual tiene su propio botón \"Preguntar por este libro\", útil después de corregir un título cuando la descripción antigua trata de otro libro (pregunta antes de sustituirla). Y el resumen de añadir en bloque ahora separa los libros que Gemini no conocía de aquellos por los que ni siquiera se le preguntó."
   },
   {
     "version": "0.2.2",
     "date": "2026-08-19",
     "type": "ota",
     "lt": "Katalogo filtre atsirado „Nenurodyta\": juo atsifiltruoji įrašus, kuriems reikšmė dar neįrašyta - pavyzdžiui, knygas be žanro. Iki šiol čipai rodė tik esamas reikšmes, tad kaip tik tų, kurias norisi užpildyti, surasti nebuvo kaip. Čipas stovi iškart po „Visi\", o užpildžius paskutinį įrašą pats išnyksta.",
-    "en": "The catalog filter now has a \"Not specified\" chip: it shows the items whose value is still blank - books without a genre, for example. Until now the chips listed only the values you already had, so the very ones you might want to fill in were the ones you could not find. The chip sits right after \"All\", and it disappears on its own once the last item is filled in."
+    "en": "The catalog filter now has a \"Not specified\" chip: it shows the items whose value is still blank - books without a genre, for example. Until now the chips listed only the values you already had, so the very ones you might want to fill in were the ones you could not find. The chip sits right after \"All\", and it disappears on its own once the last item is filled in.",
+    "es": "El filtro del catálogo ahora tiene un chip \"Sin especificar\": muestra los artículos cuyo valor todavía está en blanco, por ejemplo, libros sin género. Hasta ahora los chips solo listaban los valores que ya tenías, así que justo los que quizá querías completar eran los que no podías encontrar. El chip está justo después de \"Todos\" y desaparece solo en cuanto se completa el último artículo."
   },
   {
     "version": "0.2.2",
     "date": "2026-08-19",
     "type": "ota",
     "lt": "Masinio pridėjimo peržiūroje dabar paaiškinta, ką daro maži mygtukai ant nuotraukos: vienas atpažįsta knygą iš padidintos iškarpos, kitas pasuka iškarpą 180°. O pakartojus atpažinimą senasis pavadinimas nebedingsta - eilutėje lieka kitas variantas su mygtuku, tad gali pasirinkti, kurį palikti.",
-    "en": "In the bulk add review, the small buttons on the photo now come with an explanation: one re-recognizes the book from an enlarged crop, the other rotates the crop by 180°. And re-recognizing no longer discards the previous title - the row keeps the other result next to it with a button, so you can pick which one to keep."
+    "en": "In the bulk add review, the small buttons on the photo now come with an explanation: one re-recognizes the book from an enlarged crop, the other rotates the crop by 180°. And re-recognizing no longer discards the previous title - the row keeps the other result next to it with a button, so you can pick which one to keep.",
+    "es": "En la revisión de añadir en bloque, los botones pequeños sobre la foto ahora vienen con una explicación: uno vuelve a reconocer el libro a partir de un recorte ampliado y el otro gira el recorte 180°. Y volver a reconocer ya no descarta el título anterior: la fila conserva el otro resultado al lado con un botón, para que elijas cuál quedarte."
   },
   {
     "version": "0.2.2",
     "date": "2026-08-19",
     "type": "ota",
     "lt": "Masiniame knygų pridėjime sisteminis „atgal\" nebeuždaro viso srauto: karpymo ekrane jis grąžina vienu žingsniu atgal, o peržiūroje pirma paklausia, ar tikrai atsisakai atpažintų knygų. Nustatymuose patikslinti Gemini modelių aprašymai - juose liko tik tai, kas išmatuota, o Pro dabar aiškiai pasako, kad su nemokamu raktu neveikia.",
-    "en": "In bulk book adding, the system Back button no longer closes the whole flow: on the crop screen it steps back one photo, and in the review it asks before discarding the recognized books. The Gemini model descriptions in Settings now state only what was actually measured, and Pro says plainly that it does not work with a free key."
+    "en": "In bulk book adding, the system Back button no longer closes the whole flow: on the crop screen it steps back one photo, and in the review it asks before discarding the recognized books. The Gemini model descriptions in Settings now state only what was actually measured, and Pro says plainly that it does not work with a free key.",
+    "es": "Al añadir libros en bloque, el botón Atrás del sistema ya no cierra todo el proceso: en la pantalla de recorte retrocede una foto, y en la revisión pregunta antes de descartar los libros reconocidos. Las descripciones de los modelos de Gemini en Ajustes ahora indican solo lo que realmente se midió, y Pro dice claramente que no funciona con una clave gratuita."
   },
   {
     "version": "0.2.2",
     "date": "2026-08-18",
     "type": "ota",
     "lt": "Kai kvietimas į atpažinimą nutrūksta, programa dabar automatiškai pabando dar kartą — dažniausiai to pakanka, nes serveris būna tik laikinai perkrautas. O jei vis tiek nepavyksta, žinutė nebetvirtina, kad „nėra ryšio\": ji pasako tik tai, ką tikrai žinome — kad susisiekti su serveriu nepavyko.",
-    "en": "When a recognition request drops, the app now retries once automatically — usually that is enough, since the server is only briefly overloaded. And if it still fails, the message no longer claims \"no connection\": it says only what we actually know, that the server could not be reached."
+    "en": "When a recognition request drops, the app now retries once automatically — usually that is enough, since the server is only briefly overloaded. And if it still fails, the message no longer claims \"no connection\": it says only what we actually know, that the server could not be reached.",
+    "es": "Cuando se corta una solicitud de reconocimiento, la app ahora vuelve a intentarlo una vez automáticamente; normalmente basta, ya que el servidor solo está sobrecargado un momento. Y si aun así falla, el mensaje ya no dice \"sin conexión\": dice solo lo que realmente sabemos, que no se pudo conectar con el servidor."
   },
   {
     "version": "0.2.2",
     "date": "2026-08-18",
     "type": "ota",
     "lt": "Masinio pridėjimo peržiūra: pasvirusių ar tankiai sustatytų knygų iškarpos nebesusitraukia į neįskaitomą plaušelį, nugarėlės juosta didesnė, o apvertimo ir „perskaityti iš arčiau\" mygtukai nebenukerpami. Kadro karpymo ir ISBN skenavimo languose mygtukas „Atšaukti\" nebelieka po sistemine navigacijos juosta.",
-    "en": "Bulk add review: crops of leaning or tightly packed books no longer shrink to an unreadable sliver, the spine strip is larger, and the flip and \"read it closer\" buttons are no longer clipped. In the frame-crop and ISBN scan screens the \"Cancel\" button no longer sits under the system navigation bar."
+    "en": "Bulk add review: crops of leaning or tightly packed books no longer shrink to an unreadable sliver, the spine strip is larger, and the flip and \"read it closer\" buttons are no longer clipped. In the frame-crop and ISBN scan screens the \"Cancel\" button no longer sits under the system navigation bar.",
+    "es": "Revisión de añadir en bloque: los recortes de libros inclinados o muy apretados ya no se encogen hasta una tira ilegible, la franja del lomo es más grande, y los botones de voltear y \"leerlo más de cerca\" ya no quedan cortados. En las pantallas de recorte del encuadre y de escaneo de ISBN, el botón \"Cancelar\" ya no queda debajo de la barra de navegación del sistema."
   },
   {
     "version": "0.2.2",
     "date": "2026-08-18",
     "type": "ota",
     "lt": "Masinis knygų pridėjimas: prieš atpažinimą dabar galima nukirpti kadro viršų ir apačią, tad gretimos lentynos knygos, į kadrą įėjusios tik puse, į sąrašą net nepakliūva. Nukirpimas nesumažina raiškos: atpažinimui siunčiamos nuotraukos mastelis nepakinta, tik joje nebelieka to, ko nereikia.",
-    "en": "Bulk book adding: before recognition you can now crop the top and bottom of the frame, so half-visible books from the neighbouring shelf never reach the list at all. Cropping costs no resolution: the photo sent for recognition keeps the same scale, it simply no longer contains what you did not want."
+    "en": "Bulk book adding: before recognition you can now crop the top and bottom of the frame, so half-visible books from the neighbouring shelf never reach the list at all. Cropping costs no resolution: the photo sent for recognition keeps the same scale, it simply no longer contains what you did not want.",
+    "es": "Añadir libros en bloque: antes del reconocimiento ahora puedes recortar la parte superior e inferior del encuadre, así los libros medio visibles del estante de al lado ni siquiera llegan a la lista. Recortar no cuesta resolución: la foto enviada a reconocer mantiene la misma escala, simplemente ya no contiene lo que no querías."
   },
   {
     "version": "0.2.2",
     "date": "2026-08-18",
     "type": "ota",
     "lt": "Knygos, nufotografuotos iš priekio, nebeguldomos ant šono. O kai atpažinimas nepavyksta, ekranas dabar pasako priežastį (pavyzdžiui serverio klaidos kodą), o ne vien tai, kad nepavyko.",
-    "en": "Books photographed cover-out are no longer laid on their side. And when recognition fails, the screen now tells you why (for example the server error code) instead of only that it failed."
+    "en": "Books photographed cover-out are no longer laid on their side. And when recognition fails, the screen now tells you why (for example the server error code) instead of only that it failed.",
+    "es": "Los libros fotografiados con la portada hacia fuera ya no se colocan de lado. Y cuando el reconocimiento falla, la pantalla ahora te dice por qué (por ejemplo, el código de error del servidor) en lugar de decir solo que falló."
   },
   {
     "version": "0.2.2",
     "date": "2026-08-18",
     "type": "ota",
     "lt": "Masinis knygų pridėjimas: peržiūroje dabar iškart matoma, kurios knygos gaus visos lentynos nuotrauką, o ne savo nugarėlės iškarpą, ir tokios eilutės pažymimos. Programa nustojo be reikalo laikyti atmintyje apdorotas nuotraukas, tad kelių lentynos kadrų apdorojimas telefonui nebeatsieina taip sunkiai.",
-    "en": "Bulk book adding: the review now shows upfront which books will get the whole shelf photo instead of their own spine crop, and marks those rows. The app no longer holds processed photos in memory longer than needed, so working through several shelf photos is much lighter on the phone."
+    "en": "Bulk book adding: the review now shows upfront which books will get the whole shelf photo instead of their own spine crop, and marks those rows. The app no longer holds processed photos in memory longer than needed, so working through several shelf photos is much lighter on the phone.",
+    "es": "Añadir libros en bloque: la revisión ahora muestra de antemano qué libros recibirán la foto completa del estante en lugar de su propio recorte del lomo, y marca esas filas. La app ya no guarda en memoria las fotos procesadas más tiempo del necesario, así que procesar varias fotos de estantes es mucho más ligero para el teléfono."
   },
   {
     "version": "0.2.2",
     "date": "2026-08-17",
     "type": "ota",
     "lt": "Lentynos nuotraukoje iškarpa dabar apima vieną knygą, o ne kaimynines: programa nebesitiki, kad atpažinimas ribas nustatys tvarkingai, o pati jas pataiso pagal aplinkinių knygų padėtį. Iškarpa taip pat nebe vien pavadinimas — matosi visa užrašų sritis su autoriumi. „Ką aptiko nuotraukoje“ ekrane vėl matomi rėmeliai aplink kiekvieną rastą knygą. Legendoje prie spalvų dabar parašyta, kas bus ir kas nebus pridėta, ir po kiek. Jei nugarėlės iškirpti nepavyksta iš karto, programa bando dar kartą, tad rečiau pasitaiko, kad įrašas gautų visos lentynos nuotrauką; o suvestinė po pridėjimo dabar pasako, kiek tokių buvo.",
-    "en": "A crop from a shelf photo now holds one book instead of its neighbours: the app no longer trusts the recognition to get the edges right and corrects them itself from where the surrounding books are. A crop is also no longer just the title — the whole printed area, author included, is in frame. And “What it found in the photo” shows the outlines around each detected book again. Its legend now says what will and will not be added, with counts. If a spine cannot be cut out on the first attempt the app now tries again, so an item is less likely to end up with the whole shelf photo — and the summary after adding tells you how many did."
+    "en": "A crop from a shelf photo now holds one book instead of its neighbours: the app no longer trusts the recognition to get the edges right and corrects them itself from where the surrounding books are. A crop is also no longer just the title — the whole printed area, author included, is in frame. And “What it found in the photo” shows the outlines around each detected book again. Its legend now says what will and will not be added, with counts. If a spine cannot be cut out on the first attempt the app now tries again, so an item is less likely to end up with the whole shelf photo — and the summary after adding tells you how many did.",
+    "es": "Un recorte de una foto del estante ahora contiene un solo libro en lugar de sus vecinos: la app ya no confía en que el reconocimiento acierte con los bordes y los corrige ella misma según dónde están los libros de alrededor. Un recorte tampoco es ya solo el título: toda la zona impresa, autor incluido, entra en el encuadre. Y “Qué encontró en la foto” vuelve a mostrar los contornos alrededor de cada libro detectado. Su leyenda ahora indica qué se añadirá y qué no, con recuentos. Si un lomo no se puede recortar al primer intento, la app ahora lo vuelve a intentar, así que es menos probable que un artículo acabe con la foto completa del estante, y el resumen tras añadir te dice cuántos fueron."
   },
   {
     "version": "0.2.2",
     "date": "2026-08-17",
     "type": "ota",
     "lt": "Lentynos nuotraukoje dabar atpažįstamos ir gulinčios knygos — anksčiau jos būdavo praleidžiamos visos. Gretimos lentynos kraštas, įkliuvęs į kadrą, nebepatenka į kolekciją: tokios eilutės pažymimos ir lieka be varnelės. Peržiūroje atsirado „Ką aptiko nuotraukoje“ — visos knygos apibrėžtos ant pačios nuotraukos, tad matai ir tai, ko programa nepamatė. Nugarėlę, kurios pavadinimas nuskaitytas netiksliai, galima perskaityti iš arčiau vienu paspaudimu.",
-    "en": "Books lying flat in stacks are now detected in a shelf photo — before, every one of them was missed. A neighbouring shelf caught at the edge of the frame no longer slips into your collection: those rows are flagged and left unchecked. The review screen gained “What it found in the photo” — every book outlined on the photo itself, so you can also see what the app did not see. A spine whose title came out wrong can be read closer with one tap."
+    "en": "Books lying flat in stacks are now detected in a shelf photo — before, every one of them was missed. A neighbouring shelf caught at the edge of the frame no longer slips into your collection: those rows are flagged and left unchecked. The review screen gained “What it found in the photo” — every book outlined on the photo itself, so you can also see what the app did not see. A spine whose title came out wrong can be read closer with one tap.",
+    "es": "Los libros apilados en horizontal ahora se detectan en una foto del estante; antes se pasaban por alto todos. Un estante vecino captado en el borde del encuadre ya no se cuela en tu colección: esas filas se marcan y se dejan sin seleccionar. La pantalla de revisión incorpora “Qué encontró en la foto”: cada libro contorneado sobre la propia foto, para que también veas lo que la app no vio. Un lomo cuyo título salió mal se puede leer más de cerca con un toque."
   },
   {
     "version": "0.2.2",
     "date": "2026-08-17",
     "type": "ota",
     "lt": "Knygų sąrašas dabar teisingai rikiuojasi pagal pavadinimą. „Galimi dublikatai“ — palietus porą atsiveria tik tie du įrašai, tad juos galima palyginti perbraukiant. Masiniame pridėjime nepavykusi nuotrauka pasako priežastį (pavyzdžiui, „nėra ryšio“), o ne vien „atpažinti nepavyko“.",
-    "en": "The book list now sorts by title correctly. In “Possible duplicates”, tapping a pair opens just those two items, so you can compare them by swiping. In bulk add, a failed photo now says why (for example “no connection”) instead of only “recognition failed”."
+    "en": "The book list now sorts by title correctly. In “Possible duplicates”, tapping a pair opens just those two items, so you can compare them by swiping. In bulk add, a failed photo now says why (for example “no connection”) instead of only “recognition failed”.",
+    "es": "La lista de libros ahora se ordena por título correctamente. En “Posibles duplicados”, al tocar un par se abren solo esos dos artículos, para que puedas compararlos deslizando. En añadir en bloque, una foto fallida ahora dice por qué (por ejemplo, “sin conexión”) en lugar de solo “el reconocimiento falló”."
   },
   {
     "version": "0.2.2",
     "date": "2026-08-16",
     "type": "ota",
     "lt": "Masinio pridėjimo peržiūroje nugarėlių juostos nebeturi pilkų paraščių — matosi tik pati knygos nugarėlė. Lentynos nuotrauka apdorojama taupiau: ji nebedekoduojama du kartus, tad senesniame telefone atpažinimas rečiau nutrūksta dėl atminties.",
-    "en": "In the bulk-add review, spine strips no longer have grey margins — you see just the book spine itself. Shelf photos are processed more frugally: they are no longer decoded twice, so on an older phone recognition is less likely to run out of memory."
+    "en": "In the bulk-add review, spine strips no longer have grey margins — you see just the book spine itself. Shelf photos are processed more frugally: they are no longer decoded twice, so on an older phone recognition is less likely to run out of memory.",
+    "es": "En la revisión de añadir en bloque, las franjas de los lomos ya no tienen márgenes grises: ves solo el lomo del libro. Las fotos de estantes se procesan de forma más ahorrativa: ya no se decodifican dos veces, así que en un teléfono más antiguo es menos probable que el reconocimiento se quede sin memoria."
   },
   {
     "version": "0.2.2",
     "date": "2026-08-16",
     "type": "ota",
     "lt": "Masinis knygų pridėjimas iš lentynos nuotraukos tapo gerokai patogesnis: peržiūroje dabar matai pačią nugarėlę — tokį patį vaizdą, kokį gaus įrašas — ir gali ją apversti vienu paspaudimu, jei leidėjas pavadinimą atspausdino kita kryptimi. Knygos be atpažinto pavadinimo nebepridedamos tyliai. Knygų kategorijos katalogas tapo sąrašu su matomomis nugarėlėmis, o žanrą dabar parenka AI iš fiksuoto sąrašo, tad filtras lieka tvarkingas. Kataloge atsirado masinis trynimas: palaikyk kortelę, pažymėk kelias ir ištrink iš karto. Langas „Galimi dublikatai“ suskirstytas pagal kategorijas. Ilgi pavadinimai nebeslenka į šoną, o laužomi per kelias eilutes. Nustatymuose atsirado dar vienas Gemini modelis.",
-    "en": "Bulk-adding books from a shelf photo got noticeably better: the review list now shows the actual spine — exactly the image the item will get — and you can flip it with one tap when the publisher printed the title the other way round. Books with no recognized title are no longer added silently. A book category's catalog is now a list with visible spines, and the genre is filled in by AI from a fixed list, so the filter stays tidy. The catalog gained bulk delete: long-press a card, select several, delete them at once. The possible-duplicates screen is now split by category. Long titles wrap onto several lines instead of scrolling sideways. Settings gained one more Gemini model."
+    "en": "Bulk-adding books from a shelf photo got noticeably better: the review list now shows the actual spine — exactly the image the item will get — and you can flip it with one tap when the publisher printed the title the other way round. Books with no recognized title are no longer added silently. A book category's catalog is now a list with visible spines, and the genre is filled in by AI from a fixed list, so the filter stays tidy. The catalog gained bulk delete: long-press a card, select several, delete them at once. The possible-duplicates screen is now split by category. Long titles wrap onto several lines instead of scrolling sideways. Settings gained one more Gemini model.",
+    "es": "Añadir libros en bloque desde una foto del estante ha mejorado notablemente: la lista de revisión ahora muestra el lomo real, exactamente la imagen que recibirá el artículo, y puedes voltearlo con un toque cuando la editorial imprimió el título al revés. Los libros sin título reconocido ya no se añaden en silencio. El catálogo de una categoría de libros ahora es una lista con los lomos visibles, y la IA completa el género a partir de una lista fija, para que el filtro se mantenga ordenado. El catálogo incorpora la eliminación en bloque: mantén pulsada una tarjeta, selecciona varias y elimínalas a la vez. La pantalla de posibles duplicados ahora está dividida por categoría. Los títulos largos se reparten en varias líneas en lugar de desplazarse hacia los lados. Ajustes incorpora un modelo más de Gemini."
   },
   {
     "version": "0.2.2",
     "date": "2026-08-14",
     "type": "ota",
     "lt": "Masinis knygų pridėjimas iš lentynos nuotraukos: nufotografuok lentyną arba pasirink nuotraukas iš galerijos, o programa atpažins knygas ir leis jas peržiūrėti bei pataisyti prieš įrašant. Nuotrauką įrašo ekrane dabar galima atidaryti per visą ekraną — tiesiog paspausk ją.",
-    "en": "Bulk add books from a shelf photo: photograph a shelf or pick photos from your gallery, and the app recognizes the books and lets you review and correct them before saving. A photo on the item screen now opens full screen — just tap it."
+    "en": "Bulk add books from a shelf photo: photograph a shelf or pick photos from your gallery, and the app recognizes the books and lets you review and correct them before saving. A photo on the item screen now opens full screen — just tap it.",
+    "es": "Añadir libros en bloque desde una foto del estante: fotografía un estante o elige fotos de tu galería, y la app reconoce los libros y te permite revisarlos y corregirlos antes de guardar. Una foto en la pantalla del artículo ahora se abre a pantalla completa: basta con tocarla."
   },
   {
     "version": "0.2.2",
     "date": "2026-08-12",
     "type": "build",
     "lt": "Programėlė tapo pastebimai mažesnė ir greičiau pasileidžia. Brūkšninių kodų skaitytuvas dabar veikia ir pasuktame (gulsčiame) telefone. Įvedus neteisingą Gemini raktą, dabar aiškiai parašoma, kad raktas negalioja — vietoj bevardžio klaidos kodo.",
-    "en": "The app is noticeably smaller and starts faster. The barcode scanner now works in landscape as well. If your Gemini key is wrong, the app now says so clearly instead of showing a bare error code."
+    "en": "The app is noticeably smaller and starts faster. The barcode scanner now works in landscape as well. If your Gemini key is wrong, the app now says so clearly instead of showing a bare error code.",
+    "es": "La app es notablemente más pequeña y arranca más rápido. El lector de códigos de barras ahora también funciona en horizontal. Si tu clave de Gemini es incorrecta, la app ahora lo dice claramente en lugar de mostrar solo un código de error."
   },
   {
     "version": "0.2.1",
     "date": "2026-08-09",
     "type": "ota",
     "lt": "Prieinamumo pataisymai: katalogo kortelės dabar ekrano skaitytuvui perskaitomos (pagrindinė reikšmė ir aprašymas), o kategorijų pasirinkimo eilutės pasako, ar jos pažymėtos. Įprastam naudojimui nieko nepasikeitė.",
-    "en": "Accessibility fixes: catalog cards are now read out properly by screen readers (primary value and description), and the category picker rows announce whether they are checked. Nothing changes for regular use."
+    "en": "Accessibility fixes: catalog cards are now read out properly by screen readers (primary value and description), and the category picker rows announce whether they are checked. Nothing changes for regular use.",
+    "es": "Correcciones de accesibilidad: los lectores de pantalla ahora leen correctamente las tarjetas del catálogo (valor principal y descripción), y las filas del selector de categorías anuncian si están marcadas. No cambia nada en el uso normal."
   },
   {
     "version": "0.2.1",
     "date": "2026-08-09",
     "type": "ota",
     "lt": "Pirmą kartą paleidus programėlę dabar galima iš karto susižymėti, kokias kolekcijas kaupsi — pažymėtos kategorijos (Monetos, Alus, Vynas, Knygos, Pašto ženklai ir kitos) sukuriamos automatiškai. Stikliukai pažymėti iš anksto, bet juos galima atžymėti, jei jų nekolekcionuoji.",
-    "en": "On first launch you can now mark which collections you want to keep — the categories you tick (Coins, Beer, Wine, Books, Stamps and more) are created for you right away. Shot Glasses are pre-selected, but you can uncheck them if they are not your thing."
+    "en": "On first launch you can now mark which collections you want to keep — the categories you tick (Coins, Beer, Wine, Books, Stamps and more) are created for you right away. Shot Glasses are pre-selected, but you can uncheck them if they are not your thing.",
+    "es": "En el primer inicio ahora puedes marcar qué colecciones quieres llevar: las categorías que marques (Monedas, Cerveza, Vino, Libros, Sellos y más) se crean al momento. Los vasos de chupito vienen preseleccionados, pero puedes desmarcarlos si no son lo tuyo."
   },
   {
     "version": "0.2.1",
     "date": "2026-08-09",
     "type": "ota",
     "lt": "Angliškame sąsajos variante ištaisytos likusios lietuviškos vietos: trūkę šalių vertimai, kategorijų laukai ir jų parinktys, paieška pagal išverstą pavadinimą ir teisinga abėcėlinė tvarka.",
-    "en": "Fixed the remaining Lithuanian leftovers in the English interface: missing country translations, category fields and their options, search by the translated name, and correct alphabetical sorting."
+    "en": "Fixed the remaining Lithuanian leftovers in the English interface: missing country translations, category fields and their options, search by the translated name, and correct alphabetical sorting.",
+    "es": "Se corrigieron los restos de lituano que quedaban en la interfaz en inglés: traducciones de países que faltaban, campos de categorías y sus opciones, búsqueda por el nombre traducido y orden alfabético correcto."
   },
   {
     "version": "0.2.1",
     "date": "2026-08-09",
     "type": "ota",
     "lt": "Išvaizdos pagražinimai: tvarkingesnės katalogo kortelės, vienodi mygtukai, aiškesnės tuščios būsenos ir atskiras pranešimas, kai paieška nieko neranda. Statistikos diagramos spalvos nebesusilieja, o šalių sąrašas telpa į du stulpelius. Nustatymuose atsirado nuorodos į naujienas ir privatumo politiką, o modelių sąraše liko tik naujoji Gemini 3 karta.",
-    "en": "Visual polish: tidier catalog cards, consistent buttons, clearer empty states and a separate message when a search finds nothing. Chart colours no longer blend together and the value list now fits into two columns. Settings gained links to the news and privacy pages, and the model list now offers only the newer Gemini 3 generation."
+    "en": "Visual polish: tidier catalog cards, consistent buttons, clearer empty states and a separate message when a search finds nothing. Chart colours no longer blend together and the value list now fits into two columns. Settings gained links to the news and privacy pages, and the model list now offers only the newer Gemini 3 generation.",
+    "es": "Pulido visual: tarjetas del catálogo más ordenadas, botones coherentes, estados vacíos más claros y un mensaje aparte cuando una búsqueda no encuentra nada. Los colores de los gráficos ya no se confunden entre sí y la lista de valores ahora cabe en dos columnas. Ajustes incorpora enlaces a las páginas de novedades y de privacidad, y la lista de modelos ahora ofrece solo la generación más nueva, Gemini 3."
   },
   {
     "version": "0.2.1",
     "date": "2026-08-09",
     "type": "ota",
     "lt": "Horizontalioje padėtyje klaviatūra nebeuždengia viso ekrano: redaguojant žymę matomas ir pats laukas, ir siūlomų žymių juosta.",
-    "en": "In landscape the keyboard no longer covers the whole screen: while editing a tag you can see both the input field and the suggested tags."
+    "en": "In landscape the keyboard no longer covers the whole screen: while editing a tag you can see both the input field and the suggested tags.",
+    "es": "En horizontal, el teclado ya no tapa toda la pantalla: al editar una etiqueta puedes ver tanto el campo de texto como las etiquetas sugeridas."
   },
   {
     "version": "0.2.1",
     "date": "2026-08-08",
     "type": "ota",
     "lt": "Horizontalioje padėtyje kataloge paslėpta viršutinė juosta — telpa daugiau nuotraukų. Kategorijų skirtukai nebeužlipa ant ekrano iškirptės. Greitesnis „Galimi dublikatai“ ekranas: ieškant poros nuotraukos nebemirksi.",
-    "en": "In landscape the catalog's top bar is now hidden, so more photos fit on screen. Category tabs no longer sit under the display cutout. The “Possible duplicates” screen is faster: photos no longer flicker while you search."
+    "en": "In landscape the catalog's top bar is now hidden, so more photos fit on screen. Category tabs no longer sit under the display cutout. The “Possible duplicates” screen is faster: photos no longer flicker while you search.",
+    "es": "En horizontal, la barra superior del catálogo ahora se oculta, así que caben más fotos en la pantalla. Las pestañas de categorías ya no quedan debajo del recorte de la pantalla. La pantalla “Posibles duplicados” es más rápida: las fotos ya no parpadean mientras buscas."
   },
   {
     "version": "0.2.1",
     "date": "2026-08-08",
     "type": "build",
     "lt": "Google Play versija atnaujinta iš 0.1.5 į 0.2.1 — didžiausias leidimas iki šiol. Dublikatų atpažinimas dabar semantinis: atpažįsta tą patį daiktą net jei aprašytas kitais žodžiais, o Nustatymuose atsirado „Galimi dublikatai\" peržiūros ekranas. Nauja: dalinimosi kortelė daikto nuotraukai, valiutos pasirinkimas, naršymas perbraukiant tarp įrašų, nuotraukos apkarpymas iškart po nufotografavimo, greitesnis katalogas, horizontalios (landscape) padėties palaikymas, statistikoje atskira „Nenurodyta\" grupė, o pasirinkimų sąrašai rikiuojami pagal naudojimo dažnumą. Taip pat atsparesnis atsarginių kopijų kūrimas ir atkūrimas, pataisytas Android „atgal\" mygtukas ir pašalintas nenaudotas mikrofono leidimas.",
-    "en": "The Google Play version moves from 0.1.5 to 0.2.1 — the largest release so far. Duplicate detection is now semantic: it recognises the same item even when described in different words, and Settings gained a \"Possible duplicates\" review screen. Also new: a share card for an item's photo, a currency setting, swipe navigation between items, photo cropping right after the shot, a faster catalog, landscape support, a separate \"Not specified\" group in statistics, and option lists sorted by how often you use them. Plus more robust backup/restore, a fixed Android back button, and the unused microphone permission removed."
+    "en": "The Google Play version moves from 0.1.5 to 0.2.1 — the largest release so far. Duplicate detection is now semantic: it recognises the same item even when described in different words, and Settings gained a \"Possible duplicates\" review screen. Also new: a share card for an item's photo, a currency setting, swipe navigation between items, photo cropping right after the shot, a faster catalog, landscape support, a separate \"Not specified\" group in statistics, and option lists sorted by how often you use them. Plus more robust backup/restore, a fixed Android back button, and the unused microphone permission removed.",
+    "es": "La versión de Google Play pasa de 0.1.5 a 0.2.1: la mayor versión hasta ahora. La detección de duplicados ahora es semántica: reconoce el mismo artículo aunque esté descrito con otras palabras, y Ajustes incorpora una pantalla de revisión \"Posibles duplicados\". También es nuevo: una tarjeta para compartir la foto de un artículo, un ajuste de moneda, navegación deslizando entre artículos, recorte de la foto justo después de hacerla, un catálogo más rápido, compatibilidad con la orientación horizontal, un grupo \"Sin especificar\" aparte en las estadísticas y listas de opciones ordenadas según la frecuencia con que las usas. Además, copias de seguridad y restauraciones más robustas, el botón Atrás de Android corregido y la eliminación del permiso de micrófono, que no se usaba."
   },
   {
     "version": "0.2.1",
     "date": "2026-08-08",
     "type": "ota",
     "lt": "Žymių ir laukų reikšmių pasiūlymai dabar rodomi kompaktiška juosta, kuri telpa virš klaviatūros — anksčiau ją užstodavo klaviatūra ir reikėdavo slinkti, o horizontalioje padėtyje jos nesimatydavo visai.",
-    "en": "Tag and field-value suggestions now appear as a compact strip that fits above the keyboard — previously the keyboard covered it and you had to scroll, and in landscape it was not visible at all."
+    "en": "Tag and field-value suggestions now appear as a compact strip that fits above the keyboard — previously the keyboard covered it and you had to scroll, and in landscape it was not visible at all.",
+    "es": "Las sugerencias de etiquetas y de valores de campos ahora aparecen como una franja compacta que cabe encima del teclado; antes el teclado la tapaba y tenías que desplazarte, y en horizontal no se veía en absoluto."
   },
   {
     "version": "0.2.1",
     "date": "2026-08-05",
     "type": "ota",
     "lt": "Dublikatų kalibravimo ekrane (Nustatymai → „Galimi dublikatai\") panašumo balai dabar rodomi trimis skaitmenimis po kablelio — geriau matosi, kurios poros vos praeina ribą, o kurios vos nepraeina.",
-    "en": "The duplicate calibration screen (Settings → \"Possible duplicates\") now shows similarity scores to three decimals, so it is clearer which pairs only just cross the threshold and which only just miss it."
+    "en": "The duplicate calibration screen (Settings → \"Possible duplicates\") now shows similarity scores to three decimals, so it is clearer which pairs only just cross the threshold and which only just miss it.",
+    "es": "La pantalla de calibración de duplicados (Ajustes → \"Posibles duplicados\") ahora muestra las puntuaciones de similitud con tres decimales, así queda más claro qué pares apenas superan el umbral y cuáles se quedan justo por debajo."
   },
   {
     "version": "0.2.1",
     "date": "2026-08-04",
     "type": "ota",
     "lt": "Horizontalios (landscape) padėties pataisymai: katalogo tinklelis rodo daugiau nuotraukų, įrašo peržiūroje ir naujo įrašo formoje nuotrauka perkelta į atskirą stulpelį, dublikatų langai pertvarkyti, sutvarkytas perbraukimo tarp įrašų lygiavimas.",
-    "en": "Landscape layout fixes: the catalog grid now fits more photos, the item detail and new-item form move the photo into its own column, the duplicate screens were rearranged, and swiping between items aligns correctly."
+    "en": "Landscape layout fixes: the catalog grid now fits more photos, the item detail and new-item form move the photo into its own column, the duplicate screens were rearranged, and swiping between items aligns correctly.",
+    "es": "Correcciones del diseño en horizontal: la cuadrícula del catálogo ahora muestra más fotos, el detalle del artículo y el formulario de artículo nuevo pasan la foto a su propia columna, se reorganizaron las pantallas de duplicados, y el deslizamiento entre artículos se alinea correctamente."
   },
   {
     "version": "0.2.1",
     "date": "2026-08-04",
     "type": "ota",
     "lt": "Tikslesnis dublikatų atpažinimas: panašumo riba perkalibruota pagal realius duomenis, o daiktai su sutampančiu užrašu dabar visada rodomi pirmi su žyme „Užrašas sutampa\".",
-    "en": "More accurate duplicate detection: the similarity threshold was recalibrated against real data, and items with a matching inscription now always appear first, tagged 'Inscription matches'."
+    "en": "More accurate duplicate detection: the similarity threshold was recalibrated against real data, and items with a matching inscription now always appear first, tagged 'Inscription matches'.",
+    "es": "Detección de duplicados más precisa: el umbral de similitud se recalibró con datos reales, y los artículos con una inscripción coincidente ahora siempre aparecen primero, etiquetados como 'La inscripción coincide'."
   },
   {
     "version": "0.2.1",
     "date": "2026-08-04",
     "type": "ota",
     "lt": "Dublikatų peržiūra: porų paieška pagal tekstą, pilnai išskleidžiamos balų juostos ir tikslesni panašumo balai (vektoriai atnaujinami redaguojant; Nustatymuose naujas mygtukas „Perskaičiuoti visus vektorius\").",
-    "en": "Duplicate review: text search for pairs, fully expandable score bands, and more accurate similarity scores (vectors refresh on edit; new 'Recompute all vectors' button in Settings)."
+    "en": "Duplicate review: text search for pairs, fully expandable score bands, and more accurate similarity scores (vectors refresh on edit; new 'Recompute all vectors' button in Settings).",
+    "es": "Revisión de duplicados: búsqueda de texto de pares, franjas de puntuación totalmente desplegables y puntuaciones de similitud más precisas (los vectores se actualizan al editar; nuevo botón 'Recalcular todos los vectores' en Ajustes)."
   },
   {
     "version": "0.2.1",
     "date": "2026-08-04",
     "type": "ota",
     "lt": "Sukalibruotas dublikatų atpažinimo panašumo slenkstis (0.85); katalogo filtro juostos (šalis/kategorija) dabar rikiuojamos pagal dažniausiai turimus, ne abėcėlę.",
-    "en": "Calibrated the duplicate-detection similarity threshold (0.85); catalog filter chips (country/category) are now sorted by how often you have them, not alphabetically."
+    "en": "Calibrated the duplicate-detection similarity threshold (0.85); catalog filter chips (country/category) are now sorted by how often you have them, not alphabetically.",
+    "es": "Se calibró el umbral de similitud de la detección de duplicados (0.85); los chips de filtro del catálogo (país/categoría) ahora se ordenan según cuántos tienes de cada uno, no alfabéticamente."
   },
   {
     "version": "0.2.1",
     "date": "2026-08-04",
     "type": "ota",
     "lt": "Galimų dublikatų peržiūros ekranas dabar rodo tikrą panašumo balų histogramą (juostos su realiu porų skaičiumi + pavyzdžiai), kad būtų lengviau tiksliai nustatyti dublikatų ribą.",
-    "en": "The possible-duplicates review screen now shows a real similarity-score histogram (bands with actual pair counts + samples) to help pinpoint the duplicate threshold accurately."
+    "en": "The possible-duplicates review screen now shows a real similarity-score histogram (bands with actual pair counts + samples) to help pinpoint the duplicate threshold accurately.",
+    "es": "La pantalla de revisión de posibles duplicados ahora muestra un histograma real de las puntuaciones de similitud (franjas con el número real de pares + ejemplos) para ayudar a fijar con precisión el umbral de duplicados."
   },
   {
     "version": "0.2.1",
     "date": "2026-08-04",
     "type": "ota",
     "lt": "Pataisytas žymių/laukų pasiūlymų pasirinkimo išsaugojimas redaguojant esamą įrašą; galimų dublikatų peržiūros ekranas dabar rodo ir MIN_COSINE ribos zoną kalibravimui.",
-    "en": "Fixed tag/field suggestion selection not saving when editing an existing item; the possible-duplicates review screen now also shows pairs near the MIN_COSINE threshold for calibration."
+    "en": "Fixed tag/field suggestion selection not saving when editing an existing item; the possible-duplicates review screen now also shows pairs near the MIN_COSINE threshold for calibration.",
+    "es": "Se corrigió que la selección de sugerencias de etiquetas/campos no se guardara al editar un artículo existente; la pantalla de revisión de posibles duplicados ahora también muestra pares cercanos al umbral MIN_COSINE para la calibración."
   },
   {
     "version": "0.2.0",
     "date": "2026-08-04",
     "type": "ota",
     "lt": "Testavimo pataisos: žymių/lauko pasiūlymų pasirinkimas, dalinimosi kortelės nuotrauka, GPS vietos nustatymo pakartojimas, AI atnaujinimo limitų valdymas, papildytos šalys.",
-    "en": "Testing fixes: tag/field suggestion selection, share card photo, location detection retry, AI refresh rate limiting, added countries."
+    "en": "Testing fixes: tag/field suggestion selection, share card photo, location detection retry, AI refresh rate limiting, added countries.",
+    "es": "Correcciones de las pruebas: selección de sugerencias de etiquetas/campos, foto de la tarjeta para compartir, reintento de detección de ubicación, límite de frecuencia de actualización de la IA, países añadidos."
   },
   {
     "version": "0.1.5",
     "date": "2026-07-22",
     "type": "build",
     "lt": "Paruošta versija Google Play uždaram testavimui: gamybinis build'as (AAB), pristatymo (splash) ekranas su firmine spalva ir onboarding pataisa po Android navigacijos juosta.",
-    "en": "Version prepared for Google Play closed testing: a production build (AAB), a branded splash screen, and an onboarding fix behind the Android navigation bar."
+    "en": "Version prepared for Google Play closed testing: a production build (AAB), a branded splash screen, and an onboarding fix behind the Android navigation bar.",
+    "es": "Versión preparada para las pruebas cerradas de Google Play: una compilación de producción (AAB), una pantalla de inicio con la marca y una corrección de la introducción que quedaba detrás de la barra de navegación de Android."
   },
   {
     "version": "0.1.4",
     "date": "2026-07-21",
     "type": "ota",
     "lt": "Naujas įvertinimo laukas — 0–10 slankiklis ragaujamoms kategorijoms (Viskis/Vynas/Alus jį gauna automatiškai). Pridėtas kategorijos redagavimo ekranas (pervadinimas, laukų šalinimas). Saugumo, korektiškumo ir prieinamumo (a11y) pataisos pagal kritinę peržiūrą.",
-    "en": "A new rating field — a 0–10 slider for tasting categories (Whisky/Wine/Beer get it automatically). Added a category editing screen (rename, remove fields). Security, correctness and accessibility (a11y) fixes from a critical review."
+    "en": "A new rating field — a 0–10 slider for tasting categories (Whisky/Wine/Beer get it automatically). Added a category editing screen (rename, remove fields). Security, correctness and accessibility (a11y) fixes from a critical review.",
+    "es": "Un nuevo campo de valoración: un control deslizante de 0 a 10 para categorías de cata (Whisky/Vino/Cerveza lo reciben automáticamente). Se añadió una pantalla de edición de categorías (renombrar, eliminar campos). Correcciones de seguridad, de exactitud y de accesibilidad (a11y) a partir de una revisión crítica."
   },
   {
     "version": "0.1.4",
     "date": "2026-07-20",
     "type": "ota",
     "lt": "Pridėta pradinė instrukcija (onboarding) naujiems naudotojams, automatinis atnaujinimų tikrinimas ir UI pataisos pagal pirmų testuotojų atsiliepimus.",
-    "en": "Added first-run onboarding for new users, automatic update checks, and UI fixes based on early tester feedback."
+    "en": "Added first-run onboarding for new users, automatic update checks, and UI fixes based on early tester feedback.",
+    "es": "Se añadió una introducción en el primer inicio para usuarios nuevos, comprobaciones automáticas de actualizaciones y correcciones de la interfaz a partir de los comentarios de los primeros probadores."
   },
   {
     "version": "0.1.4",
     "date": "2026-07-16",
     "type": "build",
     "lt": "Naujas build. Rekomenduojamo Gemini modelio atnaujinimas pagal realų testavimą (stabilesnis atpažinimas) ir Play Console pristatymo medžiaga (feature graphic).",
-    "en": "A new build. Updated the recommended Gemini model based on real testing (more reliable identification) and Play Console store assets (feature graphic)."
+    "en": "A new build. Updated the recommended Gemini model based on real testing (more reliable identification) and Play Console store assets (feature graphic).",
+    "es": "Una nueva compilación. Se actualizó el modelo de Gemini recomendado según pruebas reales (identificación más fiable) y los recursos de la ficha de Play Console (gráfico destacado)."
   },
   {
     "version": "0.1.3",
     "date": "2026-07-15",
     "type": "ota",
     "lt": "Aiškios AI atpažinimo klaidų priežastys vietoj tylaus nepavykimo. Tekstinių laukų automatinis pildymas iš anksčiau įvestų reikšmių (pvz. Žanras). Sklandesnis pasiūlymų pasirinkimas su atidaryta klaviatūra.",
-    "en": "Clear reasons for AI identification errors instead of a silent failure. Text-field autocomplete from previously entered values (e.g. Genre). Smoother suggestion picking while the keyboard is open."
+    "en": "Clear reasons for AI identification errors instead of a silent failure. Text-field autocomplete from previously entered values (e.g. Genre). Smoother suggestion picking while the keyboard is open.",
+    "es": "Motivos claros de los errores de identificación con IA en lugar de un fallo silencioso. Autocompletado de campos de texto a partir de valores introducidos antes (p. ej., Género). Elección de sugerencias más fluida con el teclado abierto."
   },
   {
     "version": "0.1.3",
     "date": "2026-07-14",
     "type": "build",
     "lt": "Statistika perkelta į atskirą skirtuką su kategorijos filtru. 11 paruoštų kategorijų šablonų greitam kūrimui. Palaikoma antra (galinė) nuotrauka kategorijoms, kurioms jos reikia. Naujesni Gemini 3.x modeliai, programėlės ikona ir „Apie programėlę“ skiltis su kontaktais.",
-    "en": "Statistics moved to its own tab with a category filter. 11 ready-made category templates for quick setup. Support for a second (back) photo for categories that need it. Newer Gemini 3.x models, an app icon, and an “About” section with contacts."
+    "en": "Statistics moved to its own tab with a category filter. 11 ready-made category templates for quick setup. Support for a second (back) photo for categories that need it. Newer Gemini 3.x models, an app icon, and an “About” section with contacts.",
+    "es": "Las estadísticas pasaron a su propia pestaña con un filtro por categoría. 11 plantillas de categorías listas para una configuración rápida. Compatibilidad con una segunda foto (del reverso) para las categorías que la necesitan. Modelos Gemini 3.x más nuevos, un icono de la app y una sección “Acerca de” con los contactos."
   },
   {
     "version": "0.1.1",
     "date": "2026-07-13",
     "type": "ota",
     "lt": "Pilna dvikalbystė LT/EN su kalbos perjungikliu (įskaitant Gemini atpažinimą pagal sąsajos kalbą). Šviesi/tamsi tema (automatinė arba rankinė). Statistikos ekranas su grafikais. Rūšiavimas kataloge ir paieška pagal žymes.",
-    "en": "Full LT/EN bilingual support with a language switch (including Gemini identification in the interface language). Light/dark theme (automatic or manual). A statistics screen with charts. Catalog sorting and search by tags."
+    "en": "Full LT/EN bilingual support with a language switch (including Gemini identification in the interface language). Light/dark theme (automatic or manual). A statistics screen with charts. Catalog sorting and search by tags.",
+    "es": "Compatibilidad bilingüe completa LT/EN con selector de idioma (incluida la identificación de Gemini en el idioma de la interfaz). Tema claro/oscuro (automático o manual). Una pantalla de estadísticas con gráficos. Orden del catálogo y búsqueda por etiquetas."
   },
   {
     "version": "0.1.1",
     "date": "2026-07-12",
     "type": "ota",
     "lt": "Didelis žingsnis: katalogas tampa daugiakategorinis — gali kurti savas kategorijas su savais laukais. Pridėta knygų kategorija su ISBN brūkšninio kodo skenavimu ir automatiniu pildymu iš Open Library. Nuotraukos suspaudžiamos prieš saugojimą ir įkėlimą.",
-    "en": "A big step: the catalog becomes multi-category — you can create your own categories with your own fields. Added a books category with ISBN barcode scanning and auto-fill from Open Library. Photos are compressed before storage and upload."
+    "en": "A big step: the catalog becomes multi-category — you can create your own categories with your own fields. Added a books category with ISBN barcode scanning and auto-fill from Open Library. Photos are compressed before storage and upload.",
+    "es": "Un gran paso: el catálogo pasa a ser multicategoría; puedes crear tus propias categorías con tus propios campos. Se añadió una categoría de libros con lectura del código de barras ISBN y autocompletado desde Open Library. Las fotos se comprimen antes de guardarlas y subirlas."
   },
   {
     "version": "0.1.0",
     "date": "2026-07-11",
     "type": "build",
     "lt": "Pradžia. Pirmoji MiCurioso (tuomet „Stikliukai“) versija: fotografuoji daiktą, Gemini AI jį atpažįsta, patikrini ar tokio jau neturi, pažymi žymėmis. Katalogas su paieška ir filtrais, įrašo detalės su redagavimu, atsarginė kopija į zip failą. Visi duomenys — tik telefone.",
-    "en": "The beginning. The first MiCurioso (then “Stikliukai”) release: photograph an item, Gemini AI identifies it, check whether you already own one, tag it. A catalog with search and filters, item detail with editing, and zip-file backup. All data stays on the phone."
+    "en": "The beginning. The first MiCurioso (then “Stikliukai”) release: photograph an item, Gemini AI identifies it, check whether you already own one, tag it. A catalog with search and filters, item detail with editing, and zip-file backup. All data stays on the phone.",
+    "es": "El comienzo. La primera versión de MiCurioso (entonces “Stikliukai”): fotografía un artículo, la IA de Gemini lo identifica, comprueba si ya tienes uno, etiquétalo. Un catálogo con búsqueda y filtros, detalle del artículo con edición y copia de seguridad en un archivo zip. Todos los datos se quedan en el teléfono."
   }
 ]

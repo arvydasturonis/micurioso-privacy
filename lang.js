@@ -1,7 +1,7 @@
 // Kalbos parinkimas abiem puslapiams (index.html ir news.html).
 //
 // Tvarka: ?lang= (taip atidaro pati programa, kur kalba gali būti pasirinkta
-// rankiniu būdu) → naršyklės kalba (lietuviška → LT) → EN.
+// rankiniu būdu) → naršyklės kalba (lietuviška → LT, ispaniška → ES) → EN.
 //
 // Kraunamas <head> be defer SĄMONINGAI: atributas turi atsirasti ant <html>
 // PRIEŠ piešiant turinį, kitaip lietuviškos naršyklės naudotojas akimirkai
@@ -9,12 +9,14 @@
 (function () {
   function pickLanguage() {
     var query = new URLSearchParams(window.location.search).get("lang");
-    if (query === "lt" || query === "en") return query;
+    if (query === "lt" || query === "en" || query === "es") return query;
     var list = navigator.languages && navigator.languages.length
       ? navigator.languages
       : [navigator.language || "en"];
     for (var i = 0; i < list.length; i++) {
-      if (String(list[i]).toLowerCase().indexOf("lt") === 0) return "lt";
+      var code = String(list[i]).toLowerCase();
+      if (code.indexOf("lt") === 0) return "lt";
+      if (code.indexOf("es") === 0) return "es";
     }
     return "en";
   }

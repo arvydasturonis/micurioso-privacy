@@ -15,12 +15,14 @@
   .toggle { margin: 1.25rem 0 2rem; }
   .toggle button { font: inherit; font-size: 0.9rem; padding: 0.35rem 0.9rem; border: 1px solid #ccc; background: #f4f4f4; color: #333; cursor: pointer; }
   .toggle button:first-child { border-radius: 6px 0 0 6px; }
-  .toggle button:last-child { border-radius: 0 6px 6px 0; border-left: none; }
+  .toggle button:last-child { border-radius: 0 6px 6px 0; }
+  .toggle button + button { border-left: none; }
   .toggle button.active { background: #2a5db0; color: #fff; border-color: #2a5db0; }
   .footer { margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid #eee; font-size: 0.9rem; }
   /* language visibility */
-  [data-lang="lt"] .en { display: none; }
-  [data-lang="en"] .lt { display: none; }
+  [data-lang="lt"] .en, [data-lang="lt"] .es { display: none; }
+  [data-lang="en"] .lt, [data-lang="en"] .es { display: none; }
+  [data-lang="es"] .lt, [data-lang="es"] .en { display: none; }
 </style>
 <script src="lang.js"></script>
 </head>
@@ -30,11 +32,13 @@
 <p class="updated">
   <span class="lt">Privatumo politika · paskutinį kartą atnaujinta: 2026-09-20</span>
   <span class="en">Privacy policy · last updated: 2026-09-20</span>
+  <span class="es">Política de privacidad · última actualización: 2026-09-20</span>
 </p>
 
 <div class="toggle" role="group" aria-label="Language">
   <button type="button" data-lang="lt">LT</button>
   <button type="button" data-lang="en">EN</button>
+  <button type="button" data-lang="es">ES</button>
 </div>
 
 <div class="lt">
@@ -321,8 +325,159 @@ Questions about privacy can be sent to:
 
 </div>
 
+<div class="es">
+
+<p>
+MiCurioso (nombre del paquete de Android <code>com.arvydas.stikliukai</code>) es una
+aplicación personal de catálogo de colecciones. Toda la información sobre tu colección
+se queda en tu teléfono.
+</p>
+<p>
+Desde el 2026-09-20 puedes crear una <strong>cuenta opcional</strong> en la aplicación.
+Sin ella, todo funciona exactamente igual que antes. Con una cuenta puedes elegir
+publicar algunas categorías en el servidor — <strong>solo si tú lo eliges</strong>
+— consulta «Cuentas y funciones en red».
+</p>
+
+<h2>Qué datos guarda la aplicación</h2>
+<p>
+La aplicación guarda localmente, en el almacenamiento de tu teléfono: fotos de los
+elementos de tu colección, sus descripciones y otros valores de campos (por ejemplo,
+país, precio, lugar de compra), etiquetas y — si concedes el permiso — coordenadas GPS
+utilizadas para rellenar automáticamente el lugar de compra. Nada de esto se envía a
+ningún sitio automáticamente; permanece en tu dispositivo hasta que lo elimines o
+desinstales la aplicación.
+</p>
+
+<h2>Uso de la cámara</h2>
+<p>
+La cámara se utiliza para fotografiar los elementos de tu colección y para escanear
+códigos de barras de libros (ISBN). Las fotos se guardan únicamente en tu teléfono; no
+se utiliza la grabación de audio y la aplicación no solicita ese permiso.
+</p>
+
+<h2>Uso de la ubicación (GPS)</h2>
+<p>
+Si concedes el permiso de ubicación, la aplicación lo utiliza únicamente para rellenar
+automáticamente el lugar de compra de un nuevo elemento. Las coordenadas aproximadas
+(con precisión a nivel de ciudad) se transmiten una sola vez al servicio de
+geocodificación del sistema del teléfono (Android Geocoder, proporcionado por Google),
+que las convierte en el nombre de una ciudad y un país. La aplicación no almacena las
+coordenadas en sí ni las envía a ningún otro lugar; solo se guarda localmente el texto
+resultante «Ciudad, País», junto con el registro del elemento. Puedes revocar el permiso
+en cualquier momento en los ajustes de tu teléfono; el resto de la aplicación sigue
+funcionando.
+</p>
+
+<h2>Cuentas y funciones en red</h2>
+<p>
+La cuenta es opcional y se crea iniciando sesión con <strong>Google</strong>.
+Una vez iniciada la sesión, el servidor (Supabase) almacena tu dirección de correo
+electrónico, el identificador de tu cuenta de Google y el <strong>nombre visible</strong>
+que tú elijas, que es el nombre que verán los demás usuarios.
+</p>
+<p>
+<strong>No se sube nada a menos que tú lo elijas.</strong> En los ajustes de una
+categoría puedes marcarla como publicada; esto sube esa categoría y sus elementos:
+descripción, estado, valoración, etiquetas, los valores de los campos propios de la
+categoría y una pequeña imagen en miniatura (de unos 300&nbsp;px). <strong>El precio,
+el lugar de compra, la fecha de compra y los registros de préstamos nunca se
+suben</strong>, ni siquiera desde una categoría publicada. Puedes dejar de publicar en
+cualquier momento: la copia del servidor y sus miniaturas se eliminan, y tu colección
+en el teléfono permanece sin cambios.
+</p>
+<p>
+<strong>En esta versión, los elementos publicados solo son visibles para el titular de la cuenta.</strong>
+Todavía no existe la posibilidad de compartir con amigos ni la visibilidad pública;
+es una función futura, y esta política se actualizará antes de que se active.
+</p>
+<p>
+Puedes eliminar tu cuenta en cualquier momento desde la aplicación (Ajustes → Cuenta →
+Eliminar cuenta) o a través de la
+<a href="delete-account.html">página de eliminación de cuenta</a>.
+</p>
+
+<h2>Servicios de terceros</h2>
+<ul>
+  <li>
+    <strong>Iniciar sesión con Google (Sign in with Google)</strong> — si creas una
+    cuenta, Google verifica tu identidad y transmite a la aplicación tu dirección de
+    correo electrónico y tu nombre. Se aplican las condiciones del servicio y la
+    política de privacidad de Google.
+  </li>
+  <li>
+    <strong>Supabase</strong> — almacenamiento de cuentas y categorías publicadas
+    (sin precio, lugar de compra, fecha de compra ni registros de préstamos), en un
+    servidor ubicado en la Unión Europea. Allí solo se almacena lo indicado en
+    «Cuentas y funciones en red».
+  </li>
+  <li>
+    <strong>Google Gemini API</strong> — si eliges utilizar el reconocimiento
+    automático de elementos a partir de una foto, esa foto se envía a la Google Gemini
+    API utilizando una clave de API que tú mismo creas e introduces en la aplicación.
+    A esa transferencia se aplican las condiciones del servicio y la política de
+    privacidad de la Google Gemini API. Esta función es totalmente opcional: siempre
+    puedes añadir un elemento sin reconocimiento automático.
+  </li>
+  <li>
+    <strong>Open Library API</strong> — en la categoría de libros, tras escanear un
+    código de barras ISBN, solo se envía el propio ISBN a este servicio público y
+    gratuito para buscar el título y el autor del libro. No se envía ningún dato
+    personal.
+  </li>
+  <li>
+    <strong>Sentry</strong> — un servicio de monitorización de errores utilizado para
+    mantener la estabilidad de la aplicación. Se le envían automáticamente informes
+    técnicos de fallos: modelo del dispositivo, versión del sistema operativo, versión
+    de la aplicación y la descripción del error/ubicación en el código. El contenido de
+    tu colección (fotos, descripciones, ubicación) no se incluye en esos informes.
+  </li>
+</ul>
+
+<h2>Copias de seguridad</h2>
+<p>
+La aplicación te permite exportar toda tu colección a un único archivo zip e importarla
+de nuevo. Ese archivo lo creas y compartes tú (por ejemplo, guardándolo en un
+almacenamiento en la nube o enviándotelo a ti mismo) mediante el menú estándar para
+compartir de tu teléfono; la aplicación nunca lo sube a ningún sitio por su cuenta.
+</p>
+
+<h2>Eliminación de tus datos</h2>
+<p>
+Puedes eliminar cualquier elemento de tu colección directamente en la aplicación. Al
+desinstalar la aplicación se eliminan con ella todos los datos que creó (la base de
+datos y las fotos).
+</p>
+<p>
+Si has creado una cuenta, puedes eliminarla desde la aplicación (Ajustes → Cuenta →
+Eliminar cuenta) o a través de la
+<a href="delete-account.html">página de eliminación de cuenta</a>. La eliminación es
+definitiva: la cuenta se elimina, no se congela. La colección de tu teléfono no se ve
+afectada.
+</p>
+
+<h2>Privacidad de los menores</h2>
+<p>
+La aplicación no está dirigida a menores y no recopila a sabiendas datos de ninguna
+persona menor de 13 años.
+</p>
+
+<h2>Cambios en esta política</h2>
+<p>
+Si esta política de privacidad cambia, la versión actualizada se publicará en esta
+misma página con una nueva fecha de «última actualización».
+</p>
+
+<h2>Contacto</h2>
+<p>
+Las preguntas sobre privacidad pueden enviarse a:
+<a href="mailto:arvydas.turonis@gmail.com">arvydas.turonis@gmail.com</a>
+</p>
+
+</div>
+
 <div class="footer">
-  <a href="news.html"><span class="lt">Naujienos ir pakeitimai</span><span class="en">News &amp; changelog</span></a>
+  <a href="news.html"><span class="lt">Naujienos ir pakeitimai</span><span class="en">News &amp; changelog</span><span class="es">Novedades y cambios</span></a>
 </div>
 
 </body>

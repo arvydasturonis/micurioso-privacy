@@ -14,13 +14,15 @@
   .toggle { margin: 1.25rem 0 2rem; }
   .toggle button { font: inherit; font-size: 0.9rem; padding: 0.35rem 0.9rem; border: 1px solid #ccc; background: #f4f4f4; color: #333; cursor: pointer; }
   .toggle button:first-child { border-radius: 6px 0 0 6px; }
-  .toggle button:last-child { border-radius: 0 6px 6px 0; border-left: none; }
+  .toggle button:last-child { border-radius: 0 6px 6px 0; }
+  .toggle button + button { border-left: none; }
   .toggle button.active { background: #2a5db0; color: #fff; border-color: #2a5db0; }
   .steps { background: #f7f9fc; border: 1px solid #dde5f0; border-radius: 8px; padding: 0.75rem 1.25rem; }
   .footer { margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid #eee; font-size: 0.9rem; }
   /* language visibility */
-  [data-lang="lt"] .en { display: none; }
-  [data-lang="en"] .lt { display: none; }
+  [data-lang="lt"] .en, [data-lang="lt"] .es { display: none; }
+  [data-lang="en"] .lt, [data-lang="en"] .es { display: none; }
+  [data-lang="es"] .lt, [data-lang="es"] .en { display: none; }
 </style>
 <script src="lang.js"></script>
 </head>
@@ -30,11 +32,13 @@
 <p class="updated">
   <span class="lt">Paskyros ištrynimas · atnaujinta: 2026-09-20</span>
   <span class="en">Delete your account · updated: 2026-09-20</span>
+  <span class="es">Eliminar tu cuenta · actualizado: 2026-09-20</span>
 </p>
 
 <div class="toggle" role="group" aria-label="Language">
   <button type="button" data-lang="lt">LT</button>
   <button type="button" data-lang="en">EN</button>
+  <button type="button" data-lang="es">ES</button>
 </div>
 
 <div class="lt">
@@ -141,10 +145,62 @@ settings.
 
 </div>
 
+<div class="es">
+
+<p>
+La cuenta de MiCurioso es <strong>opcional</strong>. La aplicación funciona sin ella, y tu
+colección siempre se guarda en tu teléfono. La cuenta solo es necesaria para las funciones
+en red: compartir colecciones con amigos.
+</p>
+
+<h2>Eliminar desde la aplicación</h2>
+<p>La forma más rápida:</p>
+<div class="steps">
+  <ol>
+    <li>Abre MiCurioso</li>
+    <li>Ve a <strong>Ajustes</strong></li>
+    <li>Busca la sección <strong>Cuenta</strong></li>
+    <li>Toca <strong>Eliminar cuenta</strong> y confirma</li>
+  </ol>
+</div>
+
+<h2>Eliminar sin la aplicación</h2>
+<p>
+Si ya no tienes la aplicación, escribe desde <strong>la misma dirección de correo
+electrónico con la que iniciaste sesión</strong> a
+<a href="mailto:arvydas.turonis@gmail.com?subject=MiCurioso%20-%20delete%20account">arvydas.turonis@gmail.com</a>
+con «Delete account» en el asunto. La cuenta se elimina en un plazo de 30 días.
+</p>
+<p>
+Pedimos que la dirección coincida por una razón sencilla: de lo contrario, cualquiera
+podría pedir que se elimine la cuenta de otra persona.
+</p>
+
+<h2>Qué se elimina</h2>
+<ul>
+  <li>La cuenta y los datos de inicio de sesión (dirección de correo electrónico, nombre visible)</li>
+  <li>Todos los elementos publicados en la nube y sus miniaturas</li>
+  <li>Las conexiones de amistad</li>
+</ul>
+<p>
+La eliminación es <strong>definitiva</strong>: la cuenta no se congela ni se desactiva,
+se elimina.
+</p>
+
+<h2>Qué se conserva</h2>
+<p>
+<strong>La colección en tu teléfono queda intacta.</strong> Nunca estuvo en la nube:
+solo se suben las categorías que tú marcas expresamente como compartidas. Si también
+quieres borrar la colección de tu teléfono, desinstala la aplicación o borra sus datos
+en los ajustes de Android.
+</p>
+
+</div>
+
 <div class="footer">
-  <a href="index.html"><span class="lt">Privatumo politika</span><span class="en">Privacy policy</span></a>
+  <a href="index.html"><span class="lt">Privatumo politika</span><span class="en">Privacy policy</span><span class="es">Política de privacidad</span></a>
   &nbsp;·&nbsp;
-  <a href="news.html"><span class="lt">Naujienos ir pakeitimai</span><span class="en">News &amp; changelog</span></a>
+  <a href="news.html"><span class="lt">Naujienos ir pakeitimai</span><span class="en">News &amp; changelog</span><span class="es">Novedades y cambios</span></a>
 </div>
 
 </body>
