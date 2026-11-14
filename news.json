@@ -3,6 +3,14 @@
     "version": "0.5.1",
     "date": "2026-11-14",
     "type": "ota",
+    "lt": "Antra nuotrauka: stikliukams dabar siūloma nufotografuoti ir kitą pusę, jau įrašytam daiktui antrą pusę galima pridėti ar ištrinti, o draugai mato abi puses. Spektakliams - mygtukas „Apie spektaklį\", kuris pasiūlo aprašymą iš DI žinių (su įspėjimu, kad jį reikia patikrinti). Ir nauja kalba - ispanų.",
+    "en": "Second photo: shot glasses now offer a photo of the other side, a back photo can be added to or removed from an already saved item, and friends see both sides. Shows get an \"About show\" button that suggests a description from the AI's knowledge (with a warning to check it). And a new language - Spanish.",
+    "es": "Segunda foto: los vasos de chupito ahora ofrecen fotografiar también el otro lado, a un artículo ya guardado se le puede añadir o quitar la foto trasera, y los amigos ven ambos lados. Las obras de teatro tienen un botón «Sobre la obra» que sugiere una descripción a partir de los conocimientos de la IA (con un aviso para comprobarla). Y un nuevo idioma: el español."
+  },
+  {
+    "version": "0.5.1",
+    "date": "2026-11-14",
+    "type": "ota",
     "lt": "Draugų dalinimasis: draugo kolekcijoje miniatiūros nebedingsta ilgiau naršant, vienas per ilgas daiktas nebeužblokuoja visos kategorijos sinchronizavimo, o atšaukta kategorija nebeatsiranda debesyje po kopijos atkūrimo.",
     "en": "Sharing with friends: thumbnails in a friend's collection no longer disappear during longer browsing, one oversized item no longer blocks a whole category from syncing, and an unpublished category no longer reappears in the cloud after restoring a backup.",
     "es": "Compartir con amigos: las miniaturas de la colección de un amigo ya no desaparecen al navegar durante más tiempo, un solo artículo demasiado grande ya no impide sincronizar toda una categoría, y una categoría no publicada ya no vuelve a aparecer en la nube tras restaurar una copia de seguridad."
