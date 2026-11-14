@@ -1,6 +1,13 @@
 [
   {
     "version": "0.5.1",
+    "date": "2026-11-14",
+    "type": "ota",
+    "lt": "Patikimumo atnaujinimas: atkūrimas iš kopijos ir masinis pridėjimas nebepraranda duomenų, neteisingai įvesta kaina nebeištrinama tyliai, „Žalias\" ir „žalias\" sujungiamos į vieną žymą, nepavykus kamerai ar galerijai ekranas nebeužstringa, o skolinimų, serijų ir dublikatų sąrašai atsidaro greičiau.",
+    "en": "Reliability update: restoring a backup and bulk add no longer lose data, a mistyped price is no longer silently erased, \"Green\" and \"green\" are merged into one tag, a camera or gallery failure no longer leaves the screen stuck, and the loans, series and duplicates lists open faster."
+  },
+  {
+    "version": "0.5.1",
     "date": "2026-11-08",
     "type": "ota",
     "lt": "Statistika atsidaro gerokai greičiau didelėse knygų kolekcijose - „Populiariausių autorių\" skaičiavimas pagreitintas daugiau nei šimtą kartų.",
