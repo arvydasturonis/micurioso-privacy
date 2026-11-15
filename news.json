@@ -1,6 +1,14 @@
 [
   {
     "version": "0.5.1",
+    "date": "2026-11-15",
+    "type": "ota",
+    "lt": "Draugų kolekcijose dabar galima pamėgti daiktus - širdelė daikto ekrane. Savininkas mato, kas pamėgo (draugų vardus), o Draugų skirtuke atsirado juosta „Patinka“ su naujų pamėgimų skaičiumi. Savo daiktą galima pažymėti „Parduodu“ arba „Keičiu“ - draugai mato ženkliuką ir gali filtruoti tokius daiktus, o dėl sandorio parašo tau žinute.",
+    "en": "You can now like items in your friends' collections - a heart on the item screen. The owner sees who liked them (friends by name), and the Friends tab has a new \"Likes\" list with a count of new likes. Mark your own item \"For sale\" or \"For trade\" - friends see a badge, can filter for such items, and message you about a deal.",
+    "es": "Ahora puedes marcar con «me gusta» los artículos de las colecciones de tus amigos: un corazón en la pantalla del artículo. El propietario ve a quién le gustó (a los amigos por su nombre), y la pestaña Amigos tiene una nueva lista «Me gusta» con el número de nuevos. Marca tu propio artículo como «Lo vendo» o «Lo cambio»: tus amigos ven una etiqueta, pueden filtrar esos artículos y te escriben para acordar el trato."
+  },
+  {
+    "version": "0.5.1",
     "date": "2026-11-14",
     "type": "ota",
     "lt": "Antra nuotrauka: stikliukams dabar siūloma nufotografuoti ir kitą pusę, jau įrašytam daiktui antrą pusę galima pridėti ar ištrinti, o draugai mato abi puses. Spektakliams - mygtukas „Apie spektaklį\", kuris pasiūlo aprašymą iš DI žinių (su įspėjimu, kad jį reikia patikrinti). Ir nauja kalba - ispanų.",
