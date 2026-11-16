@@ -1,6 +1,14 @@
 [
   {
     "version": "0.5.1",
+    "date": "2026-11-16",
+    "type": "ota",
+    "lt": "Programėlę galima pradėti naudoti iškart, be Gemini rakto: pirmas paleidimas baigiasi kataloge. Raktas pasiūlomas tik tada, kai pirmą kartą prireikia DI funkcijos (atpažinimo, dovanų patikros, masinio pridėjimo), o jį įvedus grįžtama ten, kur buvai.",
+    "en": "You can start using the app right away, without a Gemini key: the first run ends in your catalog. The key is offered only when you first need an AI feature (recognition, gift check, bulk add), and after entering it you return to where you were.",
+    "es": "Puedes empezar a usar la app enseguida, sin clave de Gemini: la primera ejecución termina en tu catálogo. La clave se ofrece solo cuando necesitas por primera vez una función de IA (reconocimiento, comprobación de regalos, adición masiva), y tras introducirla vuelves a donde estabas."
+  },
+  {
+    "version": "0.5.1",
     "date": "2026-11-15",
     "type": "ota",
     "lt": "Draugų kolekcijose dabar galima pamėgti daiktus - širdelė daikto ekrane. Savininkas mato, kas pamėgo (draugų vardus), o Draugų skirtuke atsirado juosta „Patinka“ su naujų pamėgimų skaičiumi. Savo daiktą galima pažymėti „Parduodu“ arba „Keičiu“ - draugai mato ženkliuką ir gali filtruoti tokius daiktus, o dėl sandorio parašo tau žinute.",
