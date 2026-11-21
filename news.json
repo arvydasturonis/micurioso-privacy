@@ -3,6 +3,14 @@
     "version": "0.5.1",
     "date": "2026-11-21",
     "type": "ota",
+    "lt": "Statistikoje – nauja kortelė „Ar žinojai?“: trumpi faktai apie tavo kolekciją (pvz. kiek šalių turi tik po vieną daiktą, kokie seniausi ir naujausi metai, kuri šalis yra daugiausiai tavo kolekcijų). Paspaudus faktą matai daiktus, iš kurių jis apskaičiuotas. Taip pat – šalių žemėlapis su sąrašu.",
+    "en": "Statistics now has a \"Did you know?\" card: short facts about your collection (e.g. how many countries have only one item, the oldest and newest years, which country appears in most of your collections). Tap a fact to see the items behind it. Plus a map of your countries with a list.",
+    "es": "Las estadísticas tienen una nueva tarjeta «¿Sabías que?»: datos breves sobre tu colección (p. ej., cuántos países tienen un solo objeto, los años más antiguo y más reciente, qué país aparece en más colecciones). Toca un dato para ver los objetos en los que se basa. Además, un mapa de tus países con su lista."
+  },
+  {
+    "version": "0.5.1",
+    "date": "2026-11-21",
+    "type": "ota",
     "lt": "Naujas kategorijos šablonas „Puodukai“: vietovė ar motyvas, šalis, gamintojas ar serija, medžiaga ir tūris, su nuotrauka iš abiejų pusių. Jį rasi kuriant naują kategoriją.",
     "en": "New category template \"Mugs\": place or motif, country, maker or series, material and volume, with photos of both sides. You will find it when creating a new category.",
     "es": "Nueva plantilla de categoría «Tazas»: lugar o motivo, país, fabricante o serie, material y capacidad, con fotos de ambos lados. La encontrarás al crear una categoría nueva."
