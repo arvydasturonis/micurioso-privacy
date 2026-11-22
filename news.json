@@ -1,6 +1,14 @@
 [
   {
     "version": "0.5.1",
+    "date": "2026-11-22",
+    "type": "ota",
+    "lt": "Statistikos „Ar žinojai?“ kortelė daugiau pasako apie tavo kolekciją: pasikartojantys motyvai (pvz., katės) per kelias kolekcijas, mėgstamiausi autoriai, kiek ES šalių ir žemynų jau turi (su trūkstamų sąrašu), dažniausios žymos ir serijos užbaigtumas. Dalinimosi matomumas dabar pasirenkamas iš sąrašo, o nuotrauką keičiant iš kortelės atsidaro programos apkarpymo langas.",
+    "en": "The Statistics \"Did you know?\" card now tells you more about your collection: recurring motifs (e.g. cats) across collections, favourite authors, how many EU countries and continents you already have (with the missing ones listed), most used tags and series progress. Sharing visibility is now picked from a list, and replacing a photo from the item screen opens the app's own crop screen.",
+    "es": "La tarjeta «¿Sabías que?» de Estadísticas cuenta más sobre tu colección: motivos recurrentes (p. ej., gatos) entre colecciones, autores favoritos, cuántos países de la UE y continentes ya tienes (con la lista de los que faltan), etiquetas más usadas y progreso de series. La visibilidad al compartir ahora se elige de una lista, y al cambiar una foto desde la ficha se abre la pantalla de recorte de la app."
+  },
+  {
+    "version": "0.5.1",
     "date": "2026-11-21",
     "type": "ota",
     "lt": "Statistikoje – nauja kortelė „Ar žinojai?“: trumpi faktai apie tavo kolekciją (pvz. kiek šalių turi tik po vieną daiktą, kokie seniausi ir naujausi metai, kuri šalis yra daugiausiai tavo kolekcijų). Paspaudus faktą matai daiktus, iš kurių jis apskaičiuotas. Taip pat – šalių žemėlapis su sąrašu.",
